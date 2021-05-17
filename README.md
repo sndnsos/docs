@@ -1,8 +1,8 @@
 ---
-description: Hi~
+description: This could help save my personal docs!
 ---
 
-# Initial Page
+# Initial Page of snowy\_smile's space
 
-This could save my personal docs!
+![](.gitbook/assets/i-am-a-happy-programmer.gif)
 

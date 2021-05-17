@@ -1,8 +1,8 @@
 ---
-description: o_O
+description: Hi~
 ---
 
-# Initial page
+# Initial Page
 
 This could save my personal docs!
 

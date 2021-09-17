@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial Page of snowy\_smile's space - Test](README.md)
+* [snowy\_smile's docs ~](README.md)
 
 ## Film
 

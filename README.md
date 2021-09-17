@@ -1,10 +1,8 @@
 ---
-description: >-
-  This could help save my personal docs! Wow~ I can also change it directly in
-  Github!
+description: I am here studying and recording!
 ---
 
-# Initial Page of snowy\_smile's space - Test
+# snowy\_smile's docs ~
 
 ![](.gitbook/assets/pexels-chelsea-tey-706976.jpg)
 

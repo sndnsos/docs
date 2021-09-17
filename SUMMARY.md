@@ -5,9 +5,9 @@
 
 ## Film
 
-* [Film I watched recentlyyyyyy~~](film/film-i-watched-recently123.md)
+* [Films I watched recent](film/recently.md)
 
 ## Game
 
-* [Game I played recently](game/game-i-played-recently.md)
+* [Games I played recently](game/recently.md)
 

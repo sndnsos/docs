@@ -2,13 +2,17 @@
 
 * [snowy\_smile's docs ~](README.md)
 
-## Film
-
-* [Films I watched recent](film/recently.md)
-
 ## Game
 
 * [Games I played recently](game/recently.md)
+
+## Music
+
+* [Music I like](music/music-i-like.md)
+
+## Film
+
+* [Films I watched recent](film/recently.md)
 
 ## Japanese 日本語
 

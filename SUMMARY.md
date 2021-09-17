@@ -4,6 +4,7 @@
 
 ## Game
 
+* [Games I like](game/games-i-like.md)
 * [Games I played recently](game/recently.md)
 
 ## Music
@@ -12,6 +13,7 @@
 
 ## Film
 
+* [Films I like](film/films-i-like.md)
 * [Films I watched recent](film/recently.md)
 
 ## Japanese 日本語

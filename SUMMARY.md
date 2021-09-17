@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Initial Page of snowy\_smile's space - Test](README.md)
-* [TEST NEW PAGE](test-new-page.md)
 
 ## Film
 
@@ -10,4 +9,8 @@
 ## Game
 
 * [Games I played recently](game/recently.md)
+
+## Japanese 日本語
+
+* [Numbers 数 かず](japanese-ri-ben-yu/test-new-page.md)
 

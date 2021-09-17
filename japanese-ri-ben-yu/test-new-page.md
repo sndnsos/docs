@@ -1,6 +1,6 @@
-# TEST NEW PAGE
+# Numbers 数 かず
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 | Number | ひらがな |
 | :--- | :--- |

@@ -1,14 +1,14 @@
 # Music I like
 
-English Songs
+## English Songs
 
 
 
-Japanese Songs
+## Japanese Songs
 
 
 
-Chinese Songs
+## Chinese Songs
 
 
 

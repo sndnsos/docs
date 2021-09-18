@@ -16,12 +16,12 @@
 * [Films I like](film/films-i-like.md)
 * [Films I watched recently](film/recently.md)
 
-## Japanese 日本語
-
-* [Numbers 数 かず](japanese-ri-ben-yu/test-new-page.md)
-
 ## TV SHOW
 
 * [TV Shows I like](tv-show/tv-shows-i-like.md)
 * [TV Shows I watched recently](tv-show/recently.md)
+
+## Japanese 日本語
+
+* [Numbers 数 かず](japanese-ri-ben-yu/test-new-page.md)
 

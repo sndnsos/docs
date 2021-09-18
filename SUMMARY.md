@@ -18,12 +18,8 @@
 
 ## BOOK
 
-## TV SHOW
-
-* [Books I like](tv-show/books-i-like.md)
-* [TV Shows I like](tv-show/tv-shows-i-like.md)
-* [Books I read recently](tv-show/recently.md)
-* [TV Shows I watched recently](tv-show/recently-1.md)
+* [Books I like](book/books-i-like.md)
+* [Books I read recently](book/recently.md)
 
 ## TV SHOW <a id="tv-show-1"></a>
 

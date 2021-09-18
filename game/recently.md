@@ -1,4 +1,4 @@
 # Games I played recently
 
-Life is Strange: True Colors
+### Life is Strange: True Colors
 

@@ -1,16 +1,4 @@
-# TV Shows I watched recently
+# Books I read recently
 
-## Anime
-
-### Rick and Morty
-
-### South Park
-
-## Live
-
-### Dream of the Red Chamber
-
-### Money Heist
-
-
+### 1984
 

@@ -1,4 +1,4 @@
-# Films I watched recent
+# Films I watched recently
 
 Into the Wild
 

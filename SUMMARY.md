@@ -21,10 +21,10 @@
 * [Books I like](book/books-i-like.md)
 * [Books I read recently](book/recently.md)
 
-## TV SHOW <a id="tv-show-1"></a>
+## TV SHOW
 
-* [TV Shows I like](tv-show-1/tv-shows-i-like.md)
-* [TV Shows I watched recently](tv-show-1/recently.md)
+* [TV Shows I like](tv-show/tv-shows-i-like.md)
+* [TV Shows I watched recently](tv-show/recently.md)
 
 ## Japanese 日本語 <a id="japanese"></a>
 

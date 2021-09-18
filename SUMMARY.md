@@ -30,3 +30,7 @@
 
 * [Numbers 数 かず](japanese/numbers-kazu.md)
 
+## Alive
+
+* [Journal](alive/journal.md)
+

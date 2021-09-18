@@ -2,7 +2,9 @@
 
 ## Anime
 
+### Rick and Morty
 
+### South Park
 
 ## Live
 

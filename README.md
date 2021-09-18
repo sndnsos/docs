@@ -14,7 +14,7 @@ Life\_Experience
 
 |  |  |  |  |
 | :---: | :---: | :---: | :---: |
-| YouTube | Twitter | Instagram | Blogspot |
+| [YouTube](https://www.youtube.com/channel/UCnZ9WRsfCsoDJrXbhDIg7kA) | Twitter | Instagram | Blogspot |
 | WordPress | Hugo | Discord | Telegram |
 
 ## Universe

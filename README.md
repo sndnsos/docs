@@ -14,7 +14,7 @@ Life\_Experience
 
 |  |  |  |  |
 | :---: | :---: | :---: | :---: |
-| [YouTube](https://www.youtube.com/channel/UCnZ9WRsfCsoDJrXbhDIg7kA) | Twitter | Instagram | Blogspot |
+| [YouTube](https://www.youtube.com/channel/UCnZ9WRsfCsoDJrXbhDIg7kA) | [Twitter](https://twitter.com/snowy_smile_) | Instagram | Blogspot |
 | WordPress | Hugo | Discord | Telegram |
 
 ## Universe

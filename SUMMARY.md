@@ -29,6 +29,7 @@
 ## Japanese 日本語 <a id="japanese"></a>
 
 * [Numbers 数 かず](japanese/numbers-kazu.md)
+* [Songs 日本歌](japanese/songs-ri-ben-ge.md)
 
 ## Alive
 

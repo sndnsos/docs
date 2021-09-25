@@ -35,3 +35,7 @@
 
 * [Journal](alive/journal.md)
 
+## World
+
+* [Virus](world/virus.md)
+

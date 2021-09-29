@@ -15,6 +15,8 @@
 I like to see people have beautiful lives especially with each other.  
 I miss the feeling of love. I wish I could have it.
 
+> Once you start lying, it's very hard to stop...
+>
 > I hope only love and happiness will remain.
 
 ### Liar Game 

@@ -10,7 +10,12 @@
 
 ### Sex Education 
 
-I hope only love and happiness will remain.
+-- I don't know why I cried many times on this show.  
+-- No, I know.  
+I like to see people have beautiful lives especially with each other.  
+I miss the feeling of love. I wish I could have it.
+
+> I hope only love and happiness will remain.
 
 ### Liar Game 
 

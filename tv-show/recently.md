@@ -1,6 +1,8 @@
 # TV Shows I watched recently
 
-## Anime
+## Cartoon
+
+### Arcana
 
 ### Rick and Morty
 
@@ -8,18 +10,18 @@
 
 ## Live
 
-### Sex Education 
+### Sex Education&#x20;
 
--- I don't know why I cried many times on this show.  
--- No, I know.  
-I like to see people have beautiful lives especially with each other.  
+\-- I don't know why I cried many times on this show.\
+\-- No, I know.\
+I like to see people have beautiful lives especially with each other.\
 I miss the feeling of love. I wish I could have it.
 
 > Once you start lying, it's very hard to stop...
 >
 > I hope only love and happiness will remain.
 
-### Liar Game 
+### Liar Game&#x20;
 
 ### Girl from Nowhere
 
@@ -30,4 +32,3 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 ### Dream of the Red Chamber
 
 ### Money Heist
-

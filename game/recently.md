@@ -1,5 +1,9 @@
 # Games I played recently
 
+### Age of Empires IV
+
+### New World(MMO)
+
 ### Titan Quest
 
 ### Kingdom Rush: Frontiers
@@ -11,9 +15,9 @@
 
 ### Life is Strange: True Colors
 
-### This is the Police 
+### This is the Police&#x20;
 
-### Dota2 \(Defense of the Ancients\)
+### Dota2 (Defense of the Ancients)
 
 My favorite heroes are still tinker and techies in this game.
 
@@ -88,6 +92,4 @@ My favorite heroes are still tinker and techies in this game.
 * **ARK: Survivel Evolved（方舟：進化生存）**
 * **Fall Guys（糖豆人）**
 * **The Legend of Sword and Fairy（仙剑奇侠传）**
-
-
 

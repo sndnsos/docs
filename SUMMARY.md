@@ -31,7 +31,7 @@
 * [Anime I like](anime/anime-i-like.md)
 * [Anime I watched recently](anime/anime-i-watched-recently.md)
 
-## Japanese 日本語 <a href="japanese" id="japanese"></a>
+## Japanese 日本語 <a href="#japanese" id="japanese"></a>
 
 * [Numbers 数 かず](japanese/numbers-kazu.md)
 * [Songs 日本歌](japanese/songs-ri-ben-ge.md)
@@ -39,6 +39,7 @@
 ## Alive
 
 * [Journal](alive/journal.md)
+* [Life Story](alive/life-story.md)
 
 ## World
 

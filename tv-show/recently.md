@@ -10,6 +10,16 @@
 
 ## Live
 
+### Black Mirror | 黑鏡 | ブラック・ミラー <a href="#firstheading" id="firstheading"></a>
+
+### Unnatural | 非自然死亡 | アンナチュラル <a href="#firstheading" id="firstheading"></a>
+
+### My Name <a href="#firstheading" id="firstheading"></a>
+
+### Prison Playbook&#x20;
+
+### Itaewon Class 梨泰院クラス
+
 ### Sex Education&#x20;
 
 \-- I don't know why I cried many times on this show.\

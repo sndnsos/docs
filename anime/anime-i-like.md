@@ -4,19 +4,21 @@ description: Japanese Anime
 
 # Anime I like
 
-## 番組　ばんぐみ <a href="firstheading" id="firstheading"></a>
+## 番組　ばんぐみ <a href="#firstheading" id="firstheading"></a>
 
-### Gintama 銀魂 ぎんたま
+### Gintama | 銀魂 | ぎんたま
 
-### One Piece **海賊王 **ワンピース
+### One Piece | **海賊王 |** ワンピース
 
-### Oruchuban Ebichu 倉鼠管家 おるちゅばんエビちゅ
+### Oruchuban Ebichu | 倉鼠管家 | おるちゅばんエビちゅ
 
-### Anohana 未聞花名 あの花
+### Anohana | 未聞花名 | あの花
 
 あの日見た花の名前を僕達はまだ知らない
 
-### Sword Art Online 刀劍神域 ソードアート・オンライン
+### Sword Art Online | 刀劍神域 | ソードアート・オンライン
+
+### Code Geass | 反叛的魯路修 | コードギアス 反逆のルルーシュ
 
 
 

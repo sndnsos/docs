@@ -42,3 +42,6 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 ### Dream of the Red Chamber
 
 ### Money Heist
+
+### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス <a href="#firstheading" id="firstheading"></a>
+

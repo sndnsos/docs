@@ -10,6 +10,7 @@
 ## Music
 
 * [Music I like](music/music-i-like.md)
+* [Songs 日本歌](music/songs-ri-ben-ge.md)
 
 ## BOOK
 
@@ -33,8 +34,8 @@
 
 ## Japanese 日本語 <a href="#japanese" id="japanese"></a>
 
+* [Japanese Basic Characters](japanese/japanese-basic-characters.md)
 * [Numbers 数 かず](japanese/numbers-kazu.md)
-* [Songs 日本歌](japanese/songs-ri-ben-ge.md)
 
 ## Alive
 

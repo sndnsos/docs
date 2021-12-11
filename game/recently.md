@@ -24,6 +24,10 @@ description: Newer content is on top.
 
 ### Road 96（九十六號公路）
 
+### Risk of Rain 2（雨中冒险2）
+
+### Muck
+
 ### It Takes Two（雙人成行）
 
 ### Grand Theft Auto V （俠盜獵車手）
@@ -36,14 +40,16 @@ My favorite heroes are still tinker and techies in this game.
 
 ### **Fall Guys（糖豆人）**
 
-### **ARK: Survivel Evolved（方舟：進化生存）**
+### **ARK: Survivel Evolved（**方舟：進化生存）
 
 ## Lifetime Played Games \[ - 2018 ]
 
 * ****
 * **Detroit: Become Human（底特律：變人）**
+* **The Legend of Zelda: Breath of the Wild（薩爾達傳說：曠野之息）**
 * **Divinity: Original Sin II（神界：原罪2）**
 * **The Witcher 3: Wild Hunt（巫师3：狂猎）**
+* **Human: Fall Flat（人類：一敗塗地）**
 * **The Wolf Among Us（我們中的一隻狼）**
 * **The Scroll Of Taiwu（太吾繪卷）**
 * **Chinese Parents（中國式家長）**
@@ -52,16 +58,14 @@ My favorite heroes are still tinker and techies in this game.
 * **Getting Over It With Bennett Foddy（和班尼特福迪一起攻克難關）**
 * **Hobo: Tough Life（乞丐模擬器）**
 * **Life is Strange（奇異人生）**
-* **The Legend of Zelda: Breath of the Wild（薩爾達傳說：曠野之息）**
 * **Journey（風之旅人）**
 * **Borderlands 3（無主之地3 ）**
-* **Rayman Legends（雷曼 傳奇）**
-* **Human: Fall Flat（人類：一敗塗地）**
 * **This War of Mine（這是我的戰爭）**
 * **Dead by Daylight（黎明殺機）**
 * **The War of Heros（英雄殺）**
 * **OverCooked（煮糊了）**
 * **South Park: The Stick of Truth（南方公園：真理之杖）**
+* **Rayman Legends（雷曼 傳奇）**
 * **Danganronpa（彈丸論破系列）**
 * **Lost Castle（失落城堡）**
 * **Terraria（泰拉利亞）**

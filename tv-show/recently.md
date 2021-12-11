@@ -4,13 +4,17 @@ description: Newer content is on top.
 
 # TV Shows I watched recently
 
-## Cartoon
+## Cartoon (Western Style)
 
-### Arcana
+### Arcana | **奧術 |** アーケイン
 
-### Rick and Morty
+### The Simpsons | 辛普森家庭 | ザ・シンプソンズ
 
-### South Park
+### Rick and Morty | 瑞克和莫蒂 | リック・アンド・モーティ
+
+### South Park | 南方公園 | サウスパーク
+
+
 
 ## Live
 
@@ -18,13 +22,13 @@ description: Newer content is on top.
 
 ### Unnatural | 非自然死亡 | アンナチュラル <a href="#firstheading" id="firstheading"></a>
 
-### My Name <a href="#firstheading" id="firstheading"></a>
+### My Name | 以吾之名 | マイネーム: 偽りと復讐 <a href="#firstheading" id="firstheading"></a>
 
-### Prison Playbook&#x20;
+### Prison Playbook | 機智牢房生活 | 刑務所のルールブック
 
-### Itaewon Class 梨泰院クラス
+### Itaewon Class | 梨泰院Class | 梨泰院クラス
 
-### Sex Education&#x20;
+### Sex Education | 性教育 | セックス・エデュケーション
 
 \-- I don't know why I cried many times on this show.\
 \-- No, I know.\
@@ -35,17 +39,22 @@ I miss the feeling of love. I wish I could have it.
 >
 > I hope only love and happiness will remain.
 
-### Liar Game&#x20;
+### Liar Game | **詐欺遊戲** | ライアーゲーム
 
-### Girl from Nowhere
+### Girl from Nowhere | 轉學來的女生
 
 This TV series may seem absurd but it's so real. There are both good and evil in humanity. Even a small lie can grow to be a nightmare.
 
-### Squid Game
+### Squid Game | 魷魚遊戲 | イカゲーム
 
-### Dream of the Red Chamber
+### Dream of the Red Chamber | 紅樓夢 | 紅楼夢
 
-### Money Heist
+### Money Heist | 紙房子 | ペーパー・ハウス
 
 ### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス <a href="#firstheading" id="firstheading"></a>
 
+### Game of Thrones | 權力的遊戲 | ゲーム・オブ・スローンズ
+
+### Heroes | 超異能英雄 | ヒーローズ
+
+### Prison Break | 越獄 | プリズン・ブレイク

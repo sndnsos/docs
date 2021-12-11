@@ -1,6 +1,6 @@
 # Games I like
 
-## \[2019 - 2022]
+## \[ 2019 - 2021 ]
 
 ### Portal 2 \[95/100]
 
@@ -39,7 +39,7 @@ It's nice to have a company and to build a lovely world.
 
 
 
-## \[ - 2018]
+## \[ - 2018 ]
 
 ### **The Legend of Zelda: Breath of the Wild（薩爾達傳說：曠野之息）\[99/100]**
 

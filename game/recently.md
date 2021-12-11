@@ -4,7 +4,7 @@ description: Newer content is on top.
 
 # Games I played recently
 
-## \[ 2019 - 2022 ]
+## \[ 2019 - 2021 ]
 
 ### Portal 2（傳送門2）
 
@@ -42,7 +42,7 @@ My favorite heroes are still tinker and techies in this game.
 
 ### **ARK: Survivel Evolved（**方舟：進化生存）
 
-## Lifetime Played Games \[ - 2018 ]
+## \[ - 2018 ] Lifetime Played Games
 
 * ****
 * **Detroit: Become Human（底特律：變人）**

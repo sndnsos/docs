@@ -2,11 +2,13 @@
 
 ## Cartoon
 
-### Arcana
+### Arcana | **奧術 |** アーケイン
 
-### Rick and Morty
+### The Simpsons | 辛普森家庭 | ザ・シンプソンズ
 
-### South Park
+### Rick and Morty | 瑞克和莫蒂 | リック・アンド・モーティ
+
+### South Park | 南方公園 | サウスパーク
 
 ## Live
 
@@ -14,5 +16,9 @@
 
 ### Unnatural | 非自然死亡 | アンナチュラル <a href="#firstheading" id="firstheading"></a>
 
-&#x20;
+### Sex Education | 性教育 | セックス・エデュケーション
+
+### Heroes | 超異能英雄 | ヒーローズ
+
+### Prison Break | 越獄 | プリズン・ブレイク
 

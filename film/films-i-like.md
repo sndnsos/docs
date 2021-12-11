@@ -1,5 +1,9 @@
 # Films I like
 
-### Into the Wild
+### Into the Wild（荒野生存）
 
-Happinnes is only real when shared
+Happinees is only real when shared
+
+### Devils on the Doorstep（鬼子來了）\[2000]
+
+〖鬼が来た〗

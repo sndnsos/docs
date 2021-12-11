@@ -39,6 +39,8 @@ I miss the feeling of love. I wish I could have it.
 >
 > I hope only love and happiness will remain.
 
+### How to Become a Tyrant | 暴君養成指引
+
 ### Liar Game | **詐欺遊戲** | ライアーゲーム
 
 ### Girl from Nowhere | 轉學來的女生
@@ -52,6 +54,8 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 ### Money Heist | 紙房子 | ペーパー・ハウス
 
 ### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス <a href="#firstheading" id="firstheading"></a>
+
+### Breaking Bad | 絕命毒師 | ブレイキング・バッド
 
 ### Game of Thrones | 權力的遊戲 | ゲーム・オブ・スローンズ
 

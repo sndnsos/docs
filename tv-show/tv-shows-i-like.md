@@ -18,6 +18,10 @@
 
 ### Sex Education | 性教育 | セックス・エデュケーション
 
+### How to Become a Tyrant | 暴君養成指引
+
+### Breaking Bad | 絕命毒師 | ブレイキング・バッド
+
 ### Heroes | 超異能英雄 | ヒーローズ
 
 ### Prison Break | 越獄 | プリズン・ブレイク

@@ -12,9 +12,17 @@
 
 ## Live
 
+### The World Between Us | 我們與惡的距離 | 悪との距離
+
+> 到底什麼是好人，什麼是壞人，你有標準答案嗎？誰有標準答案？
+
 ### Black Mirror | 黑鏡 | ブラック・ミラー <a href="#firstheading" id="firstheading"></a>
 
 ### Unnatural | 非自然死亡 | アンナチュラル <a href="#firstheading" id="firstheading"></a>
+
+> **あったことを無かったことにする。そんな大人の姿を見せられたら、子供は石を投げるしかないですよ。\[**[**link**](https://www.underwater-festival.com/ed00008/)**]**
+
+If the adults don't care about the facts and don't choose to avoid evil doings, how could the children feel and grow up?
 
 ### Sex Education | 性教育 | セックス・エデュケーション
 

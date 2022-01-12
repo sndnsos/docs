@@ -6,6 +6,8 @@ description: Newer content is on top.
 
 ## Cartoon (Western Style)
 
+### Bojack Horseman | 馬男波傑克 | ボージャック・ホースマン
+
 ### Arcana | **奧術 |** アーケイン
 
 ### The Simpsons | 辛普森家庭 | ザ・シンプソンズ

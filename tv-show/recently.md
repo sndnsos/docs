@@ -6,6 +6,8 @@ description: Newer content is on top.
 
 ## Cartoon (Western Style)
 
+### **Love, Death & Robots** ❤️❌🤖 **| 愛，死亡，和機器人 |** ラブ、デス&ロボット
+
 ### Bojack Horseman | 馬男波傑克 | ボージャック・ホースマン
 
 ### Arcana | **奧術 |** アーケイン

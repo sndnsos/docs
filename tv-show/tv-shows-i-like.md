@@ -28,6 +28,8 @@
 
 If the adults don't care about the facts and don't choose to avoid evil doings, how could the children feel and grow up?
 
+UDIが7K（危険・汚い・きつい・規則が厳しい・休暇がとれない・化粧がのらない・結婚できない）の最悪な職場環境であることが強調されるのです。　ＸＤ
+
 ### Sex Education | 性教育 | セックス・エデュケーション
 
 ### How to Become a Tyrant | 暴君養成指引

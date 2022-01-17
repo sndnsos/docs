@@ -4,6 +4,8 @@ description: Japanese Anime
 
 # Anime I watched recently
 
+### JoJo's Bizarre Adventure | ジョジョの奇妙な冒険 | JoJo的奇妙冒險 <a href="#firstheading" id="firstheading"></a>
+
 ### Jujutsu Kaisen | 咒術迴戰 | 呪術廻戦&#x20;
 
 〖じゅじゅつ かいせん〗

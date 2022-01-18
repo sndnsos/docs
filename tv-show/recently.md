@@ -14,6 +14,8 @@ description: Newer content is on top.
 
 ### Dota: Dragon's Blood | 龙之血
 
+Book 1
+
 ### The Simpsons | 辛普森家庭 | ザ・シンプソンズ
 
 ### Rick and Morty | 瑞克和莫蒂 | リック・アンド・モーティ

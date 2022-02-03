@@ -6,6 +6,10 @@ description: Japanese Anime
 
 ### JoJo's Bizarre Adventure | ジョジョの奇妙な冒険 | JoJo的奇妙冒險 <a href="#firstheading" id="firstheading"></a>
 
+### Inside Job | 陰謀辦公室 | **陰謀論のお仕事**
+
+〖**いんぼうろん**のオシゴト〗
+
 ### Jujutsu Kaisen | 咒術迴戰 | 呪術廻戦&#x20;
 
 〖じゅじゅつ かいせん〗

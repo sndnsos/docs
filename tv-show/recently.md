@@ -26,6 +26,8 @@ Book 1
 
 ## Live
 
+### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
+
 ### You (1-3 Seasons) <a href="#firstheading" id="firstheading"></a>
 
 ### The World Between Us | 我們與惡的距離 | 悪との距離 <a href="#firstheading" id="firstheading"></a>

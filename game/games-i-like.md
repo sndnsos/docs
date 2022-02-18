@@ -2,15 +2,17 @@
 
 ## \[ 2019 - 2021 ]
 
+### To the Moon \[95/100]
+
 ### Portal 2 \[95/100]
 
 It's a fancy trip solving puzzles with my friends.
 
-### LOST JUDGMENT 裁かれざる記憶 \[95/100]
+### LOST JUDGMENT 裁かれざる記憶 \[94/100]
 
 The story is attractive. And the street view is so like Japan.
 
-### Kingdom Rush Frontiers \[94/100]
+### Kingdom Rush Frontiers \[93/100]
 
 Maybe it is the best Tower Defense game so far. It's challenging to finish all levels with 3 stars.
 

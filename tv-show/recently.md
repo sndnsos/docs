@@ -26,6 +26,8 @@ Book 1
 
 ## Live
 
+### All of Us Are Dead | 殭屍校園 | 今、私たちの学校は… <a href="#firstheading" id="firstheading"></a>
+
 ### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
 
 ### You (1-3 Seasons) <a href="#firstheading" id="firstheading"></a>

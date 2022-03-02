@@ -46,7 +46,11 @@ description: The list order "might be close" to the first time I watch the films
 
 ### La La Land（愛樂之城）\[2016]
 
-&#x20;1{
+『ラ・ラ・ランド』
+
+### Zootopia（瘋狂動物城）\[2016]
+
+『ズートピア』
 
 ### 3 Idiots （三個傻瓜）\[2009] <a href="#firstheading" id="firstheading"></a>
 

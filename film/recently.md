@@ -88,6 +88,10 @@ description: Newer content is on top.
 
 〖Vフォー・ヴェンデッタ〗
 
+### Manchester by the Sea（海邊的曼徹斯特）\[2016]
+
+『マンチェスター・バイ・ザ・シー』
+
 ### Gone with the Light（被光抓走的人）\[2019]
 
 ## \[ - 2018 ]

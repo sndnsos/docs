@@ -108,6 +108,10 @@ description: The list order "might be close" to the first time I watch the films
 
 『クラウド アトラス』
 
+### King of Comedy（喜劇之王）\[1999]
+
+『喜劇王』Kigeki-ō
+
 ### The Truman Show（楚門的世界）\[1998]
 
 『トゥルーマン・ショー』

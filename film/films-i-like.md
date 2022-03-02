@@ -12,7 +12,7 @@ description: The list order "might be close" to the first time I watch the films
 
 〖イントゥ・ザ・ワイルド〗
 
-Happiness is only real when shared
+> Happiness is only real when shared
 
 ### Les Misérables（悲慘世界）\[2012]
 
@@ -34,6 +34,12 @@ Happiness is only real when shared
 
 〖薬の神じゃない〗
 
+### Life Is Beautiful（美麗人生）
+
+『ライフ・イズ・ビューティフル』
+
+『La vita è bella』
+
 ### Inception（盜夢空間）\[2010]
 
 『インセプション』
@@ -46,7 +52,7 @@ Happiness is only real when shared
 * The Matrix Reloaded - 2003
 * The Matrix Revolutions - 2003
 
-### &#x20;Farewell My Concubine（霸王別姬）\[1993]
+### Farewell My Concubine（霸王別姬）\[1993]
 
 〖さらば、わが愛〗
 

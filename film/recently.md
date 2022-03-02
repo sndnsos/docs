@@ -14,11 +14,11 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ]
 
-### Cruella 時尚惡女：庫伊拉 \[2021]
+### Cruella（時尚惡女：庫伊拉）\[2021]
 
 『クルエラ』
 
-### Blind Mountain 盲山 \[2007]
+### Blind Mountain（盲山）\[2007]
 
 ### Don't Look Up（不要擡頭）\[2021]
 

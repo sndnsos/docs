@@ -1,3 +1,7 @@
+---
+description: The list order "might be close" to the first time I watch the films.
+---
+
 # Films I like
 
 ### Don't Look Up（不要擡頭）\[2021]
@@ -30,7 +34,19 @@ Happiness is only real when shared
 
 〖薬の神じゃない〗
 
-### Farewell My Concubine（霸王別姬）\[1993]
+### Inception（盜夢空間）\[2010]
+
+『インセプション』
+
+### The Matrix（黑客帝國 | 駭客任務）\[1999-2003]
+
+『マトリックス』
+
+* The Matrix - 1999
+* The Matrix Reloaded - 2003
+* The Matrix Revolutions - 2003
+
+### &#x20;Farewell My Concubine（霸王別姬）\[1993]
 
 〖さらば、わが愛〗
 
@@ -53,3 +69,23 @@ Happiness is only real when shared
 * The Fellowship of the Ring - 2001
 * The Two Towers - 2002
 * The Return of the King - 2003
+
+### Cloud Atlas（雲圖）\[2012] ★
+
+『クラウド アトラス』
+
+### The Truman Show（楚門的世界）\[1998]
+
+『トゥルーマン・ショー』
+
+### Fight Club（**搏擊俱樂部）\[1999]**
+
+『ファイト・クラブ』
+
+### The Shawshank Redemption（肖申克的救贖）\[1994]
+
+『ショーシャンクの空に』
+
+### Forrest Gump（阿甘正傳）\[1994]
+
+『フォレスト・ガンプ』

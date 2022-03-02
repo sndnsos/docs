@@ -14,6 +14,10 @@ description: The list order "might be close" to the first time I watch the films
 
 > Happiness is only real when shared
 
+### Little Forest（小森林）\[2014-2015] <a href="#firstheading" id="firstheading"></a>
+
+『リトル・フォレスト』
+
 ### Les Misérables（悲慘世界）\[2012]
 
 〖レ・ミゼラブル〗
@@ -44,6 +48,10 @@ description: The list order "might be close" to the first time I watch the films
 
 『レディ・プレイヤー1』
 
+### It's a Wonderful Life（**生活多美好**）\[1946]
+
+『素晴らしき哉、人生!』
+
 ### La La Land（愛樂之城）\[2016]
 
 『ラ・ラ・ランド』
@@ -52,13 +60,17 @@ description: The list order "might be close" to the first time I watch the films
 
 『ズートピア』
 
+### Inception（盜夢空間）\[2010]
+
+『インセプション』
+
 ### 3 Idiots （三個傻瓜）\[2009] <a href="#firstheading" id="firstheading"></a>
 
 『きっと、うまくいく』
 
-### Inception（盜夢空間）\[2010]
+### Lock, Stock and Two Smoking Barrels（兩桿大煙槍）\[1998]
 
-『インセプション』
+『ロック、ストック&トゥー・スモーキング・バレルズ』
 
 ### The Matrix（黑客帝國 | 駭客任務）\[1999-2003]
 

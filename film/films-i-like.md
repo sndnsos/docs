@@ -60,6 +60,10 @@ description: The list order "might be close" to the first time I watch the films
 
 『ズートピア』
 
+### Cloud Atlas（雲圖）\[2012] ★
+
+『クラウド アトラス』
+
 ### Inception（盜夢空間）\[2010]
 
 『インセプション』
@@ -103,10 +107,6 @@ description: The list order "might be close" to the first time I watch the films
 * The Fellowship of the Ring - 2001
 * The Two Towers - 2002
 * The Return of the King - 2003
-
-### Cloud Atlas（雲圖）\[2012] ★
-
-『クラウド アトラス』
 
 ### King of Comedy（喜劇之王）\[1999]
 

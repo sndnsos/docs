@@ -34,11 +34,23 @@ description: The list order "might be close" to the first time I watch the films
 
 〖薬の神じゃない〗
 
-### Life Is Beautiful（美麗人生）
+### Life Is Beautiful（美麗人生）\[1997]
 
 『ライフ・イズ・ビューティフル』
 
 『La vita è bella』
+
+### Ready Player One（頭號玩家）\[2018]
+
+『レディ・プレイヤー1』
+
+### La La Land（愛樂之城）\[2016]
+
+&#x20;1{
+
+### 3 Idiots （三個傻瓜）\[2009] <a href="#firstheading" id="firstheading"></a>
+
+『きっと、うまくいく』
 
 ### Inception（盜夢空間）\[2010]
 

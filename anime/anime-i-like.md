@@ -6,6 +6,8 @@ description: Japanese Anime
 
 ## 番組　ばんぐみ <a href="#firstheading" id="firstheading"></a>
 
+### Demon Slayer: Kimetsu no Yaiba | 貴滅之刃 | 鬼滅の刃おにめつのは&#x20;
+
 ### Gintama | 銀魂 | ぎんたま
 
 ### One Piece | **海賊王 |** ワンピース

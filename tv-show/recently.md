@@ -6,6 +6,10 @@ description: Newer content is on top.
 
 ## Cartoon (Western Style)
 
+### Inside Job | 陰謀辦公室 | **陰謀論のお仕事**
+
+〖**いんぼうろん**のオシゴト〗
+
 ### **Love, Death & Robots** ❤️❌🤖 **| 愛，死亡，和機器人 |** ラブ、デス&ロボット
 
 ### Bojack Horseman | 馬男波傑克 | ボージャック・ホースマン

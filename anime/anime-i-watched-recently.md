@@ -10,7 +10,7 @@ description: Japanese Anime
 
 〖じゅじゅつ かいせん〗
 
-### Demon Slayer: Kimetsu no Yaiba | 貴滅之刃 | 鬼滅の刃
+### Demon Slayer: Kimetsu no Yaiba | 鬼滅之刃 | 鬼滅の刃
 
 〖きめつのやいば〗
 

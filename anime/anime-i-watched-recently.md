@@ -4,15 +4,17 @@ description: Japanese Anime
 
 # Anime I watched recently
 
-### JoJo's Bizarre Adventure | ジョジョの奇妙な冒険 | JoJo的奇妙冒險 <a href="#firstheading" id="firstheading"></a>
+### JoJo's Bizarre Adventure | JoJo的奇妙冒險 | ジョジョの奇妙な冒険 <a href="#firstheading" id="firstheading"></a>
 
 ### Jujutsu Kaisen | 咒術迴戰 | 呪術廻戦&#x20;
 
 〖じゅじゅつ かいせん〗
 
-### Demon Slayer: Kimetsu no Yaiba | 鬼滅の刃
+### Demon Slayer: Kimetsu no Yaiba | 貴滅之刃 | 鬼滅の刃
 
 〖きめつのやいば〗
+
+### My Hero Academia | 我的英雄學院 | 僕のヒーローアカデミア
 
 ### Detective Conan | 名偵探柯南 | 名探偵コナン
 

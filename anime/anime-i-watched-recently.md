@@ -29,3 +29,5 @@ description: Japanese Anime
 Re:ゼロから始める異世界生活 | Re：從零開始的異世界生活
 
 ### JAPAN SINKS: 2020 | 日本沈沒 2020 | 日本沈没2020 <a href="#firstheading" id="firstheading"></a>
+
+### One Piece | **海賊王 |** ワンピース

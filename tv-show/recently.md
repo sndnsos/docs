@@ -77,6 +77,14 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 
 ### Breaking Bad | 絕命毒師 | ブレイキング・バッド
 
+### Kodoku no Gourmet | 孤獨的美食家 | 孤独のグルメ |&#x20;
+
+『こどくのぐるめ』
+
+### Midnight Diner | 深夜食堂 | 深夜食堂
+
+『しんやしょくどう』
+
 ### Game of Thrones | 權力的遊戲 | ゲーム・オブ・スローンズ
 
 ### Heroes | 超異能英雄 | ヒーローズ

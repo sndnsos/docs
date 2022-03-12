@@ -113,6 +113,8 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 
 ### Game of Thrones | 權力的遊戲 | ゲーム・オブ・スローンズ
 
+### 24 | 反恐24小時 | 24 -TWENTY FOUR
+
 ### Heroes | 超異能英雄 | ヒーローズ
 
 ### Prison Break | 越獄 | プリズン・ブレイク

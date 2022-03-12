@@ -1,5 +1,5 @@
 ---
-description: About Bloody History of China
+description: About History of China
 ---
 
 # Serious Books

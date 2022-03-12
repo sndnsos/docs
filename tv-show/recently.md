@@ -4,6 +4,28 @@ description: Newer content is on top.
 
 # TV Shows I watched recently
 
+## \[TO Watch]
+
+### Saka no Ue no Kumo 坂上之雲 坂の上の雲&#x20;
+
+『さかのうえのくも』
+
+### Shiroi kyotô 白色巨塔 白い巨塔
+
+『しろいきょとう』
+
+### From the Northern Country 來自北國 北の国から <a href="#firstheading" id="firstheading"></a>
+
+『きたのくにから』
+
+### Tokyo Love Story 東京愛情故事 東京ラブストーリー  <a href="#firstheading" id="firstheading"></a>
+
+### Dragon Zakura 東大特訓班 ドラゴン桜
+
+### Doctor-X: Surgeon Michiko Daimon 派遣女醫X ドクターX〜外科医・大門未知子 <a href="#firstheading" id="firstheading"></a>
+
+『ドクター-エックス げかい・だいもんみちこ』
+
 ## Cartoon (Western Style)
 
 ### Inside Job | 陰謀辦公室 | **陰謀論のお仕事**

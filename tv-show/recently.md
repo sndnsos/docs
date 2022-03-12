@@ -6,10 +6,6 @@ description: Newer content is on top.
 
 ## \[TO Watch]
 
-### Saka no Ue no Kumo 坂上之雲 坂の上の雲&#x20;
-
-『さかのうえのくも』
-
 ### Shiroi kyotô 白色巨塔 白い巨塔
 
 『しろいきょとう』
@@ -25,6 +21,12 @@ description: Newer content is on top.
 ### Doctor-X: Surgeon Michiko Daimon 派遣女醫X ドクターX〜外科医・大門未知子 <a href="#firstheading" id="firstheading"></a>
 
 『ドクター-エックス げかい・だいもんみちこ』
+
+## \[Watching]
+
+### Saka no Ue no Kumo 坂上之雲 坂の上の雲&#x20;
+
+『さかのうえのくも』
 
 ## Cartoon (Western Style)
 

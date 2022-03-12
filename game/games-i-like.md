@@ -21,7 +21,7 @@ Maybe it is the best Tower Defense game so far. It's challenging to finish all l
 * Kingdom Rush: Origins - 2018
 * Kingdom Rush: Vengeance - 2020
 
-### Life is Strange: True Colors \[90/100]
+### Life is Strange: True Colors \[91/100]
 
 Beautiful game and beautiful journey, Free music and free souls \~
 

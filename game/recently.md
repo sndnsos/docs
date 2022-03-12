@@ -6,15 +6,15 @@ description: Newer content is on top.
 
 ## \[TO Play]
 
-****
-
 ### **Detroit: Become Human（底特律：變人） {Second}**
 
 ### **Beyond（超凡雙生）**
 
 ### **Heavy Rain（暴雨）**
 
-### **Do not feed Monkeys**
+### **Do not feed Monkeys（不要餵食猴子）**
+
+****
 
 ## **\[Playing]**
 
@@ -48,9 +48,11 @@ description: Newer content is on top.
 
 ### Muck
 
+### **Rim World（環世界）**
+
 ### It Takes Two（雙人成行）
 
-### Cyberpunk 2077（**賽博朋克2077 |** 電馭叛客2077)&#x20;
+### Cyberpunk 2077（**賽博朋克2077 |** 電馭叛客2077）
 
 ### Grand Theft Auto V （俠盜獵車手）
 
@@ -69,6 +71,7 @@ My favorite heroes are still tinker and techies in this game.
 * ****
 * **Detroit: Become Human（底特律：變人）**
 * **The Legend of Zelda: Breath of the Wild（薩爾達傳說：曠野之息）**
+* **The Witness（**見證者）
 * **Divinity: Original Sin II（神界：原罪2）**
 * **The Witcher 3: Wild Hunt（巫师3：狂猎）**
 * **Human: Fall Flat（人類：一敗塗地）**

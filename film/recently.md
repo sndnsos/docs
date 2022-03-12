@@ -122,6 +122,44 @@ description: Newer content is on top.
 
 〖薬の神じゃない〗
 
+### Dangal（摔跤吧爸爸）\[2016]
+
+『**ダンガル きっと、つよくなる**』
+
+### Lost in Translation（迷失東京 | 愛情不用翻譯）\[2003]
+
+『ロスト・イン・トランスレーション』
+
+### Life Is Beautiful（美麗人生）\[1997]
+
+『ライフ・イズ・ビューティフル』
+
+『La vita è bella』
+
+### Ready Player One（頭號玩家）\[2018]
+
+『レディ・プレイヤー1』
+
+### It's a Wonderful Life（**生活多美好**）\[1946]
+
+『素晴らしき哉、人生!』
+
+### La La Land（愛樂之城）\[2016]
+
+『ラ・ラ・ランド』
+
+### Zootopia（瘋狂動物城）\[2016]
+
+『ズートピア』
+
+### Warcraft: The Beginning（**魔獸：崛起）\[2016]**
+
+### The Revenant（荒野獵人）\[2015]
+
+### Cloud Atlas（雲圖）\[2012]&#x20;
+
+『クラウド アトラス』
+
 ### Let the Bullets Fly（讓子彈飛）\[2010]
 
 〖さらば復讐の狼たちよ〗

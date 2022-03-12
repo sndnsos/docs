@@ -4,6 +4,22 @@ description: Newer content is on top.
 
 # Games I played recently
 
+## \[TO Play]
+
+****
+
+### **Detroit: Become Human（底特律：變人） {Second}**
+
+### **Beyond（超凡雙生）**
+
+### **Heavy Rain（暴雨）**
+
+### **Do not feed Monkeys**
+
+## **\[Playing]**
+
+### **The Wolf Among Us（我們中的一隻狼）{Second}**
+
 ## \[ 2019 - 2021 ]
 
 ### To the Moon（去月球）\[2011]
@@ -33,6 +49,8 @@ description: Newer content is on top.
 ### Muck
 
 ### It Takes Two（雙人成行）
+
+### Cyberpunk 2077（**賽博朋克2077 |** 電馭叛客2077)&#x20;
 
 ### Grand Theft Auto V （俠盜獵車手）
 

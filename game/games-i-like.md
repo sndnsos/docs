@@ -39,7 +39,9 @@ It is the best cooperative game and one of the best games I have ever experience
 
 It's nice to have a company and to build a lovely world.
 
+### Cyberpunk 2077 \[94/100]
 
+No matter where we are, love & freedom are always the best things to chase.
 
 ## \[ - 2018 ]
 

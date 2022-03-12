@@ -16,6 +16,7 @@
 
 * [Books I like](book/books-i-like.md)
 * [Books I read recently](book/recently.md)
+* [Serious Books](book/serious-books.md)
 
 ## Film
 

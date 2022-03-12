@@ -29,6 +29,8 @@ by Francis Yoshihiro 法蘭西斯·福山 福山よしひろ
 
 ### Bible 聖經 聖書 せいしょ
 
+### 大家的日本語 みんなの日本語
+
 ## \[2019 - 2022]
 
 ### Ecstasy 65 Days اكستاسي 65 يوم
@@ -36,3 +38,5 @@ by Francis Yoshihiro 法蘭西斯·福山 福山よしひろ
 ### 古老的罪惡 (Aged Sins)
 
 ### 1984
+
+### 看見

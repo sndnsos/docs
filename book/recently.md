@@ -11,6 +11,8 @@ description: Newer content is on top.
 * Handmaid's Tale
 * The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared
 * The Dawn of Everything
+* Guns, Germs, and Steel: The Fates of Human Societies&#x20;
+* Sapiens: A Brief History of Humankind
 
 ### Animal Farm 動物農場 動物農場
 

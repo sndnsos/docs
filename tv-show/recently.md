@@ -28,6 +28,14 @@ description: Newer content is on top.
 
 『さかのうえのくも』
 
+> のどかな春でございます
+>
+> What a peaceful and beautiful spring!
+>
+> 多麼平靜美麗的春天啊！
+
+
+
 ## Cartoon (Western Style)
 
 ### Inside Job | 陰謀辦公室 | **陰謀論のお仕事**

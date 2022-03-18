@@ -26,6 +26,10 @@ description: Newer content is on top.
 
 ### Free Guy **失控玩家** フリー・ガイ \[2021]
 
+### The Night Is Short, Walk on Girl 春宵苦短，少女前進吧 夜は短し歩けよ乙女 \[2006]
+
+『よるはみじかしあるけよおとめ』
+
 ## \[ 2019 - 2021 ]
 
 ### Winter on Fire: Ukraine's Fight for Freedom（**凜冬烈火：烏克蘭為自由而戰）\[2015]**

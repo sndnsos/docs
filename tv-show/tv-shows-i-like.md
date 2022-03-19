@@ -16,6 +16,18 @@
 
 ## Live
 
+### Saka no Ue no Kumo | 坂上之雲 | 坂の上の雲&#x20;
+
+『さかのうえのくも』
+
+「Clouds above the Hill: A Historical Novel of the Russo-Japanese War」
+
+> のどかな春でございます
+>
+> What a peaceful and beautiful spring!
+>
+> 多麼平靜美麗的春天啊！
+
 ### The World Between Us | 我們與惡的距離 | 悪との距離
 
 > 到底什麼是好人，什麼是壞人，你有標準答案嗎？誰有標準答案？

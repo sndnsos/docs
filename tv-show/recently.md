@@ -6,35 +6,23 @@ description: Newer content is on top.
 
 ## \[TO Watch]
 
-### Shiroi kyotô 白色巨塔 白い巨塔
+### Shiroi kyotou | 白色巨塔 | 白い巨塔
 
 『しろいきょとう』
 
-### From the Northern Country 來自北國 北の国から <a href="#firstheading" id="firstheading"></a>
+### From the Northern Country | 來自北國 | 北の国から <a href="#firstheading" id="firstheading"></a>
 
 『きたのくにから』
 
-### Tokyo Love Story 東京愛情故事 東京ラブストーリー  <a href="#firstheading" id="firstheading"></a>
+### Tokyo Love Story | 東京愛情故事 | 東京ラブストーリー  <a href="#firstheading" id="firstheading"></a>
 
-### Dragon Zakura 東大特訓班 ドラゴン桜
-
-### Doctor-X: Surgeon Michiko Daimon 派遣女醫X ドクターX〜外科医・大門未知子 <a href="#firstheading" id="firstheading"></a>
+### Doctor-X: Surgeon Michiko Daimon | 派遣女醫X | ドクターX〜外科医・大門未知子 <a href="#firstheading" id="firstheading"></a>
 
 『ドクター-エックス げかい・だいもんみちこ』
 
 ## \[Watching]
 
-### Saka no Ue no Kumo 坂上之雲 坂の上の雲&#x20;
-
-『さかのうえのくも』
-
-> のどかな春でございます
->
-> What a peaceful and beautiful spring!
->
-> 多麼平靜美麗的春天啊！
-
-
+### Dragon Zakura | 東大特訓班 \~ 龍櫻 | ドラゴン桜
 
 ## Cartoon (Western Style)
 
@@ -61,6 +49,20 @@ Book 1
 
 
 ## Live
+
+
+
+### Saka no Ue no Kumo | 坂上之雲 | 坂の上の雲&#x20;
+
+『さかのうえのくも』
+
+「Clouds above the Hill: A Historical Novel of the Russo-Japanese War」
+
+> のどかな春でございます
+>
+> What a peaceful and beautiful spring!
+>
+> 多麼平靜美麗的春天啊！
 
 ### All of Us Are Dead | 殭屍校園 | 今、私たちの学校は… <a href="#firstheading" id="firstheading"></a>
 

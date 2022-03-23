@@ -60,15 +60,15 @@ description: Newer content is on top.
 
 凡事總須研究，才會明白。古來時常吃人，我也還記得，可是不甚清楚。我翻開歷史一查，這歷史沒有年代，歪歪斜斜的每葉上都寫著“仁義道德”几個字。我橫豎睡不著，仔細看了半夜，才從字縫里看出字來，滿本都寫著兩個字是「吃人」！
 
-### Into the Wild（荒野生存）\[2007] \[96/100]
+### Into the Wild（荒野生存）\[2007] \[97/100]
 
 〖イントゥ・ザ・ワイルド〗
 
-### Little Forest（小森林）\[2014-2015] \[95/100] <a href="#firstheading" id="firstheading"></a>
+### Little Forest（小森林）\[2014-2015] \[96/100] <a href="#firstheading" id="firstheading"></a>
 
 『リトル・フォレスト』
 
-### Les Misérables（悲慘世界）\[2012] \[96/100]
+### Les Misérables（悲慘世界）\[2012] \[97/100]
 
 〖レ・ミゼラブル〗
 

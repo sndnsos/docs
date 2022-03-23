@@ -20,105 +20,105 @@ description: Newer content is on top.
 
 『ぐうぜんとそうぞう』
 
-### Summer Palace（頤和園）天安門、恋人たち\[2006]
+### Summer Palace | 頤和園 | 天安門、恋人たち \[2006]
 
 『てんあんもんこいびとたち』
 
-### Free Guy **失控玩家** フリー・ガイ \[2021]
+### Free Guy | **失控玩家 |** フリー・ガイ \[2021]
 
-### The Night Is Short, Walk on Girl 春宵苦短，少女前進吧 夜は短し歩けよ乙女 \[2006]
+### The Night Is Short, Walk on Girl | 春宵苦短，少女前進吧 | 夜は短し歩けよ乙女 \[2006]
 
 『よるはみじかしあるけよおとめ』
 
 ## \[ 2019 - 2021 ]
 
-### Winter on Fire: Ukraine's Fight for Freedom（**凜冬烈火：烏克蘭為自由而戰）\[2015] \[85/100]**
+### Winter on Fire: Ukraine's Fight for Freedom | **凜冬烈火：烏克蘭為自由而戰 \[2015] \[85/100]**
 
-### Cruella（時尚惡女：庫伊拉）\[2021] \[81/100]
+### Cruella | 時尚惡女：庫伊拉 \[2021] \[81/100]
 
 『クルエラ』
 
-### Blind Way（盲道）\[2017] \[81/100]
+### Blind Way | 盲道 \[2017] \[81/100]
 
-### Blind Mountain（盲山）\[2007] \[90/100]
+### Blind Mountain | 盲山 \[2007] \[90/100]
 
-### Don't Look Up（不要擡頭）\[2021] \[93/100]
+### Don't Look Up | 不要擡頭 \[2021] \[93/100]
 
 『ドント・ルック・アップ』
 
-### The Matrix Resurrections （黑客帝國・矩陣重啓）\[2021] \[85/100]
+### The Matrix Resurrections | 黑客帝國・矩陣重啓 \[2021] \[85/100]
 
 『マトリックス レボリューションズ』
 
 『駭客任務・復活』
 
-### Detention（返校）\[2019] \[87/100]
+### Detention | 返校 \[2019] \[87/100]
 
-### The Ditch（夾邊溝）\[2010] \[87/100]
+### The Ditch | 夾邊溝 \[2010] \[87/100]
 
 〖無言歌〗{Banned in China}
 
 凡事總須研究，才會明白。古來時常吃人，我也還記得，可是不甚清楚。我翻開歷史一查，這歷史沒有年代，歪歪斜斜的每葉上都寫著“仁義道德”几個字。我橫豎睡不著，仔細看了半夜，才從字縫里看出字來，滿本都寫著兩個字是「吃人」！
 
-### Into the Wild（荒野生存）\[2007] \[97/100]
+### Into the Wild | 荒野生存 \[2007] \[97/100]
 
 〖イントゥ・ザ・ワイルド〗
 
-### Little Forest（小森林）\[2014-2015] \[96/100] <a href="#firstheading" id="firstheading"></a>
+### Little Forest | 小森林 \[2014-2015] \[96/100] <a href="#firstheading" id="firstheading"></a>
 
 『リトル・フォレスト』
 
-### Les Misérables（悲慘世界）\[2012] \[97/100]
+### Les Misérables | 悲慘世界 \[2012] \[97/100]
 
 〖レ・ミゼラブル〗
 
-### A Taxi Driver（我只是個計程車司機）\[2017] \[93/100]
+### A Taxi Driver | 我只是個計程車司機 \[2017] \[93/100]
 
 〖タクシー運転手 約束は海を越えて〗
 
-### Hidden Man（邪不壓正）\[2018] \[94/100]
+### Hidden Man | 邪不壓正 \[2018] \[94/100]
 
-### Gone with the Bullets（一步之遙）\[2014] \[88/100]
+### Gone with the Bullets | 一步之遙 \[2014] \[88/100]
 
 〖弾丸と共に去りぬ -暗黒街の逃亡者〗
 
-### The Sun Also Rises（**太陽照常升起）\[2007] \[90/100]**
+### The Sun Also Rises | **太陽照常升起 \[2007] \[90/100]**
 
 **〖**日はまた昇る〗
 
-### Devils on the Doorstep（鬼子來了）\[2000] \[95/100]
+### Devils on the Doorstep | 鬼子來了 \[2000] \[95/100]
 
 〖鬼が来た〗
 
-### Keep Cool（有好好說話）\[1997] \[94/100]
+### Keep Cool | 有好好說話 \[1997] \[94/100]
 
 〖キープ・クール〗
 
-### In the Heat of the Sun（陽光燦爛的日子）\[1994] \[91/100]
+### In the Heat of the Sun | 陽光燦爛的日子 \[1994] \[91/100]
 
 〖太陽の少年〗
 
-### Red Sorghum（紅高粱）\[1988] \[87/100]
+### Red Sorghum | 紅高粱 \[1988] \[87/100]
 
 〖紅いコーリャン〗
 
-### Hibiscus Town （芙蓉鎮）\[1987] \[91/100]
+### Hibiscus Town | 芙蓉鎮 \[1987] \[91/100]
 
 〖芙蓉鎮〗
 
-### The True Story of Ah Q（阿Q正传）\[1981] \[91/100]
+### The True Story of Ah Q | 阿Q正传 \[1981] \[91/100]
 
 〖阿Q正伝〗
 
-### V for Vendetta（V字仇殺隊 | V怪客）\[2005] \[93/100]
+### V for Vendetta | V字仇殺隊 \~ V怪客 \[2005] \[93/100]
 
 〖Vフォー・ヴェンデッタ〗
 
-### Manchester by the Sea（海邊的曼徹斯特）\[2016] \[90/100]
+### Manchester by the Sea | 海邊的曼徹斯特 \[2016] \[90/100]
 
 『マンチェスター・バイ・ザ・シー』
 
-### Gone with the Light（被光抓走的人）\[2019] \[90/100]
+### Gone with the Light | 被光抓走的人 \[2019] \[90/100]
 
 ## \[ - 2018 ]
 

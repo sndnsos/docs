@@ -196,3 +196,22 @@ description: Newer content is on top.
 * The Two Towers - 2002
 * The Return of the King - 2003
 
+### King of Comedy（喜劇之王）\[1999] \[98/100]
+
+『喜劇王』Kigeki-ō
+
+### The Truman Show（楚門的世界）\[1998] \[97/100]
+
+『トゥルーマン・ショー』
+
+### Fight Club（**搏擊俱樂部）\[1999] \[97/100]**
+
+『ファイト・クラブ』
+
+### The Shawshank Redemption（肖申克的救贖）\[1994] \[99/100]
+
+『ショーシャンクの空に』
+
+### Forrest Gump（阿甘正傳）\[1994] \[99/100]
+
+『フォレスト・ガンプ』

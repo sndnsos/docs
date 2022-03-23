@@ -5,7 +5,7 @@
 ## Music
 
 * [Music I like](music/music-i-like.md)
-* [Songs 日本歌](music/songs-ri-ben-ge.md)
+* [BGM](music/songs-ri-ben-ge.md)
 
 ## Game
 

@@ -14,7 +14,13 @@ description: Japanese Anime
 
 ## \[Watching]
 
+### Demon Slayer: Kimetsu no Yaiba | 鬼滅之刃 | 鬼滅の刃 \[95/100]
 
+〖きめつのやいば〗
+
+### My Hero Academia | 我的英雄學院 | 僕のヒーローアカデミア \[94/100]
+
+### One Piece | **海賊王 |** ワンピース \[95/100]
 
 ## \[Watched]
 
@@ -24,15 +30,9 @@ description: Japanese Anime
 
 〖じゅじゅつ かいせん〗
 
-### Demon Slayer: Kimetsu no Yaiba | 鬼滅之刃 | 鬼滅の刃 \[95/100]
-
-〖きめつのやいば〗
-
 ### Attack on Titan | 進擊的巨人| 進撃の巨人 \[95/100]
 
 『しんげきのきょじん』
-
-### My Hero Academia | 我的英雄學院 | 僕のヒーローアカデミア \[94/100]
 
 ### Detective Conan | 名偵探柯南 | 名探偵コナン \[88/100]
 
@@ -48,4 +48,3 @@ Re:ゼロから始める異世界生活 | Re：從零開始的異世界生活
 
 ### JAPAN SINKS: 2020 | 日本沈沒 2020 | 日本沈没2020 \[81/100] <a href="#firstheading" id="firstheading"></a>
 
-### One Piece | **海賊王 |** ワンピース \[95/100]

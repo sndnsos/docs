@@ -26,35 +26,37 @@ description: Newer content is on top.
 
 『けんこうでぶんかてきなさいていげんどのせいかつ]』
 
+### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
+
 ## Cartoon (Western Style)
 
-### Inside Job | 陰謀辦公室 | **陰謀論のお仕事**
+### Inside Job | 陰謀辦公室 | **陰謀論のお仕事 \[63/100]**
 
 〖**いんぼうろん**のオシゴト〗
 
-### **Love, Death & Robots** ❤️❌🤖 **| 愛，死亡，和機器人 |** ラブ、デス&ロボット
+### **Love, Death & Robots** ❤️❌🤖 **| 愛，死亡，和機器人 |** ラブ、デス&ロボット \[85/100]
 
-### Bojack Horseman | 馬男波傑克 | ボージャック・ホースマン
+### Bojack Horseman | 馬男波傑克 | ボージャック・ホースマン \[92/100]
 
-### Arcana | **奧術 |** アーケイン
+### Arcana | **奧術 |** アーケイン \[96/100]
 
-### Dota: Dragon's Blood | 龙之血
+### Dota: Dragon's Blood | 龙之血 \[83/100]
 
 Book 1
 
-### The Simpsons | 辛普森家庭 | ザ・シンプソンズ
+### The Simpsons | 辛普森家庭 | ザ・シンプソンズ \[95/100]
 
-### Rick and Morty | 瑞克和莫蒂 | リック・アンド・モーティ
+### Rick and Morty | 瑞克和莫蒂 | リック・アンド・モーティ\[96/100]
 
-### South Park | 南方公園 | サウスパーク
+### South Park | 南方公園 | サウスパーク \[97/100]
 
 
 
 ## Live
 
-### Dragon Zakura | 東大特訓班 \~ 龍櫻 | ドラゴン桜
+### Dragon Zakura | 東大特訓班 \~ 龍櫻 | ドラゴン桜 \[90/100]
 
-### Saka no Ue no Kumo | 坂上之雲 | 坂の上の雲&#x20;
+### Saka no Ue no Kumo | 坂上之雲 | 坂の上の雲 \[93/100]
 
 『さかのうえのくも』
 
@@ -66,25 +68,23 @@ Book 1
 >
 > 多麼平靜美麗的春天啊！
 
-### All of Us Are Dead | 殭屍校園 | 今、私たちの学校は… <a href="#firstheading" id="firstheading"></a>
+### All of Us Are Dead | 殭屍校園 | 今、私たちの学校は… \[85/100] <a href="#firstheading" id="firstheading"></a>
 
-### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
+### You (1-3 Seasons) \[89/100] <a href="#firstheading" id="firstheading"></a>
 
-### You (1-3 Seasons) <a href="#firstheading" id="firstheading"></a>
+### The World Between Us | 我們與惡的距離 | 悪との距離 \[92/100] <a href="#firstheading" id="firstheading"></a>
 
-### The World Between Us | 我們與惡的距離 | 悪との距離 <a href="#firstheading" id="firstheading"></a>
+### Black Mirror | 黑鏡 | ブラック・ミラー \[96/100] <a href="#firstheading" id="firstheading"></a>
 
-### Black Mirror | 黑鏡 | ブラック・ミラー <a href="#firstheading" id="firstheading"></a>
+### Unnatural | 非自然死亡 | アンナチュラル \[96/100] <a href="#firstheading" id="firstheading"></a>
 
-### Unnatural | 非自然死亡 | アンナチュラル <a href="#firstheading" id="firstheading"></a>
+### My Name | 以吾之名 | マイネーム: 偽りと復讐 \[79/100] <a href="#firstheading" id="firstheading"></a>
 
-### My Name | 以吾之名 | マイネーム: 偽りと復讐 <a href="#firstheading" id="firstheading"></a>
+### Prison Playbook | 機智牢房生活 | 刑務所のルールブック \[84/100]
 
-### Prison Playbook | 機智牢房生活 | 刑務所のルールブック
+### Itaewon Class | 梨泰院Class | 梨泰院クラス \[87/100]
 
-### Itaewon Class | 梨泰院Class | 梨泰院クラス
-
-### Sex Education | 性教育 | セックス・エデュケーション
+### Sex Education | 性教育 | セックス・エデュケーション \[95/100]
 
 \-- I don't know why I cried many times on this show.\
 \-- No, I know.\
@@ -95,40 +95,40 @@ I miss the feeling of love. I wish I could have it.
 >
 > I hope only love and happiness will remain.
 
-### How to Become a Tyrant | 暴君養成指引
+### How to Become a Tyrant | 暴君養成指引 \[95/100]
 
-### Liar Game | **詐欺遊戲** | ライアーゲーム
+### Liar Game | **詐欺遊戲** | ライアーゲーム \[94/100]
 
-### Girl from Nowhere | 轉學來的女生
+### Girl from Nowhere | 轉學來的女生 \[85/100]
 
 This TV series may seem absurd but it's so real. There are both good and evil in humanity. Even a small lie can grow to be a nightmare.
 
-### Squid Game | 魷魚遊戲 | イカゲーム
+### Squid Game | 魷魚遊戲 | イカゲーム \[85/100]
 
-### Dream of the Red Chamber | 紅樓夢 | 紅楼夢
+### Dream of the Red Chamber | 紅樓夢 | 紅楼夢 \[87/100]
 
-### Money Heist | 紙房子 | ペーパー・ハウス
+### Money Heist | 紙房子 | ペーパー・ハウス \[89/100]
 
-### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス <a href="#firstheading" id="firstheading"></a>
+### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス \[85/100] <a href="#firstheading" id="firstheading"></a>
 
-### Designated Survivor | 指定倖存者 | サバイバー: 宿命の大統領 <a href="#firstheading" id="firstheading"></a>
+### Designated Survivor | 指定倖存者 | サバイバー: 宿命の大統領 \[87/100] <a href="#firstheading" id="firstheading"></a>
 
 『サバイバー: しゅくめいのだいとうりょう』
 
-### Breaking Bad | 絕命毒師 | ブレイキング・バッド
+### Breaking Bad | 絕命毒師 | ブレイキング・バッド \[93/100]
 
-### Kodoku no Gourmet | 孤獨的美食家 | 孤独のグルメ |&#x20;
+### Kodoku no Gourmet | 孤獨的美食家 | 孤独のグルメ \[92/100]
 
 『こどくのぐるめ』
 
-### Midnight Diner | 深夜食堂 | 深夜食堂
+### Midnight Diner | 深夜食堂 | 深夜食堂 \[96/100]
 
 『しんやしょくどう』
 
-### Game of Thrones | 權力的遊戲 | ゲーム・オブ・スローンズ
+### Game of Thrones | 權力的遊戲 | ゲーム・オブ・スローンズ \[90/100]
 
-### 24 | 反恐24小時 | 24 -TWENTY FOUR
+### 24 | 反恐24小時 | 24 -TWENTY FOUR \[88/100]
 
-### Heroes | 超異能英雄 | ヒーローズ
+### Heroes | 超異能英雄 | ヒーローズ \[89/100]
 
-### Prison Break | 越獄 | プリズン・ブレイク
+### Prison Break | 越獄 | プリズン・ブレイク \[90/100]

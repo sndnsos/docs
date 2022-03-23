@@ -22,7 +22,7 @@ description: Newer content is on top.
 
 ## \[Watching]
 
-## A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活
+### A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活
 
 『けんこうでぶんかてきなさいていげんどのせいかつ]』
 

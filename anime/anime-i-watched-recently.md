@@ -12,7 +12,13 @@ description: Japanese Anime
 
 『えんえんのしょうぼうたい』
 
-### Death Note
+### Death Note | 死亡筆記本 | デスノート
+
+### That Time I Got Reincarnated as a Slime | 關於我轉生變成史萊姆這檔事 | 転生したらスライムだった件
+
+### Ranking of Kings | 國王排名 | 王様ランキング
+
+『おうさまランキング』
 
 ## \[Watching]
 
@@ -59,4 +65,6 @@ description: Japanese Anime
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
 ### Naruto | 火影忍者 | NARUTO -ナルト- \[90/100]
+
+### Dragon Ball | 七龍珠 | ドラゴンボール \[92/100] <a href="#firstheading" id="firstheading"></a>
 

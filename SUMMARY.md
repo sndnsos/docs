@@ -34,6 +34,11 @@
 * [Anime I like](anime/anime-i-like.md)
 * [Anime I watched recently](anime/anime-i-watched-recently.md)
 
+## Anime Eiga
+
+* [Anime Eiga I like](anime-eiga/anime-eiga-i-like.md)
+* [Anime Eiga I watched recently](anime-eiga/anime-eiga-i-watched-recently.md)
+
 ## Japanese 日本語 <a href="#japanese" id="japanese"></a>
 
 * [Japanese Basic Characters](japanese/japanese-basic-characters.md)

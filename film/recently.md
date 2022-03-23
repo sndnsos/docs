@@ -24,11 +24,7 @@ description: Newer content is on top.
 
 『てんあんもんこいびとたち』
 
-### Free Guy | **失控玩家 |** フリー・ガイ \[2021]
-
-### The Night Is Short, Walk on Girl | 春宵苦短，少女前進吧 | 夜は短し歩けよ乙女 \[2006]
-
-『よるはみじかしあるけよおとめ』
+### Free Guy | **失控玩家** \[2021]
 
 ## \[ 2019 - 2021 ]
 
@@ -122,65 +118,65 @@ description: Newer content is on top.
 
 ## \[ - 2018 ]
 
-### Dying to Survive（我不是藥神）\[2018] \[94/100]
+### Dying to Survive | 我不是藥神 \[2018] \[94/100]
 
 〖薬の神じゃない〗
 
-### Dangal（摔跤吧爸爸）\[2016] \[91/100]
+### Dangal | 摔跤吧爸爸 \[2016] \[91/100]
 
 『**ダンガル きっと、つよくなる**』
 
-### Lost in Translation（迷失東京 | 愛情不用翻譯）\[2003] \[87/100]
+### Lost in Translation | 迷失東京 \~ 愛情不用翻譯 \[2003] \[87/100]
 
 『ロスト・イン・トランスレーション』
 
-### Life Is Beautiful（美麗人生）\[1997] \[98/100]
+### Life Is Beautiful | 美麗人生 \[1997] \[98/100]
 
 『ライフ・イズ・ビューティフル』
 
 『La vita è bella』
 
-### Ready Player One（頭號玩家）\[2018] \[95/100]
+### Ready Player One | 頭號玩家 \[2018] \[95/100]
 
 『レディ・プレイヤー1』
 
-### It's a Wonderful Life（**生活多美好**）\[1946] \[98/100]
+### It's a Wonderful Life | **生活多美好** \[1946] \[98/100]
 
 『素晴らしき哉、人生!』
 
-### La La Land（愛樂之城）\[2016] \[96/100]
+### La La Land | 愛樂之城 \[2016] \[96/100]
 
 『ラ・ラ・ランド』
 
-### Zootopia（瘋狂動物城）\[2016] \[96/100]
+### Zootopia | 瘋狂動物城 \[2016] \[96/100]
 
 『ズートピア』
 
-### Warcraft: The Beginning（**魔獸：崛起）\[2016] \[88/100]**
+### Warcraft: The Beginning | **魔獸：崛起 \[2016] \[88/100]**
 
-### The Revenant（荒野獵人）\[2015] \[74/100]
+### The Revenant | 荒野獵人 \[2015] \[74/100]
 
-### Cloud Atlas（雲圖）\[2012] \[99/100]
+### Cloud Atlas | 雲圖 \[2012] \[99/100]
 
 『クラウド アトラス』
 
-### Let the Bullets Fly（讓子彈飛）\[2010] \[95/100]
+### Let the Bullets Fly | 讓子彈飛 \[2010] \[95/100]
 
 〖さらば復讐の狼たちよ〗
 
-### Farewell My Concubine（霸王別姬）\[1993] \[94/100]
+### Farewell My Concubine | 霸王別姬 \[1993] \[94/100]
 
 〖さらば、わが愛〗
 
-### To Live（活着）\[1994] \[96/100]
+### To Live | 活着 \[1994] \[96/100]
 
 〖活きる〗
 
-### The Warlords（投**名狀）\[2007] \[91/100]**
+### The Warlords | 投**名狀 \[2007] \[91/100]**
 
 **〖**ウォーロード/男たちの誓い**〗**
 
-### The Hobbit（哈比特人）\[2012-2014] \[96/100]
+### The Hobbit | 哈比特人 \[2012-2014] \[96/100]
 
 〖ホビット〗
 
@@ -188,7 +184,7 @@ description: Newer content is on top.
 * The Hobbit: The Desolation of Smaug - 2013
 * The Hobbit: The Battle of the Five Armies - 2014
 
-### The Lord of the Rings（魔戒 | 指環王）\[2001-2003] \[99/100]
+### The Lord of the Rings | 魔戒 \~ 指環王 \[2001-2003] \[99/100]
 
 〖指輪物語〗
 
@@ -196,22 +192,22 @@ description: Newer content is on top.
 * The Two Towers - 2002
 * The Return of the King - 2003
 
-### King of Comedy（喜劇之王）\[1999] \[98/100]
+### King of Comedy | 喜劇之王 \[1999] \[98/100]
 
 『喜劇王』Kigeki-ō
 
-### The Truman Show（楚門的世界）\[1998] \[97/100]
+### The Truman Show | 楚門的世界 \[1998] \[97/100]
 
 『トゥルーマン・ショー』
 
-### Fight Club（**搏擊俱樂部）\[1999] \[97/100]**
+### Fight Club | **搏擊俱樂部 \[1999] \[97/100]**
 
 『ファイト・クラブ』
 
-### The Shawshank Redemption（肖申克的救贖）\[1994] \[99/100]
+### The Shawshank Redemption | 肖申克的救贖 \[1994] \[99/100]
 
 『ショーシャンクの空に』
 
-### Forrest Gump（阿甘正傳）\[1994] \[99/100]
+### Forrest Gump | 阿甘正傳 \[1994] \[99/100]
 
 『フォレスト・ガンプ』

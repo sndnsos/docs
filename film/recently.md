@@ -32,155 +32,155 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ]
 
-### Winter on Fire: Ukraine's Fight for Freedom（**凜冬烈火：烏克蘭為自由而戰）\[2015]**
+### Winter on Fire: Ukraine's Fight for Freedom（**凜冬烈火：烏克蘭為自由而戰）\[2015] \[85/100]**
 
-### Cruella（時尚惡女：庫伊拉）\[2021]
+### Cruella（時尚惡女：庫伊拉）\[2021] \[81/100]
 
 『クルエラ』
 
-### Blind Way（盲道）\[2017]
+### Blind Way（盲道）\[2017] \[81/100]
 
-### Blind Mountain（盲山）\[2007]
+### Blind Mountain（盲山）\[2007] \[90/100]
 
-### Don't Look Up（不要擡頭）\[2021]
+### Don't Look Up（不要擡頭）\[2021] \[93/100]
 
 『ドント・ルック・アップ』
 
-### The Matrix Resurrections （黑客帝國・矩陣重啓）\[2021]
+### The Matrix Resurrections （黑客帝國・矩陣重啓）\[2021] \[85/100]
 
 『マトリックス レボリューションズ』
 
 『駭客任務・復活』
 
-### Detention（返校）\[2019]
+### Detention（返校）\[2019] \[87/100]
 
-### The Ditch（夾邊溝）\[2010]
+### The Ditch（夾邊溝）\[2010] \[87/100]
 
 〖無言歌〗{Banned in China}
 
 凡事總須研究，才會明白。古來時常吃人，我也還記得，可是不甚清楚。我翻開歷史一查，這歷史沒有年代，歪歪斜斜的每葉上都寫著“仁義道德”几個字。我橫豎睡不著，仔細看了半夜，才從字縫里看出字來，滿本都寫著兩個字是「吃人」！
 
-### Into the Wild（荒野生存）\[2007]
+### Into the Wild（荒野生存）\[2007] \[96/100]
 
 〖イントゥ・ザ・ワイルド〗
 
-### Little Forest（小森林）\[2014-2015] <a href="#firstheading" id="firstheading"></a>
+### Little Forest（小森林）\[2014-2015] \[95/100] <a href="#firstheading" id="firstheading"></a>
 
 『リトル・フォレスト』
 
-### Les Misérables（悲慘世界）\[2012]
+### Les Misérables（悲慘世界）\[2012] \[96/100]
 
 〖レ・ミゼラブル〗
 
-### A Taxi Driver（我只是個計程車司機）\[2017]
+### A Taxi Driver（我只是個計程車司機）\[2017] \[93/100]
 
 〖タクシー運転手 約束は海を越えて〗
 
-### Hidden Man（邪不壓正）\[2018]
+### Hidden Man（邪不壓正）\[2018] \[94/100]
 
-### Gone with the Bullets（一步之遙）\[2014]
+### Gone with the Bullets（一步之遙）\[2014] \[88/100]
 
 〖弾丸と共に去りぬ -暗黒街の逃亡者〗
 
-### The Sun Also Rises（**太陽照常升起）\[2007]**
+### The Sun Also Rises（**太陽照常升起）\[2007] \[90/100]**
 
 **〖**日はまた昇る〗
 
-### Devils on the Doorstep（鬼子來了）\[2000]
+### Devils on the Doorstep（鬼子來了）\[2000] \[95/100]
 
 〖鬼が来た〗
 
-### Keep Cool（有好好說話）\[1997]
+### Keep Cool（有好好說話）\[1997] \[94/100]
 
 〖キープ・クール〗
 
-### In the Heat of the Sun（陽光燦爛的日子）\[1994]
+### In the Heat of the Sun（陽光燦爛的日子）\[1994] \[91/100]
 
 〖太陽の少年〗
 
-### Red Sorghum（紅高粱）\[1988]
+### Red Sorghum（紅高粱）\[1988] \[87/100]
 
 〖紅いコーリャン〗
 
-### Hibiscus Town （芙蓉鎮）\[1987]
+### Hibiscus Town （芙蓉鎮）\[1987] \[91/100]
 
 〖芙蓉鎮〗
 
-### The True Story of Ah Q（阿Q正传）\[1981]
+### The True Story of Ah Q（阿Q正传）\[1981] \[91/100]
 
 〖阿Q正伝〗
 
-### V for Vendetta（V字仇殺隊 | V怪客）\[2005]
+### V for Vendetta（V字仇殺隊 | V怪客）\[2005] \[93/100]
 
 〖Vフォー・ヴェンデッタ〗
 
-### Manchester by the Sea（海邊的曼徹斯特）\[2016]
+### Manchester by the Sea（海邊的曼徹斯特）\[2016] \[90/100]
 
 『マンチェスター・バイ・ザ・シー』
 
-### Gone with the Light（被光抓走的人）\[2019]
+### Gone with the Light（被光抓走的人）\[2019] \[90/100]
 
 ## \[ - 2018 ]
 
-### Dying to Survive（我不是藥神）\[2018]
+### Dying to Survive（我不是藥神）\[2018] \[94/100]
 
 〖薬の神じゃない〗
 
-### Dangal（摔跤吧爸爸）\[2016]
+### Dangal（摔跤吧爸爸）\[2016] \[91/100]
 
 『**ダンガル きっと、つよくなる**』
 
-### Lost in Translation（迷失東京 | 愛情不用翻譯）\[2003]
+### Lost in Translation（迷失東京 | 愛情不用翻譯）\[2003] \[87/100]
 
 『ロスト・イン・トランスレーション』
 
-### Life Is Beautiful（美麗人生）\[1997]
+### Life Is Beautiful（美麗人生）\[1997] \[98/100]
 
 『ライフ・イズ・ビューティフル』
 
 『La vita è bella』
 
-### Ready Player One（頭號玩家）\[2018]
+### Ready Player One（頭號玩家）\[2018] \[95/100]
 
 『レディ・プレイヤー1』
 
-### It's a Wonderful Life（**生活多美好**）\[1946]
+### It's a Wonderful Life（**生活多美好**）\[1946] \[98/100]
 
 『素晴らしき哉、人生!』
 
-### La La Land（愛樂之城）\[2016]
+### La La Land（愛樂之城）\[2016] \[96/100]
 
 『ラ・ラ・ランド』
 
-### Zootopia（瘋狂動物城）\[2016]
+### Zootopia（瘋狂動物城）\[2016] \[96/100]
 
 『ズートピア』
 
-### Warcraft: The Beginning（**魔獸：崛起）\[2016]**
+### Warcraft: The Beginning（**魔獸：崛起）\[2016] \[88/100]**
 
-### The Revenant（荒野獵人）\[2015]
+### The Revenant（荒野獵人）\[2015] \[74/100]
 
-### Cloud Atlas（雲圖）\[2012]&#x20;
+### Cloud Atlas（雲圖）\[2012] \[99/100]
 
 『クラウド アトラス』
 
-### Let the Bullets Fly（讓子彈飛）\[2010]
+### Let the Bullets Fly（讓子彈飛）\[2010] \[95/100]
 
 〖さらば復讐の狼たちよ〗
 
-### Farewell My Concubine（霸王別姬）\[1993]
+### Farewell My Concubine（霸王別姬）\[1993] \[94/100]
 
 〖さらば、わが愛〗
 
-### To Live（活着）\[1994]
+### To Live（活着）\[1994] \[96/100]
 
 〖活きる〗
 
-### The Warlords（投**名狀）\[2007]**
+### The Warlords（投**名狀）\[2007] \[91/100]**
 
 **〖**ウォーロード/男たちの誓い**〗**
 
-### The Hobbit（哈比特人）\[2012-2014]
+### The Hobbit（哈比特人）\[2012-2014] \[96/100]
 
 〖ホビット〗
 
@@ -188,7 +188,7 @@ description: Newer content is on top.
 * The Hobbit: The Desolation of Smaug - 2013
 * The Hobbit: The Battle of the Five Armies - 2014
 
-### The Lord of the Rings（魔戒 | 指環王）\[2001-2003]
+### The Lord of the Rings（魔戒 | 指環王）\[2001-2003] \[99/100]
 
 〖指輪物語〗
 

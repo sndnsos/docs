@@ -20,6 +20,8 @@ description: Newer content is on top.
 
 『ドクター-エックス げかい・だいもんみちこ』
 
+The Full-Time Wife Escapist | 逃避雖可恥卻有用 \~ 月薪嬌妻 | 逃げるは恥だが役に立つ
+
 ## \[Watching]
 
 ### A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活
@@ -56,7 +58,7 @@ Book 1
 
 ### Dragon Zakura | 東大特訓班 \~ 龍櫻 | ドラゴン桜 \[90/100]
 
-### Saka no Ue no Kumo | 坂上之雲 | 坂の上の雲 \[93/100]
+### Clouds Above the Slope | 坂上之雲 | 坂の上の雲 \[93/100]
 
 『さかのうえのくも』
 
@@ -117,7 +119,7 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 
 ### Breaking Bad | 絕命毒師 | ブレイキング・バッド \[93/100]
 
-### Kodoku no Gourmet | 孤獨的美食家 | 孤独のグルメ \[92/100]
+### Solitary Gourmet | 孤獨的美食家 | 孤独のグルメ \[92/100]
 
 『こどくのぐるめ』
 

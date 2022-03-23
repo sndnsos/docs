@@ -16,7 +16,7 @@
 
 ## Live
 
-### Saka no Ue no Kumo | 坂上之雲 | 坂の上の雲&#x20;
+### Clouds Above the Slope | 坂上之雲 | 坂の上の雲&#x20;
 
 『さかのうえのくも』
 
@@ -46,7 +46,7 @@ UDIが7K（危険・汚い・きつい・規則が厳しい・休暇がとれな
 
 ### How to Become a Tyrant | 暴君養成指引
 
-### Kodoku no Gourmet | 孤獨的美食家 | 孤独のグルメ
+### Solitary Gourmet | 孤獨的美食家 | 孤独のグルメ
 
 『こどくのぐるめ』
 

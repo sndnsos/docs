@@ -54,6 +54,8 @@ description: Japanese Anime
 
 ### JAPAN SINKS: 2020 | 日本沈沒 2020 | 日本沈没2020 \[81/100] <a href="#firstheading" id="firstheading"></a>
 
+### OVERLORD | 不死者之王 | オーバーロード \[87/100] <a href="#firstheading" id="firstheading"></a>
+
 ### Oruchuban Ebichu | 倉鼠管家 | おるちゅばんエビちゅ\[95/100]
 
 ### Anohana | 未聞花名 | あの花 \[99/100]

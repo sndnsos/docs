@@ -22,6 +22,10 @@ description: Newer content is on top.
 
 ### The Full-Time Wife Escapist | 逃避雖可恥卻有用 \~ 月薪嬌妻 | 逃げるは恥だが役に立つ
 
+### Yellow Stone | 黃石
+
+### Westworld | 西部世界 | ウエストワールド
+
 ## \[Watching]
 
 ### A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活

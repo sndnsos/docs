@@ -6,7 +6,7 @@ description: Japanese Anime
 
 ## 番組　ばんぐみ <a href="#firstheading" id="firstheading"></a>
 
-### Demon Slayer: Kimetsu no Yaiba | 鬼滅之刃 | 鬼滅の刃 おにめつのやいば
+### Demon Slayer: Kimetsu no Yaiba | 鬼滅之刃 | 鬼滅の刃 きめつのやいば
 
 ### Gintama | 銀魂 | ぎんたま
 

@@ -15,7 +15,7 @@ description: Newer content is on top.
 * Sapiens: A Brief History of Humankind
 * げんき (Japanese Study Book in English)
 
-### Animal Farm 動物農場 動物農場
+### Animal Farm 動物農場
 
 by George Orwell&#x20;
 

@@ -82,7 +82,7 @@ description: Newer content is on top.
 
 **〖**日はまた昇る〗
 
-### Devils on the Doorstep | 鬼子來了 \[2000] \[95/100]
+### Devils on the Doorstep | 鬼子來了 \[2000] \[94/100]
 
 〖鬼が来た〗
 
@@ -106,7 +106,7 @@ description: Newer content is on top.
 
 〖阿Q正伝〗
 
-### V for Vendetta | V字仇殺隊 \~ V怪客 \[2005] \[93/100]
+### V for Vendetta | V字仇殺隊 \~ V怪客 \[2005] \[94/100]
 
 〖Vフォー・ヴェンデッタ〗
 
@@ -118,7 +118,7 @@ description: Newer content is on top.
 
 ## \[ - 2018 ]
 
-### Dying to Survive | 我不是藥神 \[2018] \[94/100]
+### Dying to Survive | 我不是藥神 \[2018] \[93/100]
 
 〖薬の神じゃない〗
 
@@ -172,9 +172,29 @@ description: Newer content is on top.
 
 〖活きる〗
 
-### The Warlords | 投**名狀 \[2007] \[91/100]**
+### The Warlords | 投**名狀 \[2007] \[90/100]**
 
 **〖**ウォーロード/男たちの誓い**〗**
+
+### Inception | 盜夢空間 \[2010] \[97/100]
+
+『インセプション』
+
+### 3 Idiots | 三個傻瓜 \[2009] \[98/100] <a href="#firstheading" id="firstheading"></a>
+
+『きっと、うまくいく』
+
+### Lock, Stock and Two Smoking Barrels | 兩桿大煙槍 \[1998] **\[96/100]**
+
+『ロック、ストック&トゥー・スモーキング・バレルズ』
+
+### The Matrix（黑客帝國 | 駭客任務）\[1999-2003] **\[97/100]**
+
+『マトリックス』
+
+* The Matrix - 1999
+* The Matrix Reloaded - 2003
+* The Matrix Revolutions - 2003
 
 ### The Hobbit | 哈比特人 \[2012-2014] \[96/100]
 

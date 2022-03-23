@@ -12,17 +12,17 @@ description: Japanese Anime
 
 『えんえんのしょうぼうたい』
 
+### Death Note
+
 ## \[Watching]
+
+
+
+## \[Watched]
 
 ### Demon Slayer: Kimetsu no Yaiba | 鬼滅之刃 | 鬼滅の刃 \[95/100]
 
-〖きめつのやいば〗
-
-### My Hero Academia | 我的英雄學院 | 僕のヒーローアカデミア \[94/100]
-
-### One Piece | **海賊王 |** ワンピース \[95/100]
-
-## \[Watched]
+〖きめつのやいば』
 
 ### JoJo's Bizarre Adventure | JoJo的奇妙冒險 | ジョジョの奇妙な冒険 \[90/100] <a href="#firstheading" id="firstheading"></a>
 
@@ -30,11 +30,11 @@ description: Japanese Anime
 
 〖じゅじゅつ かいせん〗
 
-### Attack on Titan | 進擊的巨人| 進撃の巨人 \[95/100]
+### Attack on Titan | 進擊的巨人| 進撃の巨人 \[95/100]&#x20;
 
 『しんげきのきょじん』
 
-### Detective Conan | 名偵探柯南 | 名探偵コナン \[88/100]
+### Detective Conan | 名偵探柯南 | 名探偵コナン \[88/100]&#x20;
 
 〖めいたんていコナン〗
 
@@ -42,9 +42,21 @@ description: Japanese Anime
 
 ### Code Geass | 反叛的魯路修 | コードギアス 反逆のルルーシュ \[96/100]
 
-### Re:Zero − Starting Life in Another World \[83/100]
+### My Hero Academia | 我的英雄學院 | 僕のヒーローアカデミア \[94/100]
 
-Re:ゼロから始める異世界生活 | Re：從零開始的異世界生活
+### Re:Zero − Starting Life in Another World | Re：從零開始的異世界生活 Re:ゼロから始める異世界生活 | \[83/100]
 
 ### JAPAN SINKS: 2020 | 日本沈沒 2020 | 日本沈没2020 \[81/100] <a href="#firstheading" id="firstheading"></a>
+
+### Oruchuban Ebichu | 倉鼠管家 | おるちゅばんエビちゅ\[95/100]
+
+### Anohana | 未聞花名 | あの花 \[99/100]
+
+あの日見た花の名前を僕達はまだ知らない
+
+### Gintama | 銀魂 | ぎんたま \[97/100]
+
+### One Piece | **海賊王 |** ワンピース \[95/100]
+
+### Naruto | 火影忍者 | NARUTO -ナルト- \[90/100]
 

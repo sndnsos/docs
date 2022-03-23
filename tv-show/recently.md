@@ -22,7 +22,9 @@ description: Newer content is on top.
 
 ## \[Watching]
 
-### Dragon Zakura | 東大特訓班 \~ 龍櫻 | ドラゴン桜
+## A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活
+
+『けんこうでぶんかてきなさいていげんどのせいかつ]』
 
 ## Cartoon (Western Style)
 
@@ -50,7 +52,7 @@ Book 1
 
 ## Live
 
-
+### Dragon Zakura | 東大特訓班 \~ 龍櫻 | ドラゴン桜
 
 ### Saka no Ue no Kumo | 坂上之雲 | 坂の上の雲&#x20;
 

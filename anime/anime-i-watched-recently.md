@@ -4,6 +4,20 @@ description: Japanese Anime
 
 # Anime I watched recently
 
+## \[To Watch] <a href="#firstheading" id="firstheading"></a>
+
+### Hunter x Hunter
+
+### Fire Force | 炎炎消防隊 | 炎炎ノ消防隊
+
+『えんえんのしょうぼうたい』
+
+## \[Watching]
+
+
+
+## \[Watched]
+
 ### JoJo's Bizarre Adventure | JoJo的奇妙冒險 | ジョジョの奇妙な冒険 \[90/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Jujutsu Kaisen | 咒術迴戰 | 呪術廻戦 \[95/100]

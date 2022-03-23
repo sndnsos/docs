@@ -6,17 +6,17 @@ description: Newer content is on top.
 
 ## \[TO Watch]
 
-### 1987: When the Day Comes（1987：黎明到來的那一天）\[2017]
+### 1987: When the Day Comes | 1987：黎明到來的那一天 \[2017]
 
 〖1987、ある闘いの真実〗
 
-### Excavator（挖掘機）\[2017]
+### Excavator | 挖掘機 \[2017]
 
-### Revolution of Our Times（時代革命）\[2021]
+### Revolution of Our Times | 時代革命 \[2021]
 
-### Drive My Car（駕駛我的車 | 在車上）ドライブ・マイ・カー\[2021]
+### Drive My Car | 駕駛我的車 \~ 在車上 | ドライブ・マイ・カー \[2021]
 
-### Wheel of Fortune and Fantasy（偶然與想像）偶然と想像\[2021] <a href="#firstheading" id="firstheading"></a>
+### Wheel of Fortune and Fantasy | 偶然與想像 | 偶然と想像 \[2021] <a href="#firstheading" id="firstheading"></a>
 
 『ぐうぜんとそうぞう』
 

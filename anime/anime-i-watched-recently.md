@@ -20,6 +20,10 @@ description: Japanese Anime
 
 『おうさまランキング』
 
+### Everyday | 日常 | 日常 <a href="#firstheading" id="firstheading"></a>
+
+『にちじょう』
+
 ## \[Watching]
 
 

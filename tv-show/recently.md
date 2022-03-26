@@ -60,7 +60,7 @@ Book 1
 
 ## Live
 
-### Dragon Zakura | 東大特訓班 \~ 龍櫻 | ドラゴン桜 \[90/100]
+### Dragon Zakura | 東大特訓班 \~ 龍櫻 | ドラゴン桜 \[92/100]
 
 ### Clouds Above the Slope | 坂上之雲 | 坂の上の雲 \[93/100]
 
@@ -78,7 +78,7 @@ Book 1
 
 ### You (1-3 Seasons) \[89/100] <a href="#firstheading" id="firstheading"></a>
 
-### The World Between Us | 我們與惡的距離 | 悪との距離 \[92/100] <a href="#firstheading" id="firstheading"></a>
+### The World Between Us | 我們與惡的距離 | 悪との距離 \[93/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Black Mirror | 黑鏡 | ブラック・ミラー \[96/100] <a href="#firstheading" id="firstheading"></a>
 

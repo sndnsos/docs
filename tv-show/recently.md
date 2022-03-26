@@ -62,6 +62,10 @@ Book 1
 
 ### Dragon Zakura | 東大特訓班 \~ 龍櫻 | ドラゴン桜 \[92/100]
 
+Season1 \[91/100]
+
+Seaons2 \[93/100]
+
 ### Clouds Above the Slope | 坂上之雲 | 坂の上の雲 \[93/100]
 
 『さかのうえのくも』

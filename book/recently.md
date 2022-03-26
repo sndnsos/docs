@@ -14,6 +14,17 @@ description: Newer content is on top.
 * Guns, Germs, and Steel: The Fates of Human Societies&#x20;
 * Sapiens: A Brief History of Humankind
 * げんき (Japanese Study Book in English)
+*   _La Louve et l'Enfant._
+
+    _La Guerre des loups._
+
+    [_La Nuit de la louve_](https://archive.org/details/lanuitdelalouver0000loev)_._
+
+### The Little Prince **小王子** 星の王子さま
+
+ほしのおうじさま (Hiragana)
+
+Le Petit Prince (French)
 
 ### Animal Farm 動物農場
 

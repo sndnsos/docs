@@ -14,11 +14,15 @@ description: Newer content is on top.
 * Guns, Germs, and Steel: The Fates of Human Societies&#x20;
 * Sapiens: A Brief History of Humankind
 * げんき (Japanese Study Book in English)
-*   _La Louve et l'Enfant._
+*   La Louve et l'Enfant.
 
-    _La Guerre des loups._
+    La Guerre des loups.
 
-    [_La Nuit de la louve_](https://archive.org/details/lanuitdelalouver0000loev)_._
+    [La Nuit de la louve](https://archive.org/details/lanuitdelalouver0000loev).
+
+### No Longer Human 人間失格 人間失格 にんげんしっかく <a href="#firstheading" id="firstheading"></a>
+
+by Osamu Dazai 太宰治 だざい おさむ
 
 ### The Little Prince **小王子** 星の王子さま
 
@@ -36,7 +40,7 @@ by Francis Yoshihiro 法蘭西斯·福山 福山よしひろ
 
 ### Don Quixote **唐吉訶德** ドン・キホーテ
 
-&#x20;(2005 version by Edith Grossman)
+&#x20;(2005 version translated by Edith Grossman)
 
 ## \[Reading]
 

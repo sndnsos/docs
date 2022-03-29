@@ -14,9 +14,7 @@ description: Newer content is on top.
 
 ### Revolution of Our Times | 時代革命 \[2021]
 
-### Wheel of Fortune and Fantasy | 偶然與想像 | 偶然と想像 \[2021] <a href="#firstheading" id="firstheading"></a>
 
-『ぐうぜんとそうぞう』
 
 ### Summer Palace | 頤和園 | 天安門、恋人たち \[2006]
 
@@ -29,6 +27,10 @@ description: Newer content is on top.
 ### Winter Sleep | **冬日甦醒 | Kış Uykusu \[2014]** <a href="#firstheading" id="firstheading"></a>
 
 ## \[ 2019 - 2021 ]
+
+### Wheel of Fortune and Fantasy | 偶然與想像 | 偶然と想像 \[2021] \[92/100] <a href="#firstheading" id="firstheading"></a>
+
+『ぐうぜんとそうぞう』
 
 ### Drive My Car | 駕駛我的車 \~ 在車上 | ドライブ・マイ・カー \[2021] \[95/100]
 

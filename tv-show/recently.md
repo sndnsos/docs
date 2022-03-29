@@ -24,15 +24,11 @@ description: Newer content is on top.
 
 ### Yellowstone | 黃石 | ケヴィン・コスナー
 
-### Westworld | 西部世界 | ウエストワールド
-
 ## \[Watching]
 
-### A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活
-
-『けんこうでぶんかてきなさいていげんどのせいかつ]』
-
 ### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
+
+### Westworld | 西部世界 | ウエストワールド {Second}
 
 ## Cartoon (Western Style)
 
@@ -59,6 +55,10 @@ Book 1
 
 
 ## Live
+
+### A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活 \[92/100]&#x20;
+
+『けんこうでぶんかてきなさいていげんどのせいかつ]』
 
 ### Dragon Zakura | 東大特訓班 \~ 龍櫻 | ドラゴン桜 \[92/100]
 

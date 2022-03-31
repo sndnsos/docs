@@ -154,10 +154,6 @@ description: Newer content is on top.
 
 『ラ・ラ・ランド』
 
-### Zootopia | 瘋狂動物城 \[2016] \[96/100]
-
-『ズートピア』
-
 ### Warcraft: The Beginning | **魔獸：崛起 \[2016] \[88/100]**
 
 ### The Revenant | 荒野獵人 \[2015] \[74/100]

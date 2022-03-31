@@ -56,10 +56,6 @@ description: The list order "might be close" to the first time I watch the films
 
 『ラ・ラ・ランド』
 
-### Zootopia | 瘋狂動物城 \[2016] \[96/100]
-
-『ズートピア』
-
 ### Cloud Atlas | 雲圖 \[2012] \[99/100]
 
 『クラウド アトラス』
@@ -87,8 +83,6 @@ description: The list order "might be close" to the first time I watch the films
 ### 3 Idiots | 三個傻瓜 \[2009] \[98/100] <a href="#firstheading" id="firstheading"></a>
 
 『きっと、うまくいく』
-
-
 
 ### The Matrix | 黑客帝國 \~ 駭客任務 \[1999-2003] \[97/100]
 

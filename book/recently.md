@@ -19,6 +19,7 @@ description: Newer content is on top.
     La Guerre des loups.
 
     [La Nuit de la louve](https://archive.org/details/lanuitdelalouver0000loev).
+* Anne of Green Gables 清秀佳人 赤毛のアン
 
 ### XXX
 

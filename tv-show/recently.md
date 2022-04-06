@@ -6,10 +6,6 @@ description: Newer content is on top.
 
 ## \[TO Watch]
 
-### Shiroi kyotou | 白色巨塔 | 白い巨塔
-
-『しろいきょとう』
-
 ### From the Northern Country | 來自北國 | 北の国から <a href="#firstheading" id="firstheading"></a>
 
 『きたのくにから』
@@ -58,7 +54,11 @@ Book 1
 
 ## Live
 
-### A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活 \[92/100]&#x20;
+### Shiroi kyotou | 白色巨塔 | 白い巨塔 \[94/100]
+
+『しろいきょとう』
+
+A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活 \[92/100]&#x20;
 
 『けんこうでぶんかてきなさいていげんどのせいかつ]』
 

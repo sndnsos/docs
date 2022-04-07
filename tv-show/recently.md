@@ -36,7 +36,7 @@ description: Newer content is on top.
 
 ### **Love, Death & Robots** ❤️❌🤖 **| 愛，死亡，和機器人 |** ラブ、デス&ロボット \[85/100]
 
-### Bojack Horseman | 馬男波傑克 | ボージャック・ホースマン \[92/100]
+### Bojack Horseman | 馬男波傑克 | ボージャック・ホースマン \[94/100]
 
 ### Arcana | **奧術 |** アーケイン \[96/100]
 

@@ -54,7 +54,7 @@ Book 1
 
 ## Live
 
-### Your Turn to Kill | 輪到你了 | あなたの番です \[83/100]
+### Your Turn to Kill | 輪到你了 | あなたの番です \[80/100]
 
 ### Shiroi kyotou | 白色巨塔 | 白い巨塔 \[94/100]
 

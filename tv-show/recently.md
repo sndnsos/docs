@@ -54,6 +54,8 @@ Book 1
 
 ## Live
 
+### I Will Break the Alibi | 破壞不在場證明 | アリバイ崩し承ります \[81/100]
+
 ### Your Turn to Kill | 輪到你了 | あなたの番です \[56/100]
 
 ### Shiroi kyotou | 白色巨塔 | 白い巨塔 \[94/100]

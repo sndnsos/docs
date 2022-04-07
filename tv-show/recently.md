@@ -30,7 +30,7 @@ description: Newer content is on top.
 
 ## Cartoon (Western Style)
 
-### Inside Job | 陰謀辦公室 | **陰謀論のお仕事 \[63/100]**
+### Inside Job | 陰謀辦公室 | **陰謀論のお仕事 \[59/100]**
 
 〖**いんぼうろん**のオシゴト〗
 
@@ -54,7 +54,7 @@ Book 1
 
 ## Live
 
-### Your Turn to Kill | 輪到你了 | あなたの番です \[80/100]
+### Your Turn to Kill | 輪到你了 | あなたの番です \[74/100]
 
 ### Shiroi kyotou | 白色巨塔 | 白い巨塔 \[94/100]
 

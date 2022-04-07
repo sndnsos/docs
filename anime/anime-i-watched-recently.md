@@ -44,7 +44,7 @@ description: Japanese Anime
 
 『しんげきのきょじん』
 
-### Detective Conan | 名偵探柯南 | 名探偵コナン \[88/100]&#x20;
+### Detective Conan | 名偵探柯南 | 名探偵コナン \[87/100]&#x20;
 
 〖めいたんていコナン〗
 

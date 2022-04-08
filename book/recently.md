@@ -57,6 +57,10 @@ by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ
 
 by Charles Dickens 查爾斯·狄更斯 \[England]
 
+### **Oliver Twist** **霧都孤兒**&#x20;
+
+by Charles Dickens 查爾斯·狄更斯 \[England]
+
 ### The Moon and Sixpence 月亮與六便士
 
 by William Somerset Maugham 威廉·薩默塞特·毛姆 \[England]
@@ -78,6 +82,20 @@ by Sigmund Freud 西格蒙德·佛洛伊德 \[Austrian]
 『Sofies Verden 』
 
 by Jostein Gaarder 喬斯坦·賈德
+
+### Res Publica 理想國
+
+by Plato 柏拉圖 Πλάτων&#x20;
+
+### Utopia 烏托邦 \~ **理想鄉**&#x20;
+
+『關於最完美的國家制度和烏托邦新島的既有益又有趣的金書』
+
+by Sir Thomas More 湯瑪斯·摩爾&#x20;
+
+### Novum Organum: Sive Indicia Vera de Interpretatione Naturae 新工具論：或解釋自然的一些指導 \[1620] <a href="#firstheading" id="firstheading"></a>
+
+by Francis Bacon 法蘭西斯·培根
 
 ## \[Reading]
 

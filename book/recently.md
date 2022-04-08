@@ -43,7 +43,7 @@ Le Petit Prince (French)
 
 ### Animal Farm 動物農場
 
-by George Orwell&#x20;
+by George Orwell 喬治·奧威爾 \[England]
 
 ### The Origins of Political Order 政治制度的起源 <a href="#firstheading" id="firstheading"></a>
 
@@ -52,6 +52,32 @@ by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ
 ### Don Quixote **唐吉訶德** ドン・キホーテ
 
 &#x20;(2005 version translated by Edith Grossman)
+
+### A Tale of Two Cities 雙城記&#x20;
+
+by Charles Dickens 查爾斯·狄更斯 \[England]
+
+### The Moon and Sixpence 月亮與六便士
+
+by William Somerset Maugham 威廉·薩默塞特·毛姆 \[England]
+
+### One Hundred Years of Solitude 百年孤獨&#x20;
+
+『Cien años de soledad』
+
+by Gabriel García Márquez 加布列·賈西亞·馬奎斯 \[Colombia]
+
+### The Interpretation of Dreams 夢的解析
+
+『Die Traumdeutung』
+
+by Sigmund Freud 西格蒙德·佛洛伊德 \[Austrian]
+
+### Sophie's World 蘇菲的世界
+
+『Sofies Verden 』
+
+by Jostein Gaarder 喬斯坦·賈德
 
 ## \[Reading]
 
@@ -76,15 +102,23 @@ by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
 
 ### 1984 \[95/100]
 
+by George Orwell 喬治·奧威爾 \[England]
+
 ### 看見 \[89/100]
 
-
+by 柴靜
 
 ## \[-2018]
 
+### The Kite Runner 追風箏的人
+
+by Khaled Hosseini 卡勒德·胡賽尼 \[Afghanistan]
+
+『君のためなら千回でも』
+
 ### Sword Art Online Series 刀劍神域系列
 
-by Reki Kawahara 川原礫（かわはら れき）
+by Reki Kawahara 川原礫（かわはら れき）\[Japan]
 
 ### Murder on the Orient Express 東方快車謀殺案
 
@@ -102,6 +136,10 @@ by Stephenie Morgan 史蒂芬妮·梅爾 \[U.S.]
 
 by J. K. Rowling J·K·羅琳 \[England]
 
+### The Wonderful Wizard of Oz 綠野仙蹤
+
+Lyman Frank Baum 李曼·法蘭克·鮑姆 \[U.S.]
+
 ### The Adventures of Tom Sawyer 湯姆索亞歷險記 <a href="#firstheading" id="firstheading"></a>
 
 by Mark Twain 馬克吐溫 \[U.S.]
@@ -114,6 +152,10 @@ by Robert Louis Stevenson 羅伯特·路易斯·史蒂文森 \[Scotland]
 
 by Daniel Defoe 丹尼爾·笛福 \[England]
 
+### Voyage au centre de la Terre 地心歷險記
+
+by Jules Verne 朱爾·凡爾納 \[France]
+
 ### The Mysterious Island 神祕島 <a href="#firstheading" id="firstheading"></a>
 
 by Jules Verne 朱爾·凡爾納 \[France]
@@ -122,6 +164,24 @@ by Jules Verne 朱爾·凡爾納 \[France]
 
 by Jules Verne 朱爾·凡爾納 \[France]
 
-### Twenty Thousand Leagues Under the Sea (海底二万里)
+### Twenty Thousand Leagues Under the Sea 海底二万里
 
 by Jules Verne 朱爾·凡爾納 \[France]
+
+### Journey to the West 西遊記
+
+by [Wu Cheng'en](https://en.wikipedia.org/wiki/Wu\_Cheng'en) 吳承恩
+
+### Water Margin 水滸傳
+
+by [Shi Nai'an](https://en.wikipedia.org/wiki/Shi\_Nai'an) 施耐庵
+
+### Romance\_of\_the\_Three\_Kingdoms 三國演義
+
+by [Luo Guanzhong](https://en.wikipedia.org/wiki/Luo\_Guanzhong) 羅貫中
+
+### One Thousand and One Nights 一千零一夜 <a href="#firstheading" id="firstheading"></a>
+
+### Works by Hans Christian Andersen 安徒生童話 <a href="#firstheading" id="firstheading"></a>
+
+by Hans Christian Andersen 漢斯·克里斯汀·安徒生&#x20;

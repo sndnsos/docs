@@ -35,11 +35,11 @@ by Haruki Murakami **村上春樹** むらかみ はるき (1949- )
 
 ### The Little Prince **小王子** 星の王子さま \[1943]
 
-by 安托萬·迪·聖-修伯里 (1900-1944) **Antoine de Saint-Exupéry**
-
 ほしのおうじさま (Hiragana)
 
 Le Petit Prince (French)
+
+by 安托萬·迪·聖-修伯里 (1900-1944) **Antoine de Saint-Exupéry**
 
 ### Animal Farm 動物農場
 
@@ -47,7 +47,7 @@ by George Orwell 喬治·奧威爾 \[England]
 
 ### The Origins of Political Order 政治制度的起源 <a href="#firstheading" id="firstheading"></a>
 
-by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ
+by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ \[U.S.]
 
 ### Don Quixote **唐吉訶德** ドン・キホーテ
 
@@ -81,21 +81,25 @@ by Sigmund Freud 西格蒙德·佛洛伊德 \[Austrian]
 
 『Sofies Verden 』
 
-by Jostein Gaarder 喬斯坦·賈德
+by Jostein Gaarder 喬斯坦·賈德 \[Norway]
 
-### Res Publica 理想國
+### Res Publica 理想國 \[54 - 51 BC]
 
-by Plato 柏拉圖 Πλάτων&#x20;
+by Plato 柏拉圖 Πλάτων \[Greek]
 
-### Utopia 烏托邦 \~ **理想鄉**&#x20;
+### Utopia 烏托邦 \~ **理想鄉 \[1516]**
 
 『關於最完美的國家制度和烏托邦新島的既有益又有趣的金書』
 
-by Sir Thomas More 湯瑪斯·摩爾&#x20;
+by Sir Thomas More 湯瑪斯·摩爾 \[Englande]
 
 ### Novum Organum: Sive Indicia Vera de Interpretatione Naturae 新工具論：或解釋自然的一些指導 \[1620] <a href="#firstheading" id="firstheading"></a>
 
-by Francis Bacon 法蘭西斯·培根
+by Francis Bacon 法蘭西斯·培根 \[England]
+
+### The Spirit of Law 論法的精神 \[1748] <a href="#firstheading" id="firstheading"></a>
+
+by Montesquieu 孟德斯鳩 \[France]
 
 ## \[Reading]
 

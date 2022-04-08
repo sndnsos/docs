@@ -80,7 +80,11 @@ by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
 
 
 
-## \[2018]
+## \[-2018]
+
+### Sword Art Online Series 刀劍神域系列
+
+by Reki Kawahara 川原礫（かわはら れき）
 
 ### Murder on the Orient Express 東方快車謀殺案
 
@@ -89,6 +93,14 @@ by Agatha Christie 阿嘉莎·克莉絲蒂 \[England]
 ### And Then There Were None 無人生還
 
 by Agatha Christie 阿嘉莎·克莉絲蒂 \[England]
+
+### Twilight Series 墓光之城系列
+
+by Stephenie Morgan 史蒂芬妮·梅爾 \[U.S.]
+
+### Harry Potter Series 哈利波特系列
+
+by J. K. Rowling J·K·羅琳 \[England]
 
 ### The Adventures of Tom Sawyer 湯姆索亞歷險記 <a href="#firstheading" id="firstheading"></a>
 
@@ -102,6 +114,14 @@ by Robert Louis Stevenson 羅伯特·路易斯·史蒂文森 \[Scotland]
 
 by Daniel Defoe 丹尼爾·笛福 \[England]
 
+### The Mysterious Island 神祕島 <a href="#firstheading" id="firstheading"></a>
+
+by Jules Verne 朱爾·凡爾納 \[France]
+
 ### Around the World in Eighty Days 八十天環遊地球
 
-###
+by Jules Verne 朱爾·凡爾納 \[France]
+
+### Twenty Thousand Leagues Under the Sea (海底二万里)
+
+by Jules Verne 朱爾·凡爾納 \[France]

@@ -21,7 +21,7 @@ description: Newer content is on top.
     [La Nuit de la louve](https://archive.org/details/lanuitdelalouver0000loev).
 * Anne of Green Gables 清秀佳人 赤毛のアン
 
-### XXX
+### 万卡舅舅
 
 by Anton Pavlovich Chekhov **安東·帕夫洛維奇·契訶夫** Антон Павлович Чехов \[1860-1904]
 
@@ -62,18 +62,46 @@ by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
 * Run, Melos! 奔跑吧，梅樂斯！ **走れメロス** 1940&#x20;
 * The Setting Sun **斜陽** しゃよう 1947
 
-### Why Buddhism is True 為什麼佛學是真的&#x20;
-
 ### Bible 聖經 聖書 せいしょ
 
 ### 大家的日本語 みんなの日本語
 
 ## \[2019 - 2022]
 
-### Ecstasy 65 Days اكستاسي 65 يوم
+### Why Buddhism is True 為什麼佛學是真的 \[89/100]
 
-### 古老的罪惡 (Aged Sins)
+### Ecstasy 65 Days( اكستاسي 65 يوم )\[88/100]
 
-### 1984
+### 古老的罪惡 (Aged Sins) \[86/100]
 
-### 看見
+### 1984 \[95/100]
+
+### 看見 \[89/100]
+
+
+
+## \[2018]
+
+### Murder on the Orient Express 東方快車謀殺案
+
+by Agatha Christie 阿嘉莎·克莉絲蒂 \[England]
+
+### And Then There Were None 無人生還
+
+by Agatha Christie 阿嘉莎·克莉絲蒂 \[England]
+
+### The Adventures of Tom Sawyer 湯姆索亞歷險記 <a href="#firstheading" id="firstheading"></a>
+
+by Mark Twain 馬克吐溫 \[U.S.]
+
+### Treasure Island 金銀島 <a href="#firstheading" id="firstheading"></a>
+
+by Robert Louis Stevenson 羅伯特·路易斯·史蒂文森 \[Scotland]
+
+### Robinson Crusoe **魯賓遜漂流記**
+
+by Daniel Defoe 丹尼爾·笛福 \[England]
+
+### Around the World in Eighty Days 八十天環遊地球
+
+###

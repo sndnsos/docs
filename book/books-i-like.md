@@ -6,11 +6,11 @@
 
 ### 1984
 
-### Sword Art Online Series
+### Sword Art Online Series 刀劍神域系列
 
-### Twilight Series
+### Twilight Series 墓光之城系列
 
-### Harry Potter Series
+### Harry Potter Series 哈利波特系列
 
 ###
 

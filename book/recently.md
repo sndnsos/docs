@@ -21,7 +21,7 @@ description: Newer content is on top.
     [La Nuit de la louve](https://archive.org/details/lanuitdelalouver0000loev).
 * Anne of Green Gables 清秀佳人 赤毛のアン
 
-### 萬尼亞舅舅
+### Uncle Vanya 萬尼亞舅舅
 
 by Anton Pavlovich Chekhov **安東·帕夫洛維奇·契訶夫** Антон Павлович Чехов \[1860-1904]
 

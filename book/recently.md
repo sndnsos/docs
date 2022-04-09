@@ -21,13 +21,17 @@ description: Newer content is on top.
     [La Nuit de la louve](https://archive.org/details/lanuitdelalouver0000loev).
 * Anne of Green Gables 清秀佳人 赤毛のアン
 
-### Uncle Vanya 萬尼亞舅舅
+### The Prince 君王論 \[1513]
 
-by Anton Pavlovich Chekhov **安東·帕夫洛維奇·契訶夫** Антон Павлович Чехов \[1860-1904]
+by Niccolò Machiavelli 馬基維利 \[Italy]
+
+### Uncle Vanya 萬尼亞舅舅 \[1898]
+
+by Anton Pavlovich Chekhov **安東·帕夫洛維奇·契訶夫** Антон Павлович Чехов \[Russia]
 
 ### Norwegian Wood 挪威的森林 ノルウェイの森 \[1987] <a href="#firstheading" id="firstheading"></a>
 
-by Haruki Murakami **村上春樹** むらかみ はるき (1949- )
+by Haruki Murakami **村上春樹** むらかみ はるき
 
 * 1Q84 \[2009]
 * 東京奇譚集 とうきょうきたんしゅう \[2005]
@@ -41,43 +45,43 @@ Le Petit Prince (French)
 
 by 安托萬·迪·聖-修伯里 (1900-1944) **Antoine de Saint-Exupéry**
 
-### Animal Farm 動物農場
+### Animal Farm 動物農場 \[1945]
 
 by George Orwell 喬治·奧威爾 \[England]
 
-### The Origins of Political Order 政治制度的起源 <a href="#firstheading" id="firstheading"></a>
+### The Origins of Political Order 政治制度的起源 \[2011]  <a href="#firstheading" id="firstheading"></a>
 
 by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ \[U.S.]
 
-### Don Quixote **唐吉訶德** ドン・キホーテ
+### Don Quixote **唐吉訶德** ドン・キホーテ \[1605]
 
 &#x20;(2005 version translated by Edith Grossman)
 
-### A Tale of Two Cities 雙城記&#x20;
+### A Tale of Two Cities 雙城記 \[1859]
 
 by Charles Dickens 查爾斯·狄更斯 \[England]
 
-### **Oliver Twist** **霧都孤兒**&#x20;
+### **Oliver Twist** **霧都孤兒** \[1838]
 
 by Charles Dickens 查爾斯·狄更斯 \[England]
 
-### The Moon and Sixpence 月亮與六便士
+### The Moon and Sixpence 月亮與六便士 \[1919]
 
 by William Somerset Maugham 威廉·薩默塞特·毛姆 \[England]
 
-### One Hundred Years of Solitude 百年孤獨&#x20;
+### One Hundred Years of Solitude 百年孤獨 \[1967]&#x20;
 
 『Cien años de soledad』
 
 by Gabriel García Márquez 加布列·賈西亞·馬奎斯 \[Colombia]
 
-### The Interpretation of Dreams 夢的解析
+### The Interpretation of Dreams 夢的解析 \[1899]&#x20;
 
 『Die Traumdeutung』
 
 by Sigmund Freud 西格蒙德·佛洛伊德 \[Austrian]
 
-### Sophie's World 蘇菲的世界
+### Sophie's World 蘇菲的世界 \[1991]
 
 『Sofies Verden 』
 

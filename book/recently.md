@@ -49,10 +49,6 @@ by 安托萬·迪·聖-修伯里 (1900-1944) **Antoine de Saint-Exupéry**
 
 by George Orwell 喬治·奧威爾 \[England]
 
-### The Origins of Political Order 政治制度的起源 \[2011]  <a href="#firstheading" id="firstheading"></a>
-
-by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ \[U.S.]
-
 ### Don Quixote **唐吉訶德** ドン・キホーテ \[1605]
 
 &#x20;(2005 version translated by Edith Grossman)
@@ -64,28 +60,6 @@ by Charles Dickens 查爾斯·狄更斯 \[England]
 ### **Oliver Twist** **霧都孤兒** \[1838]
 
 by Charles Dickens 查爾斯·狄更斯 \[England]
-
-### The Moon and Sixpence 月亮與六便士 \[1919]
-
-by William Somerset Maugham 威廉·薩默塞特·毛姆 \[England]
-
-### One Hundred Years of Solitude 百年孤獨 \[1967]&#x20;
-
-『Cien años de soledad』
-
-by Gabriel García Márquez 加布列·賈西亞·馬奎斯 \[Colombia]
-
-### The Interpretation of Dreams 夢的解析 \[1899]&#x20;
-
-『Die Traumdeutung』
-
-by Sigmund Freud 西格蒙德·佛洛伊德 \[Austrian]
-
-### Sophie's World 蘇菲的世界 \[1991]
-
-『Sofies Verden 』
-
-by Jostein Gaarder 喬斯坦·賈德 \[Norway]
 
 ### Res Publica 理想國 \[54 - 51 BC]
 
@@ -104,6 +78,58 @@ by Francis Bacon 法蘭西斯·培根 \[England]
 ### The Spirit of Law 論法的精神 \[1748] <a href="#firstheading" id="firstheading"></a>
 
 by Montesquieu 孟德斯鳩 \[France]
+
+### The Social Contract 社會契約論 \[1762]
+
+『Du contrat social ou Principes du droit politique』
+
+by Jean-Jacques Rousseau 尚-雅克·盧梭 \[France ・ Geneva]
+
+### Groundwork of the Metaphysics of Morals 道德的形而上學的基礎 \[1785] <a href="#firstheading" id="firstheading"></a>
+
+『人倫の形而上学の基礎づけ = じんりんのけいじじょうがくのきそづけ』
+
+by Immanuel Kant 伊曼努爾·康德 \[Germany]
+
+### The World as Will and Representation **作為意志和表象的世界 \[1818]**
+
+『Die Welt als Wille und Vorstellung』
+
+by Arthur Schopenhauer 阿圖爾·叔本華 \[Germany]
+
+### The Interpretation of Dreams 夢的解析 \[1899]&#x20;
+
+『Die Traumdeutung』
+
+by Sigmund Freud 西格蒙德·佛洛伊德 \[Austrian]
+
+### Introduction to Psychoanalysis 精神分析入门 \[1917] <a href="#firstheading" id="firstheading"></a>
+
+by Sigmund Freud 西格蒙德·佛洛伊德 \[Austrian]
+
+### The Moon and Sixpence 月亮與六便士 \[1919]
+
+by William Somerset Maugham 威廉·薩默塞特·毛姆 \[England]
+
+### A History of Western Philosophy 西方哲學史 \[1945]
+
+by Bertrand Russell 伯特蘭·羅素 \[England]
+
+### One Hundred Years of Solitude 百年孤獨 \[1967]&#x20;
+
+『Cien años de soledad』
+
+by Gabriel García Márquez 加布列·賈西亞·馬奎斯 \[Colombia]
+
+### Sophie's World 蘇菲的世界 \[1991]
+
+『Sofies Verden 』
+
+by Jostein Gaarder 喬斯坦·賈德 \[Norway]
+
+### The Origins of Political Order 政治制度的起源 \[2011]  <a href="#firstheading" id="firstheading"></a>
+
+by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ \[U.S.]
 
 ## \[Reading]
 

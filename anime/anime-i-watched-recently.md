@@ -26,7 +26,7 @@ description: Japanese Anime
 
 ## \[Watching]
 
-
+### One Piece | **海賊王 |** ワンピース \[95/100]
 
 ## \[Watched]
 
@@ -67,8 +67,6 @@ description: Japanese Anime
 あの日見た花の名前を僕達はまだ知らない
 
 ### Gintama | 銀魂 | ぎんたま \[97/100]
-
-### One Piece | **海賊王 |** ワンピース \[95/100]
 
 ### Naruto | 火影忍者 | NARUTO -ナルト- \[90/100]
 

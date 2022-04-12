@@ -45,6 +45,10 @@ Le Petit Prince (French)
 
 by 安托萬·迪·聖-修伯里 (1900-1944) **Antoine de Saint-Exupéry**
 
+### Brave New World 美麗新世界 すばらしい新世界 \[1932]
+
+by Aldous Huxley 阿道斯·赫胥黎 \[England]
+
 ### Animal Farm 動物農場 \[1945]
 
 by George Orwell 喬治·奧威爾 \[England]

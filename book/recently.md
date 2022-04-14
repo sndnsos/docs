@@ -20,6 +20,7 @@ description: Newer content is on top.
 
     [La Nuit de la louve](https://archive.org/details/lanuitdelalouver0000loev).
 * Anne of Green Gables 清秀佳人 赤毛のアン
+* Humankind: A Hopeful History
 
 ### The Prince | 君王論 \[1513]
 
@@ -135,7 +136,11 @@ by Jostein Gaarder 喬斯坦·賈德 \[Norway]
 
 by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ \[U.S.]
 
-### Im Westen nichts Neues | 西線無戰事
+### Im Westen nichts Neues | 西線無戰事 \[1929]
+
+### The Lord of the Rings | 魔戒 \~ 指环王 \[1955]
+
+### Percy Jackson & the Olympians 波西傑克森 \[2005-2009]
 
 ## \[Reading]
 

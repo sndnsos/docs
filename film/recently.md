@@ -14,6 +14,8 @@ description: Newer content is on top.
 
 ### Revolution of Our Times | 時代革命 \[2021]
 
+
+
 ### Summer Palace | 頤和園 | 天安門、恋人たち \[2006]
 
 『てんあんもんこいびとたち』
@@ -23,18 +25,6 @@ description: Newer content is on top.
 ### Burning | 燃燒 | 버닝 \[2018] <a href="#firstheading" id="firstheading"></a>
 
 ### Winter Sleep | **冬日甦醒 | Kış Uykusu \[2014]** <a href="#firstheading" id="firstheading"></a>
-
-### The Worst Person in the World | 世界上最爛的人·提爾 | Verdens verste menneske \[2021]
-
-### Flugt | 漂浪人生 \[2021]&#x20;
-
-### The Power of the Dog | 犬山記 \[2021]
-
-### Dune | 沙丘 \[2021]
-
-### CODA | 樂動心旋律 \[2021] <a href="#firstheading" id="firstheading"></a>
-
-### Little Miss Sunshine | 小太陽的願望 \[2005]
 
 ## \[ 2019 - 2021 ]
 

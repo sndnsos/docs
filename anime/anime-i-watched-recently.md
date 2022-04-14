@@ -24,6 +24,8 @@ description: Japanese Anime
 
 『にちじょう』
 
+### Your Lie in April | 四月是你的謊言 | 四月は君の嘘
+
 ## \[Watching]
 
 ### One Piece | **海賊王 |** ワンピース \[95/100]

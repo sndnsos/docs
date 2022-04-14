@@ -22,6 +22,8 @@ description: Newer content is on top.
 
 ### **Revenge Office |** Kättemaksukontor <a href="#firstheading" id="firstheading"></a>
 
+### Mr. Robot | 黑客軍團 \~ 駭客軍團
+
 ## \[Watching]
 
 ### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>

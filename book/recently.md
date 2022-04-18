@@ -112,9 +112,17 @@ by Sigmund Freud 西格蒙德·佛洛伊德 \[Austrian]
 
 by Sigmund Freud 西格蒙德·佛洛伊德 \[Austrian]
 
-### The Moon and Sixpence | 月亮與六便士 \[1919]
+### The Moon and Sixpence | 月亮與六便士 | 月と六ペンス \[1919]
+
+『つきとろくペンス』
 
 by William Somerset Maugham 威廉·薩默塞特·毛姆 \[England]
+
+### Miracles of the Namiya General Store | 解憂雜貨店 | ナミヤ雑貨店の奇蹟
+
+『ナミヤ』
+
+by Higashino Keigo 東野圭吾 ひがしの けいご \[Japan]
 
 ### A History of Western Philosophy | 西方哲學史 \[1945]
 

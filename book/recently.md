@@ -42,21 +42,9 @@ by Haruki Murakami **村上春樹** むらかみ はるき
 * 東京奇譚集 とうきょうきたんしゅう \[2005]
 * Colorless Tsukuru Tazaki and His Years of Pilgrimage 沒有色彩的多崎作和他的巡禮之年 色彩を持たない多崎つくると、彼の巡礼の年 \[2013]
 
-### The Little Prince | **小王子** | 星の王子さま \[1943]
-
-ほしのおうじさま (Hiragana)
-
-Le Petit Prince (French)
-
-by 安托萬·迪·聖-修伯里 (1900-1944) **Antoine de Saint-Exupéry**
-
 ### Brave New World | 美麗新世界 | すばらしい新世界 \[1932]
 
 by Aldous Huxley 阿道斯·赫胥黎 \[England]
-
-### Animal Farm | 動物農場 \[1945]
-
-by George Orwell 喬治·奧威爾 \[England]
 
 ### Don Quixote | **唐吉訶德** ドン・キホーテ \[1605]
 
@@ -169,13 +157,25 @@ by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
 
 ## \[2019 - 2022]
 
+### Animal Farm | 動物農場 \[1945] \[96/100]
+
+by George Orwell 喬治·奧威爾 \[England]
+
+### The Little Prince | **小王子** | 星の王子さま \[1943] \[93/100]
+
+ほしのおうじさま (Hiragana)
+
+Le Petit Prince (French)
+
+by 安托萬·迪·聖-修伯里 (1900-1944) **Antoine de Saint-Exupéry**
+
 ### Why Buddhism is True | 為什麼佛學是真的 \[89/100]
 
 ### Ecstasy 65 Days \[88/100]
 
 ### 古老的罪惡 (Aged Sins) \[86/100]
 
-### 1984 \[95/100]
+### 1984 \[1949] \[95/100]
 
 by George Orwell 喬治·奧威爾 \[England]
 

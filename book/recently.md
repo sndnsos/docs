@@ -26,9 +26,13 @@ description: Newer content is on top.
 
 by Niccolò Machiavelli 馬基維利 \[Italy]
 
-### Uncle Vanya | 萬尼亞舅舅 \[1898]
+### The Wealth of Nations | 國富論 \[1776] <a href="#firstheading" id="firstheading"></a>
 
-by Anton Pavlovich Chekhov **安東·帕夫洛維奇·契訶夫** Антон Павлович Чехов \[Russia]
+by Adam Smith 亞當·史密斯 \[U.K - Scotland]
+
+### ~~Uncle Vanya | 萬尼亞舅舅 \[1898]~~
+
+~~by Anton Pavlovich Chekhov **安東·帕夫洛維奇·契訶夫** Антон Павлович Чехов \[Russia]~~
 
 ### Norwegian Wood | 挪威的森林 | ノルウェイの森 \[1987] <a href="#firstheading" id="firstheading"></a>
 

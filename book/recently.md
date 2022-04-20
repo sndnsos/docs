@@ -155,6 +155,12 @@ by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
 
 ### 大家的日本語 | みんなの日本語
 
+### The Crowd: A Study of the Popular Mind | 烏合之眾：大眾心理研究 | \[1895]
+
+『Psychologie des Foules』
+
+by Gustave Le Bon 古斯塔夫·勒龐 \[France]
+
 ## \[2019 - 2022]
 
 ### Animal Farm | 動物農場 \[1945] \[96/100]

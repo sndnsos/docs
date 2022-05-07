@@ -22,6 +22,10 @@ description: Newer content is on top.
 * Anne of Green Gables 清秀佳人 赤毛のアン
 * Humankind: A Hopeful History
 
+### A Theory of Justice | 正義論 \[1971]
+
+by John Rawls \[US]
+
 ### The Prince | 君王論 \[1513]
 
 by Niccolò Machiavelli 馬基維利 \[Italy]
@@ -137,6 +141,13 @@ by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ \[U.S.]
 ### The Lord of the Rings | 魔戒 \~ 指环王 \[1955]
 
 ### Percy Jackson & the Olympians 波西傑克森 \[2005-2009]
+
+* Winnie the Pooh
+* Love in the Time of Cholera
+* Catcher in the Rye | 麥田裏的守望者 \~ 麥田捕手
+* Lord of the Flies | 蝇王
+* The Elementals of Style | 英文寫作指南
+* We
 
 ## \[Reading]
 

@@ -22,8 +22,6 @@ description: Newer content is on top.
 
 ## **\[Playing]**
 
-### Big Time (NFT game - not recommended)
-
 ### **The Wolf Among Us（我們中的一隻狼）{Second}**
 
 ## \[ 2019 - 2021 ]

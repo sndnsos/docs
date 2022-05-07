@@ -42,10 +42,6 @@ by Haruki Murakami **村上春樹** むらかみ はるき
 * 東京奇譚集 とうきょうきたんしゅう \[2005]
 * Colorless Tsukuru Tazaki and His Years of Pilgrimage 沒有色彩的多崎作和他的巡禮之年 色彩を持たない多崎つくると、彼の巡礼の年 \[2013]
 
-### Brave New World | 美麗新世界 | すばらしい新世界 \[1932]
-
-by Aldous Huxley 阿道斯·赫胥黎 \[England]
-
 ### Don Quixote | **唐吉訶德** ドン・キホーテ \[1605]
 
 &#x20;(2005 version translated by Edith Grossman)
@@ -144,6 +140,10 @@ by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ \[U.S.]
 
 ## \[Reading]
 
+### Educated | 當你像鳥飛往你的山 \[2018] <a href="#firstheading" id="firstheading"></a>
+
+by Tara Westover
+
 ### No Longer Human | 人間失格 | 人間失格 にんげんしっかく \[1948] <a href="#firstheading" id="firstheading"></a>
 
 by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
@@ -162,6 +162,10 @@ by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
 by Gustave Le Bon 古斯塔夫·勒龐 \[France]
 
 ## \[2019 - 2022]
+
+### Brave New World | 美麗新世界 | すばらしい新世界 \[1932] \[94/100]
+
+by Aldous Huxley 阿道斯·赫胥黎 \[England]
 
 ### Animal Farm | 動物農場 \[1945] \[96/100]
 

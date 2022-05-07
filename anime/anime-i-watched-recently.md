@@ -12,8 +12,6 @@ description: Japanese Anime
 
 『えんえんのしょうぼうたい』
 
-### Death Note | 死亡筆記本 | デスノート
-
 ### That Time I Got Reincarnated as a Slime | 關於我轉生變成史萊姆這檔事 | 転生したらスライムだった件
 
 ### Ranking of Kings | 國王排名 | 王様ランキング
@@ -31,6 +29,8 @@ description: Japanese Anime
 ## \[Watching]
 
 ### One Piece | **海賊王 |** ワンピース \[95/100]
+
+### Death Note | 死亡筆記本 | デスノート
 
 ## \[Watched]
 

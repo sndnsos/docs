@@ -30,9 +30,9 @@ description: Japanese Anime
 
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
-### Death Note | 死亡筆記本 | デスノート
-
 ## \[Watched]
+
+### Death Note | 死亡筆記本 | デスノート \[90/100]
 
 ### Demon Slayer: Kimetsu no Yaiba | 鬼滅之刃 | 鬼滅の刃 \[95/100]
 

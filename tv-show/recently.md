@@ -22,10 +22,6 @@ description: Newer content is on top.
 
 ### **Revenge Office |** Kättemaksukontor <a href="#firstheading" id="firstheading"></a>
 
-### Mr. Robot | 黑客軍團 \~ 駭客軍團
-
-### The 100 | 地球百子
-
 ## \[Watching]
 
 ### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
@@ -57,6 +53,10 @@ Book 1
 
 
 ## Live
+
+### Mr. Robot | 黑客軍團 \~ 駭客軍團 \[94/100]
+
+### The 100 | 地球百子 \[57/100]
 
 ### I Will Break the Alibi | 破壞不在場證明 | アリバイ崩し承ります \[80/100]
 

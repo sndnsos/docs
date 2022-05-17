@@ -26,19 +26,11 @@ description: Japanese Anime
 
 ### Cowboy Bebop | 星際牛仔 | カウボーイビバップ
 
-
-
 ## \[Watching]
 
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
-### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
-
-### Spy × Family | 間諜過家家 | SPY×FAMILY <a href="#firstheading" id="firstheading"></a>
-
 ## \[Watched]
-
-### Vampire in the Garden | 花園裡的吸血鬼 | ヴァンパイア・イン・ザ・ガーデン \[85/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Death Note | 死亡筆記本 | デスノート \[90/100]
 
@@ -69,8 +61,6 @@ description: Japanese Anime
 ### Re:Zero − Starting Life in Another World | Re：從零開始的異世界生活 Re:ゼロから始める異世界生活 | \[83/100]
 
 ### JAPAN SINKS: 2020 | 日本沈沒 2020 | 日本沈没2020 \[81/100] <a href="#firstheading" id="firstheading"></a>
-
-### Steins;Gate | 命運石之門 | Steins;Gate \[93/100] <a href="#firstheading" id="firstheading"></a>
 
 ### OVERLORD | 不死者之王 | オーバーロード \[87/100] <a href="#firstheading" id="firstheading"></a>
 

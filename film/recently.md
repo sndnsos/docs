@@ -14,10 +14,6 @@ description: Newer content is on top.
 
 ### Revolution of Our Times | 時代革命 \[2021]
 
-### Summer Palace | 頤和園 | 天安門、恋人たち \[2006]
-
-『てんあんもんこいびとたち』
-
 ### Free Guy | **失控玩家** \[2021]
 
 ### Burning | 燃燒 | 버닝 \[2018] <a href="#firstheading" id="firstheading"></a>
@@ -37,6 +33,10 @@ description: Newer content is on top.
 ### Little Miss Sunshine | 小太陽的願望 \[2005]
 
 ## \[ 2019 - 2021 ]
+
+### Summer Palace | 頤和園 | 天安門、恋人たち \[2006] \[89/100]
+
+『てんあんもんこいびとたち』
 
 ### Wheel of Fortune and Fantasy | 偶然與想像 | 偶然と想像 \[2021] \[92/100] <a href="#firstheading" id="firstheading"></a>
 

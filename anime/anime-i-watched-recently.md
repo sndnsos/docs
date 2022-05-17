@@ -70,7 +70,7 @@ description: Japanese Anime
 
 ### JAPAN SINKS: 2020 | 日本沈沒 2020 | 日本沈没2020 \[81/100] <a href="#firstheading" id="firstheading"></a>
 
-### Steins;Gate | 命運石之門 | Steins;Gate \[92/100] <a href="#firstheading" id="firstheading"></a>
+### Steins;Gate | 命運石之門 | Steins;Gate \[93/100] <a href="#firstheading" id="firstheading"></a>
 
 ### OVERLORD | 不死者之王 | オーバーロード \[87/100] <a href="#firstheading" id="firstheading"></a>
 

@@ -22,7 +22,7 @@ description: Newer content is on top.
 
 ### The Worst Person in the World | 世界上最爛的人·提爾 | Verdens verste menneske \[2021]
 
-### Flugt | 漂浪人生 \[2021]&#x20;
+### Flee | 漂浪人生 | Flugt \[2021]&#x20;
 
 ### The Power of the Dog | 犬山記 \[2021]
 
@@ -31,6 +31,8 @@ description: Newer content is on top.
 ### CODA | 樂動心旋律 \~ **健聽女孩** \[2021] <a href="#firstheading" id="firstheading"></a>
 
 ### Little Miss Sunshine | 小太陽的願望 \[2005]
+
+### Lucy | 露西 \[2014]
 
 ## \[ 2019 - 2021 ]
 

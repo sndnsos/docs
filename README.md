@@ -10,13 +10,13 @@ description: I am here studying and recording!
 
 ## Social
 
-|                   [Index](https://snowy-smile.com)                  |                                               |                                          |
-| :-----------------------------------------------------------------: | :-------------------------------------------: | :--------------------------------------: |
-| [Youtube](https://www.youtube.com/channel/UCnZ9WRsfCsoDJrXbhDIg7kA) | [Twitter](https://twitter.com/snowy\_smile\_) |                                          |
-|                               Facebook                              |                   Instagram                   |                                          |
-|                  [WordPress](https://snsmile.live)                  |          [Hexo](https://snsmile.com)          | [Blogspot](https://blog.snowy-smile.com) |
-|                               Discord                               |                    Telegram                   |                                          |
-|            [Discord Group](https://discord.gg/cJaeSn9nK7)           |                 Telegram Group                |                                          |
+|                  [Index](https://snowy-smile.com/)                  |                                               |                                           |
+| :-----------------------------------------------------------------: | :-------------------------------------------: | :---------------------------------------: |
+| [Youtube](https://www.youtube.com/channel/UCnZ9WRsfCsoDJrXbhDIg7kA) | [Twitter](https://twitter.com/snowy\_smile\_) |                                           |
+|                               Facebook                              |                   Instagram                   |                                           |
+|                  [WordPress](https://snsmile.live/)                 |          [Hexo](https://snsmile.com/)         | [Blogspot](https://blog.snowy-smile.com/) |
+|                               Discord                               |                    Telegram                   |                                           |
+|            [Discord Group](https://discord.gg/cJaeSn9nK7)           |                 Telegram Group                |                                           |
 
 ## Alive
 

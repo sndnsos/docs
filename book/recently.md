@@ -22,6 +22,10 @@ description: Newer content is on top.
 * Anne of Green Gables 清秀佳人 赤毛のアン
 * Humankind: A Hopeful History
 
+### A Theory of Justice | 正義論 \[1971]
+
+by John Rawls \[US]
+
 ### The Prince | 君王論 \[1513]
 
 by Niccolò Machiavelli 馬基維利 \[Italy]
@@ -41,10 +45,6 @@ by Haruki Murakami **村上春樹** むらかみ はるき
 * 1Q84 \[2009]
 * 東京奇譚集 とうきょうきたんしゅう \[2005]
 * Colorless Tsukuru Tazaki and His Years of Pilgrimage 沒有色彩的多崎作和他的巡禮之年 色彩を持たない多崎つくると、彼の巡礼の年 \[2013]
-
-### Brave New World | 美麗新世界 | すばらしい新世界 \[1932]
-
-by Aldous Huxley 阿道斯·赫胥黎 \[England]
 
 ### Don Quixote | **唐吉訶德** ドン・キホーテ \[1605]
 
@@ -142,7 +142,18 @@ by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ \[U.S.]
 
 ### Percy Jackson & the Olympians 波西傑克森 \[2005-2009]
 
+* Winnie the Pooh
+* Love in the Time of Cholera
+* Catcher in the Rye | 麥田裏的守望者 \~ 麥田捕手
+* Lord of the Flies | 蝇王
+* The Elementals of Style | 英文寫作指南
+* We
+
 ## \[Reading]
+
+### Educated | 當你像鳥飛往你的山 \[2018] <a href="#firstheading" id="firstheading"></a>
+
+by Tara Westover
 
 ### No Longer Human | 人間失格 | 人間失格 にんげんしっかく \[1948] <a href="#firstheading" id="firstheading"></a>
 
@@ -162,6 +173,10 @@ by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
 by Gustave Le Bon 古斯塔夫·勒龐 \[France]
 
 ## \[2019 - 2022]
+
+### Brave New World | 美麗新世界 | すばらしい新世界 \[1932] \[94/100]
+
+by Aldous Huxley 阿道斯·赫胥黎 \[England]
 
 ### Animal Farm | 動物農場 \[1945] \[96/100]
 

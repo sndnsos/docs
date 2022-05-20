@@ -36,7 +36,7 @@ description: Japanese Anime
 
 ### Spy × Family | 間諜過家家 | SPY×FAMILY <a href="#firstheading" id="firstheading"></a>
 
-### Ya Boy Kongming! | パリピ孔明 | 派對咖孔明 <a href="#firstheading" id="firstheading"></a>
+### Ya Boy Kongming! | 派對咖孔明 | パリピ孔明 <a href="#firstheading" id="firstheading"></a>
 
 ## \[Watched]
 

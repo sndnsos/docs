@@ -34,7 +34,7 @@ description: Newer content is on top.
 
 〖**いんぼうろん**のオシゴト〗
 
-### **Love, Death & Robots** ❤️❌🤖 **| 愛，死亡，和機器人 |** ラブ、デス&ロボット \[85/100]
+### **Love, Death & Robots** ❤️❌🤖 **| 愛，死亡，和機器人 |** ラブ、デス&ロボット \[80/100]
 
 ### Bojack Horseman | 馬男波傑克 | ボージャック・ホースマン \[94/100]
 

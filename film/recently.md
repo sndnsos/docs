@@ -34,6 +34,8 @@ description: Newer content is on top.
 
 ### Lucy | 露西 \[2014]
 
+### Everything Everywhere All At Once | 什麼多重宇宙 \[2022]
+
 ## \[ 2019 - 2021 ]
 
 ### Summer Palace | 頤和園 | 天安門、恋人たち \[2006] \[89/100]

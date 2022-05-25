@@ -13,7 +13,6 @@ description: Newer content is on top.
 * The Dawn of Everything
 * Guns, Germs, and Steel: The Fates of Human Societies&#x20;
 * Sapiens: A Brief History of Humankind
-* げんき (Japanese Study Book in English)
 *   La Louve et l'Enfant.
 
     La Guerre des loups.
@@ -171,6 +170,12 @@ by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
 『Psychologie des Foules』
 
 by Gustave Le Bon 古斯塔夫·勒龐 \[France]
+
+### げんき (Japanese Study Book in English)
+
+### The Art of Game Design A Book of Lenses | 遊戲設計藝術 \[2008]
+
+by Jesse Schell
 
 ## \[2019 - 2022]
 

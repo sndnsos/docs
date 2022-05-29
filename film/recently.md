@@ -14,8 +14,6 @@ description: Newer content is on top.
 
 ### Revolution of Our Times | 時代革命 \[2021]
 
-### Free Guy | **失控玩家** \[2021]
-
 ### Burning | 燃燒 | 버닝 \[2018] <a href="#firstheading" id="firstheading"></a>
 
 ### Winter Sleep | **冬日甦醒 | Kış Uykusu \[2014]** <a href="#firstheading" id="firstheading"></a>
@@ -26,10 +24,6 @@ description: Newer content is on top.
 
 ### The Power of the Dog | 犬山記 \[2021]
 
-### Dune | 沙丘 \[2021]
-
-### CODA | 樂動心旋律 \~ **健聽女孩** \[2021] <a href="#firstheading" id="firstheading"></a>
-
 ### Little Miss Sunshine | 小太陽的願望 \[2005]
 
 ### Lucy | 露西 \[2014]
@@ -37,6 +31,12 @@ description: Newer content is on top.
 ### Everything Everywhere All At Once | 什麼多重宇宙 \[2022]
 
 ## \[ 2019 - 2021 ]
+
+### Dune | 沙丘 \[2021] \[85/100]
+
+### Free Guy | **失控玩家** \[2021] \[93/100]
+
+### CODA | 樂動心旋律 \~ **健聽女孩** \[2021] \[92/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Summer Palace | 頤和園 | 天安門、恋人たち \[2006] \[89/100]
 

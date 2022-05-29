@@ -32,7 +32,7 @@ description: Japanese Anime
 
 ### A Certain Magical Index | 魔法禁書目錄 | とある魔術の禁書目録 <a href="#firstheading" id="firstheading"></a>
 
-「｝『』あるまじゅつのインデックスあるまじゅつのインデックスとあるまじゅつのインデックスとあるまじゅつのインデックスとあるまじゅつのインデックス
+『とあるまじゅつのインデックス』
 
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 

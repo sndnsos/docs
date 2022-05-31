@@ -171,7 +171,7 @@ by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
 
 by Gustave Le Bon 古斯塔夫·勒龐 \[France]
 
-### げんき (Japanese Study Book in English)
+### げんき (Japanese Study Book in English) \[93/100]
 
 ### The Art of Game Design A Book of Lenses | 遊戲設計藝術 \[2008]
 

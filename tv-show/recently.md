@@ -28,8 +28,6 @@ description: Newer content is on top.
 
 ### Westworld | 西部世界 | ウエストワールド {Second}
 
-
-
 ## Cartoon (Western Style)
 
 ### Inside Job | 陰謀辦公室 | **陰謀論のお仕事 \[59/100]**
@@ -68,7 +66,7 @@ Book 1
 
 『しろいきょとう』
 
-### A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活 \[92/100]&#x20;
+A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活 \[92/100]&#x20;
 
 『けんこうでぶんかてきなさいていげんどのせいかつ]』
 

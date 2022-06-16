@@ -26,7 +26,7 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ]
 
-### Big Time \[2022] \[40/100]
+### Big Time \[2022] \[39/100]
 
 ### To the Moon（去月球）\[2011]
 

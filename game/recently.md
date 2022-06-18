@@ -22,13 +22,15 @@ description: Newer content is on top.
 
 ## **\[Playing]**
 
-### Big Time (NFT game - not recommended)
-
 ### **The Wolf Among Us（我們中的一隻狼）{Second}**
 
 ## \[ 2019 - 2021 ]
 
-### To the Moon（去月球）\[2011]
+### What Remains of Edith Finch（**伊迪·芬奇的記憶**） \[98/100]
+
+### Big Time \[2022] \[39/100]
+
+### To the Moon（去月球）\[2011] \[95/100]
 
 ### Quarantineer（隔離之名）\[2021]
 

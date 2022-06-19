@@ -10,8 +10,6 @@ description: Newer content is on top.
 
 ### **Beyond（超凡雙生）**
 
-### **Heavy Rain（暴雨）**
-
 ### **Do not feed Monkeys（不要餵食猴子）**
 
 ### **Behold（**監視者）
@@ -38,13 +36,15 @@ description: Newer content is on top.
 
 ### **The Wolf Among Us（我們中的一隻狼）{Second}**
 
-## \[ 2019 - 2021 ]
+## \[ 2019 - 2021 ] Played
+
+### **Heavy Rain（暴雨） \[94/100]**
 
 ### What Remains of Edith Finch（**伊迪·芬奇的記憶**） \[98/100]
 
 ### Big Time \[2022] \[39/100]
 
-### To the Moon（去月球）\[2011] \[95/100]
+### To the Moon（去月球）\[2011] \[94/100]
 
 ### Quarantineer（隔離之名）\[2021]
 
@@ -72,7 +72,7 @@ description: Newer content is on top.
 
 ### **Rim World（環世界）**
 
-### It Takes Two（雙人成行）
+### It Takes Two（雙人成行）\[97/100]
 
 ### Cyberpunk 2077（**賽博朋克2077 |** 電馭叛客2077）
 

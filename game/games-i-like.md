@@ -2,13 +2,13 @@
 
 ## \[ 2019 - 2021 ]
 
-### To the Moon \[95/100]
+### To the Moon \[94/100]
 
-### Portal 2 \[95/100]
+### Portal 2 \[94/100]
 
 It's a fancy trip solving puzzles with my friends.
 
-### LOST JUDGMENT 裁かれざる記憶 \[94/100]
+### LOST JUDGMENT 裁かれざる記憶 \[93/100]
 
 The story is attractive. And the street view is so like Japan.
 

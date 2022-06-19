@@ -34,13 +34,13 @@ description: Newer content is on top.
 
 ## **\[Playing]**
 
-### **The Wolf Among Us（我們中的一隻狼）{Second}**
+### **The Wolf Among Us（我們中的一隻狼）\[2013] {Second}**
 
 ## \[ 2019 - 2021 ] Played
 
-### **Heavy Rain（暴雨） \[94/100]**
+### **Heavy Rain（暴雨）\[2010] \[94/100]**
 
-### What Remains of Edith Finch（**伊迪·芬奇的記憶**） \[98/100]
+### What Remains of Edith Finch（**伊迪·芬奇的記憶**）\[2017] \[98/100]
 
 ### Big Time \[2022] \[39/100]
 

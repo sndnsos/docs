@@ -30,13 +30,27 @@ description: Newer content is on top.
 
 ### **The Witness（**見證者）**{Second}** <a href="#firstheading" id="firstheading"></a>
 
-****
+### Cyber Manhunt （全网公敵）
+
+### Hacker Simulator（黑客模擬器）
+
+### Hacknet（駭客網絡）
+
+### Orwell
+
+### Last Day of June
+
+### The Walking Dead（行屍走肉）
+
+### The Last of Us（最後生還者）
 
 ## **\[Playing]**
 
-### **The Wolf Among Us（我們中的一隻狼）\[2013] {Second}**
+### ****
 
 ## \[ 2019 - 2021 ] Played
+
+### **The Wolf Among Us（我們中的一隻狼）\[2013] \[95/100]**
 
 ### **Heavy Rain（暴雨）\[2010] \[94/100]**
 

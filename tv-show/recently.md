@@ -28,8 +28,6 @@ description: Newer content is on top.
 
 『きたのくにから』
 
-### Kingdom | 李屍朝鮮 | 킹덤
-
 
 
 ## Cartoon (Western Style)
@@ -57,6 +55,8 @@ Book 1
 
 
 ## Live
+
+### Kingdom | 李屍朝鮮 | 킹덤 \[80/100]
 
 ### Mr. Robot | 黑客軍團 \~ 駭客軍團 \[94/100]
 

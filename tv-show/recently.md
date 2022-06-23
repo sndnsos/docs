@@ -6,10 +6,6 @@ description: Newer content is on top.
 
 ## \[TO Watch]
 
-### From the Northern Country | 來自北國 | 北の国から <a href="#firstheading" id="firstheading"></a>
-
-『きたのくにから』
-
 ### Tokyo Love Story | 東京愛情故事 | 東京ラブストーリー  <a href="#firstheading" id="firstheading"></a>
 
 ### Doctor-X: Surgeon Michiko Daimon | 派遣女醫X | ドクターX〜外科医・大門未知子 <a href="#firstheading" id="firstheading"></a>
@@ -18,8 +14,6 @@ description: Newer content is on top.
 
 ### The Full-Time Wife Escapist | 逃避雖可恥卻有用 \~ 月薪嬌妻 | 逃げるは恥だが役に立つ
 
-### Yellowstone | 黃石 | ケヴィン・コスナー
-
 ### **Revenge Office |** Kättemaksukontor <a href="#firstheading" id="firstheading"></a>
 
 ## \[Watching]
@@ -27,6 +21,16 @@ description: Newer content is on top.
 ### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
 
 ### Westworld | 西部世界 | ウエストワールド {Second}
+
+### Yellowstone | 黃石 | ケヴィン・コスナー
+
+### From the Northern Country | 來自北國 | 北の国から <a href="#firstheading" id="firstheading"></a>
+
+『きたのくにから』
+
+### Kingdom | 李屍朝鮮 | 킹덤
+
+
 
 ## Cartoon (Western Style)
 
@@ -66,7 +70,7 @@ Book 1
 
 『しろいきょとう』
 
-A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活 \[92/100]&#x20;
+### A Minimum Healthy and Cultural Life | 健康有文化的最低限度生活 | 健康で文化的な最低限度の生活 \[92/100]&#x20;
 
 『けんこうでぶんかてきなさいていげんどのせいかつ]』
 

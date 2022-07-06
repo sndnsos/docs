@@ -20,8 +20,6 @@ description: Newer content is on top.
 
 ### Braid（時空幻境）
 
-### Divinity: Original Sin II（神諭：原罪2 | 神界：原罪2） <a href="#firstheading" id="firstheading"></a>
-
 ### Find Paradise（尋找天堂）
 
 ### Florence
@@ -29,8 +27,6 @@ description: Newer content is on top.
 ### South Park: The Fractured but Whole（**南方公園：完整破碎）** <a href="#firstheading" id="firstheading"></a>
 
 ### **The Witness（**見證者）**{Second}** <a href="#firstheading" id="firstheading"></a>
-
-### Cyber Manhunt （全网公敵）
 
 ### Hacker Simulator（黑客模擬器）
 
@@ -46,7 +42,11 @@ description: Newer content is on top.
 
 ## **\[Playing]**
 
-### ****
+### Cyber Manhunt （全网公敵）\[92/100]
+
+### Divinity: Original Sin II（神諭：原罪2 | 神界：原罪2） <a href="#firstheading" id="firstheading"></a>
+
+### **The Witcher 3: Wild Hunt（巫师3：狂猎）** <a href="#firstheading" id="firstheading"></a>
 
 ## \[ 2019 - 2021 ] Played
 

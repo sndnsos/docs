@@ -50,6 +50,8 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ] Played
 
+### V Rising \[94/100]
+
 ### **The Wolf Among Us（**我們身邊的狼 \~ 與狼同行**）\[2013] \[95/100]**
 
 ### **Heavy Rain（暴雨）\[2010] \[94/100]**

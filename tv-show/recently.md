@@ -22,8 +22,6 @@ description: Newer content is on top.
 
 ### Westworld | 西部世界 | ウエストワールド {Second}
 
-### Yellowstone | 黃石 | ケヴィン・コスナー
-
 ### From the Northern Country | 來自北國 | 北の国から <a href="#firstheading" id="firstheading"></a>
 
 『きたのくにから』
@@ -55,6 +53,8 @@ Book 1
 
 
 ## Live
+
+### Yellowstone | 黃石 | ケヴィン・コスナー \[94/100]
 
 ### Kingdom | 李屍朝鮮 | 킹덤 \[74/100]
 

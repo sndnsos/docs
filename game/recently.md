@@ -50,7 +50,11 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ] Played
 
-### V Rising \[94/100]
+### The Walking Dead（行屍走肉）\[93/100]
+
+### Wartales（戰爭傳說） \[92/100]
+
+### V Rising \[93/100]
 
 ### **The Wolf Among Us（**我們身邊的狼 \~ 與狼同行**）\[2013] \[95/100]**
 

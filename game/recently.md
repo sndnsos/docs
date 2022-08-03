@@ -50,7 +50,7 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ] Played
 
-### The Walking Dead（行屍走肉）\[93/100]
+### The Walking Dead（行屍走肉）\[94/100]
 
 ### Wartales（戰爭傳說） \[92/100]
 

@@ -58,7 +58,7 @@ Poor Clementine&#x20;
 
 ### Wartales（戰爭傳說） \[92/100]
 
-It's fun, but also boring for the fights.
+For something, it's fun, but also boring for the fights.
 
 ### V Rising \[93/100]
 

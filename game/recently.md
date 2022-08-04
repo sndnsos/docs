@@ -52,9 +52,11 @@ description: Newer content is on top.
 
 ### The Walking Dead（行屍走肉）\[94/100]
 
-It's always ridiculous for the zombie-related stories. But this game is the best of all.
+It's always ridiculous for the zombie-related stories. It looks like there are 10000B zombies on the earth being able to survive forever without anything.&#x20;
 
-Poor Clementine&#x20;
+But this game is the best of all.
+
+Poor and cool Clementine.
 
 ### Wartales（戰爭傳說） \[92/100]
 

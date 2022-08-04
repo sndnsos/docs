@@ -52,7 +52,7 @@ description: Newer content is on top.
 
 ### The Walking Dead（行屍走肉）\[94/100]
 
-It's always ridiculous for the zombie-related stories. It looks like there are 10000B zombies on the earth being able to survive forever without anything.&#x20;
+It's always ridiculous for the zombie-related stories. It looks like there are 70Trillion zombies on the earth being able to survive forever without anything.&#x20;
 
 But this game is the best of all.
 

@@ -52,9 +52,13 @@ description: Newer content is on top.
 
 ### The Walking Dead（行屍走肉）\[94/100]
 
-It's always ridiculous for the zombie-related stories. But this game is the best of the all.
+It's always ridiculous for the zombie-related stories. But this game is the best of all.
+
+Poor Clementine&#x20;
 
 ### Wartales（戰爭傳說） \[92/100]
+
+It's fun, but also boring for the fights.
 
 ### V Rising \[93/100]
 

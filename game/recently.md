@@ -52,6 +52,8 @@ description: Newer content is on top.
 
 ### The Walking Dead（行屍走肉）\[94/100]
 
+It's always ridiculous for the zombie-related stories. But this game is the best of the all.
+
 ### Wartales（戰爭傳說） \[92/100]
 
 ### V Rising \[93/100]

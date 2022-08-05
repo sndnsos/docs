@@ -55,7 +55,7 @@ description: Newer content is on top.
 * Season 1 - \[92/100]
 * Season 2 - \[22/100]: The story and character deisgn is too much self-contradictory and too stupid
 
-### The Walking Dead（行屍走肉）\[94/100]
+### The Walking Dead（行屍走肉）\[95/100]
 
 It's always ridiculous for the zombie-related stories. It looks like there are 70Trillion zombies on the earth being able to survive forever without anything. \
 But this game is the best of all.

@@ -53,7 +53,7 @@ description: Newer content is on top.
 ### The Last of Us（最後生還者）\[57/100]
 
 * Season 1 - \[92/100]
-* Season 2 - \[22/100]: Being self-Contradictory too much and too stupid
+* Season 2 - \[22/100]: The story and character deisgn is too much self-contradictory and too stupid
 
 ### The Walking Dead（行屍走肉）\[94/100]
 

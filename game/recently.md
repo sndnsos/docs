@@ -36,10 +36,6 @@ description: Newer content is on top.
 
 ### Last Day of June
 
-### The Walking Dead（行屍走肉）
-
-### The Last of Us（最後生還者）
-
 ## **\[Playing]**
 
 ### Cyber Manhunt （全网公敵）\[92/100]

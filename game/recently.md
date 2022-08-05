@@ -50,13 +50,20 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ] Played
 
+### The last of us（最後生還者）\[57/100]
+
+* Season 1 - \[92/100]
+* Season 2 - \[22/100]
+
 ### The Walking Dead（行屍走肉）\[94/100]
 
-It's always ridiculous for the zombie-related stories. It looks like there are 70Trillion zombies on the earth being able to survive forever without anything.&#x20;
-
+It's always ridiculous for the zombie-related stories. It looks like there are 70Trillion zombies on the earth being able to survive forever without anything. \
 But this game is the best of all.
 
-Poor and cool Clementine.
+* Season 1 - \[98/100]
+* Season 2 - \[94/100]
+* Season 3 - \[92/100]
+* Season 4 - \[90/100]
 
 ### Wartales（戰爭傳說） \[92/100]
 

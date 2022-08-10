@@ -20,8 +20,6 @@ description: Newer content is on top.
 
 ### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
 
-### Westworld | 西部世界 | ウエストワールド {Second}
-
 ### From the Northern Country | 來自北國 | 北の国から <a href="#firstheading" id="firstheading"></a>
 
 『きたのくにから』
@@ -53,6 +51,12 @@ Book 1
 
 
 ## Live
+
+### Westworld | 西部世界 | ウエストワールド \[93/100]
+
+* Season1: 96
+* Season2: 92
+* Season3: 87
 
 ### Yellowstone | 黃石 | ケヴィン・コスナー \[94/100]
 

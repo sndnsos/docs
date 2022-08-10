@@ -52,11 +52,11 @@ Book 1
 
 ## Live
 
-### Westworld | 西部世界 | ウエストワールド \[93/100]
+### Westworld | 西部世界 | ウエストワールド \[92/100]
 
 * Season1: 96
-* Season2: 92
-* Season3: 87
+* Season2: 90
+* Season3: 84
 
 ### Yellowstone | 黃石 | ケヴィン・コスナー \[94/100]
 

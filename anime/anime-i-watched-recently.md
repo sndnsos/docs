@@ -62,7 +62,7 @@ description: Japanese Anime
 
 『しんげきのきょじん』
 
-### Detective Conan | 名偵探柯南 | 名探偵コナン \[87/100]&#x20;
+### Detective Conan | 名偵探柯南 | 名探偵コナン \[85/100]&#x20;
 
 〖めいたんていコナン〗
 
@@ -72,13 +72,13 @@ description: Japanese Anime
 
 ### My Hero Academia | 我的英雄學院 | 僕のヒーローアカデミア \[94/100]
 
-### Re:Zero − Starting Life in Another World | Re：從零開始的異世界生活 Re:ゼロから始める異世界生活 | \[83/100]
+### Re:Zero − Starting Life in Another World | Re：從零開始的異世界生活 Re:ゼロから始める異世界生活 | \[79/100]
 
 ### JAPAN SINKS: 2020 | 日本沈沒 2020 | 日本沈没2020 \[81/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Steins;Gate | 命運石之門 | Steins;Gate \[93/100] <a href="#firstheading" id="firstheading"></a>
 
-### OVERLORD | 不死者之王 | オーバーロード \[87/100] <a href="#firstheading" id="firstheading"></a>
+### OVERLORD | 不死者之王 | オーバーロード \[86/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Oruchuban Ebichu | 倉鼠管家 | おるちゅばんエビちゅ\[95/100]
 

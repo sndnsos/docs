@@ -22,6 +22,15 @@
 
 ## \[Watched]
 
+### Detective Conan (Case Closed) Films
+
+[wiki](https://en.wikipedia.org/wiki/List\_of\_Case\_Closed\_films)
+
+* 15 Quarter of Silence \[2011] \[85/100]
+* 16 The Eleventh Striker \[2012] \[83/100]
+* 23 The Fist of Blue Sapphire \[2019] \[63/100]
+* 24 The Scarlet Bullet \[2021] \[59/100]
+
 ### Encanto | 魔法滿屋 \[2021] \[89/100]
 
 ### Weathering With You | 天氣之子 | 天気の子 \[2019] \[96/100]

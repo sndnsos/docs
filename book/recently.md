@@ -45,10 +45,6 @@ by Haruki Murakami **村上春樹** むらかみ はるき
 * 東京奇譚集 とうきょうきたんしゅう \[2005]
 * Colorless Tsukuru Tazaki and His Years of Pilgrimage 沒有色彩的多崎作和他的巡禮之年 色彩を持たない多崎つくると、彼の巡礼の年 \[2013]
 
-### Don Quixote | **唐吉訶德** ドン・キホーテ \[1605]
-
-&#x20;(2005 version translated by Edith Grossman)
-
 ### A Tale of Two Cities | 雙城記 \[1859]
 
 by Charles Dickens 查爾斯·狄更斯 \[England]
@@ -141,7 +137,6 @@ by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ \[U.S.]
 
 ### Percy Jackson & the Olympians 波西傑克森 \[2005-2009]
 
-* Winnie the Pooh
 * Love in the Time of Cholera
 * Catcher in the Rye | 麥田裏的守望者 \~ 麥田捕手
 * Lord of the Flies | 蝇王
@@ -171,15 +166,23 @@ by Osamu Dazai **太宰治** だざい おさむ (1908-1949)
 
 by Gustave Le Bon 古斯塔夫·勒龐 \[France]
 
-### げんき (Japanese Study Book in English)
+### げんき (Japanese Study Book in English) \[93/100]
 
 ### The Art of Game Design A Book of Lenses | 遊戲設計藝術 \[2008]
 
 by Jesse Schell
 
+### Don Quixote | **唐吉訶德** ドン・キホーテ \[1605]
+
+&#x20;(2005 version translated by Edith Grossman)
+
+### Winnie the Pooh 小熊維尼 \[1926]
+
+by E. H. Shepard \[England]
+
 ## \[2019 - 2022]
 
-### Brave New World | 美麗新世界 | すばらしい新世界 \[1932] \[94/100]
+### Brave New World | 美麗新世界 | すばらしい新世界 \[1932 ] \[94/100]
 
 by Aldous Huxley 阿道斯·赫胥黎 \[England]
 

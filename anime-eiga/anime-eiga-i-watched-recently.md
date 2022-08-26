@@ -29,7 +29,7 @@
 * 15 Quarter of Silence | 沈黙の15分 \[2011] \[82/100]
 * 16 The Eleventh Striker | 11人目のストライカー \[2012] \[81/100]
 * 20 The Darkest Nightmare | 純黒の悪夢 \[2016] \[72/100]
-* 21 Crimson Love Letter | から紅の恋歌 \[2017]&#x20;
+* 21 Crimson Love Letter | から紅の恋歌 \[2017] \[86/100]
 * 22 Zero the Enforcer | ゼロの執行人 \[2018] \[68/100]
 * 23 The Fist of Blue Sapphire | 紺青の拳 \[2019] \[63/100]
 * 24 The Scarlet Bullet | 緋色の弾丸 \[2021] \[59/100]

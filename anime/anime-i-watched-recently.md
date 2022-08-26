@@ -44,6 +44,8 @@ description: Japanese Anime
 
 ## \[Watched]
 
+### The Seven Deadly Sins | 七つの大罪 \[79/100]
+
 ### Vampire in the Garden | 花園裡的吸血鬼 | ヴァンパイア・イン・ザ・ガーデン \[85/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Death Note | 死亡筆記本 | デスノート \[90/100]

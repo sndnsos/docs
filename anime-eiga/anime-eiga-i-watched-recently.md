@@ -26,8 +26,8 @@
 
 [wiki](https://en.wikipedia.org/wiki/List\_of\_Case\_Closed\_films)
 
-* 15 Quarter of Silence \[2011] 沈黙の15分 \[84/100]
-* 16 The Eleventh Striker \[2012] 11人目のストライカー \[83/100]
+* 15 Quarter of Silence | 沈黙の15分 \[2011] \[84/100]
+* 16 The Eleventh Striker | 11人目のストライカー \[2012] \[83/100]
 * 20 The Darkest Nightmare | 純黒の悪夢 \[2016] \[72/100]
 * 21 Crimson Love Letter | から紅の恋歌 \[2017]&#x20;
 * 22 Zero the Enforcer | ゼロの執行人 \[2018] \[68/100]

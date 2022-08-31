@@ -28,31 +28,12 @@ description: Newer content is on top.
 
 ### Explained
 
+### Better Call Saul | 絕命律師 | ベター・コール・ソウル
 
-
-## Cartoon (Western Style)
-
-### Inside Job | 陰謀辦公室 | **陰謀論のお仕事 \[59/100]**
-
-〖**いんぼうろん**のオシゴト〗
-
-### **Love, Death & Robots** ❤️❌🤖 **| 愛，死亡，和機器人 |** ラブ、デス&ロボット \[80/100]
-
-### Bojack Horseman | 馬男波傑克 | ボージャック・ホースマン \[94/100]
-
-### Arcana | **奧術 |** アーケイン \[96/100]
-
-### Dota: Dragon's Blood | 龙之血 \[83/100]
-
-Book 1
-
-### The Simpsons | 辛普森家庭 | ザ・シンプソンズ \[95/100]
-
-### Rick and Morty | 瑞克和莫蒂 | リック・アンド・モーティ\[96/100]
-
-### South Park | 南方公園 | サウスパーク \[97/100]
-
-
+* Season1: 95
+* Season2: 95
+* Season3: 93
+* Season4:&#x20;
 
 ## Live
 
@@ -171,3 +152,25 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 ### Heroes | 超異能英雄 | ヒーローズ \[89/100]
 
 ### Prison Break | 越獄 | プリズン・ブレイク \[90/100]
+
+## Cartoon (Western Style)
+
+### Inside Job | 陰謀辦公室 | **陰謀論のお仕事 \[59/100]**
+
+〖**いんぼうろん**のオシゴト〗
+
+### **Love, Death & Robots** ❤️❌🤖 **| 愛，死亡，和機器人 |** ラブ、デス&ロボット \[80/100]
+
+### Bojack Horseman | 馬男波傑克 | ボージャック・ホースマン \[94/100]
+
+### Arcana | **奧術 |** アーケイン \[96/100]
+
+### Dota: Dragon's Blood | 龙之血 \[83/100]
+
+Book 1
+
+### The Simpsons | 辛普森家庭 | ザ・シンプソンズ \[95/100]
+
+### Rick and Morty | 瑞克和莫蒂 | リック・アンド・モーティ\[96/100]
+
+### South Park | 南方公園 | サウスパーク \[97/100]

@@ -30,12 +30,15 @@ description: Newer content is on top.
 
 ### Better Call Saul | 絕命律師 | ベター・コール・ソウル
 
-It's very sad, that you know things are breaking bad, and it is just like you are watching the old cherished memory while you know there will be a bad result finally.
+It's very sad, that you know things are breaking bad, and it is just like you are watching the old cherished memory while you know there will be a heartbroken result finally.
+
+You are watching the process of losing beautiful old days and you can't do anything to stop it.
 
 * Season1: 95
 * Season2: 95
 * Season3: 93
-* Season4:&#x20;
+* Season4: 94
+* Season5: 95
 
 ## Live
 

@@ -30,6 +30,8 @@ description: Newer content is on top.
 
 ### Better Call Saul | 絕命律師 | ベター・コール・ソウル
 
+It's very sad, that you know things are breaking bad, and it is just like you are watching the old cherished memory while you know there will be a bad result finally.
+
 * Season1: 95
 * Season2: 95
 * Season3: 93

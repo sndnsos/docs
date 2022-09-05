@@ -34,9 +34,7 @@ description: Newer content is on top.
 
 It's very sad that you know things are breaking bad, and it is just like you are watching the old cherished memory while you know there will be a heartbroken result finally; You are watching the process of losing beautiful old days and you can't do anything to stop it.​
 
-But the result is not that bad. Actually, I love this ending with tears.
-
-
+But the result is not that bad. Actually, I love this ending with tears. Maybe Kim and Jimmy were bad for each other, but in the end, they helped each other and admitted every sin. For the ones who got hurt by them, it's not fair to say that life could be like a game. But for Kim and Jimmy, their lives and relationship are like a game, full of love.
 
 <div>
 

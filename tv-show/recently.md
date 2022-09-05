@@ -46,10 +46,6 @@ But the result is not that bad. Actually, I love this ending with tears.
 
 <figure><img src="../.gitbook/assets/Finger Gunshot Jimmy.png" alt=""><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/Finger Gunshot Jimmy.png" alt=""><figcaption></figcaption></figure>
-
 </div>
 
 But the result is not that bad. Actually, I love this ending with tears.&#x20;

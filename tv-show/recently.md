@@ -34,9 +34,10 @@ It's very sad that you know things are breaking bad, and it is just like you are
 
 * Season1: 95
 * Season2: 95
-* Season3: 93
+* Season3: 94
 * Season4: 94
 * Season5: 95
+* Season5: 96
 
 ## Live
 

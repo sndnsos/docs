@@ -101,7 +101,7 @@ Seaons2 \[93/100]
 
 ### The World Between Us | 我們與惡的距離 | 悪との距離 \[93/100] <a href="#firstheading" id="firstheading"></a>
 
-### Black Mirror | 黑鏡 | ブラック・ミラー \[96/100] <a href="#firstheading" id="firstheading"></a>
+### Black Mirror | 黑鏡 | ブラック・ミラー \[95/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Unnatural | 非自然死亡 | アンナチュラル \[96/100] <a href="#firstheading" id="firstheading"></a>
 

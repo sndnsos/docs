@@ -46,11 +46,7 @@ But the result is not that bad. Actually, I love this ending with tears. Maybe K
 
 </div>
 
-But the result is not that bad. Actually, I love this ending with tears.&#x20;
-
 ### Extraordinary Attorney Woo | 非常律師禹英禑 | ウ・ヨンウ弁護士は天才肌 \[90/100] <a href="#firstheading" id="firstheading"></a>
-
-
 
 ### Westworld | 西部世界 | ウエストワールド \[89/100]
 
@@ -59,7 +55,7 @@ But the result is not that bad. Actually, I love this ending with tears.&#x20;
 * Season3: 81
 * Season4: 74
 
-Only the first season deserves to be watched.
+Only the first season deserves to be watched. Later the show is not like a series in high intelligence, but stupid ridiculous, and boring stories.
 
 ### Yellowstone | 黃石 | ケヴィン・コスナー \[94/100]
 

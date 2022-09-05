@@ -32,7 +32,11 @@ description: Newer content is on top.
 
 ### Better Call Saul | 絕命律師 | ベター・コール・ソウル \[96/100]
 
-It's very sad that you know things are breaking bad, and it is just like you are watching the old cherished memory while you know there will be a heartbroken result finally; You are watching the process of losing beautiful old days and you can't do anything to stop it.
+It's very sad that you know things are breaking bad, and it is just like you are watching the old cherished memory while you know there will be a heartbroken result finally; You are watching the process of losing beautiful old days and you can't do anything to stop it.​
+
+But the result is not that bad. Actually, I love this ending with tears.
+
+
 
 <div>
 
@@ -42,7 +46,13 @@ It's very sad that you know things are breaking bad, and it is just like you are
 
 <figure><img src="../.gitbook/assets/Finger Gunshot Jimmy.png" alt=""><figcaption></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/Finger Gunshot Jimmy.png" alt=""><figcaption></figcaption></figure>
+
 </div>
+
+But the result is not that bad. Actually, I love this ending with tears.&#x20;
 
 ### Extraordinary Attorney Woo | 非常律師禹英禑 | ウ・ヨンウ弁護士は天才肌 \[90/100] <a href="#firstheading" id="firstheading"></a>
 

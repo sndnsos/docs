@@ -40,11 +40,11 @@ description: Japanese Anime
 
 ## \[Watched]
 
+### The Seven Deadly Sins | 七つの大罪 Season 1 \[79/100]
+
 ### Spy × Family | 間諜過家家 | SPY×FAMILY \[94/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Ya Boy Kongming! | 派對咖孔明 | パリピ孔明 \[83/100] <a href="#firstheading" id="firstheading"></a>
-
-### The Seven Deadly Sins | 七つの大罪 Season 1 \[79/100]
 
 ### Vampire in the Garden | 花園裡的吸血鬼 | ヴァンパイア・イン・ザ・ガーデン \[85/100] <a href="#firstheading" id="firstheading"></a>
 

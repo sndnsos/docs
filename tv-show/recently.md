@@ -48,7 +48,7 @@ But the result is not that bad. Actually, I love this ending with tears. Maybe K
 
 ### Extraordinary Attorney Woo | 非常律師禹英禑 | ウ・ヨンウ弁護士は天才肌 \[90/100] <a href="#firstheading" id="firstheading"></a>
 
-### Westworld | 西部世界 | ウエストワールド \[89/100]
+### Westworld | 西部世界 | ウエストワールド \[87/100]
 
 * Season1: 94
 * Season2: 88

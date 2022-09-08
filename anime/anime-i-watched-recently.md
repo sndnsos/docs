@@ -68,7 +68,7 @@ description: Japanese Anime
 
 〖めいたんていコナン〗
 
-### Sword Art Online | 刀劍神域 | ソードアート・オンライン \[97/100]
+### Sword Art Online | 刀劍神域 | ソードアート・オンライン Season 1 \[96/100]
 
 ### Code Geass | 反叛的魯路修 | コードギアス 反逆のルルーシュ \[96/100]
 

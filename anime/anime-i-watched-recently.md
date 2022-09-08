@@ -38,11 +38,11 @@ description: Japanese Anime
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
 
-### Spy × Family | 間諜過家家 | SPY×FAMILY <a href="#firstheading" id="firstheading"></a>
+## \[Watched]
+
+### Spy × Family | 間諜過家家 | SPY×FAMILY \[94/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Ya Boy Kongming! | 派對咖孔明 | パリピ孔明 \[83/100] <a href="#firstheading" id="firstheading"></a>
-
-## \[Watched]
 
 ### The Seven Deadly Sins | 七つの大罪 Season 1 \[79/100]
 

@@ -32,7 +32,7 @@ description: Japanese Anime
 
 ## \[Watched]
 
-### Fire Force | 炎炎消防隊 | 炎炎ノ消防隊 \[86/100]
+### Fire Force | 炎炎消防隊 | 炎炎ノ消防隊 Season 1 \[86/100]
 
 『えんえんのしょうぼうたい』
 

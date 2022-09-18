@@ -8,10 +8,6 @@ description: Japanese Anime
 
 ### Hunter x Hunter
 
-### Fire Force | 炎炎消防隊 | 炎炎ノ消防隊
-
-『えんえんのしょうぼうたい』
-
 ### That Time I Got Reincarnated as a Slime | 關於我轉生變成史萊姆這檔事 | 転生したらスライムだった件
 
 ### Ranking of Kings | 國王排名 | 王様ランキング
@@ -30,15 +26,19 @@ description: Japanese Anime
 
 ## \[Watching]
 
-### A Certain Magical Index | 魔法禁書目錄 | とある魔術の禁書目録 <a href="#firstheading" id="firstheading"></a>
-
-『とあるまじゅつのインデックス』
-
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
 
 ## \[Watched]
+
+### Fire Force | 炎炎消防隊 | 炎炎ノ消防隊 \[86/100]
+
+『えんえんのしょうぼうたい』
+
+### A Certain Magical Index | 魔法禁書目錄 | とある魔術の禁書目録 \[85/100] <a href="#firstheading" id="firstheading"></a>
+
+『とあるまじゅつのインデックス』
 
 ### The Seven Deadly Sins | 七つの大罪 Season 1 \[79/100]
 

@@ -16,6 +16,10 @@ description: Newer content is on top.
 
 ### **Revenge Office |** Kättemaksukontor <a href="#firstheading" id="firstheading"></a>
 
+### Big Bang Theory
+
+### Young Sheldon
+
 ## \[Watching]
 
 ### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
@@ -30,7 +34,7 @@ description: Newer content is on top.
 
 ## Live
 
-### Better Call Saul | 絕命律師 | ベター・コール・ソウル \[96/100]
+### Better Call Saul | 絕命律師 | ベター・コール・ソウル \[95/100]
 
 It's very sad that you know things are breaking bad, and it is just like you are watching the old cherished memory while you know there will be a heartbroken result finally; You are watching the process of losing beautiful old days and you can't do anything to stop it.​
 
@@ -103,7 +107,7 @@ Seaons2 \[93/100]
 
 ### Black Mirror | 黑鏡 | ブラック・ミラー \[95/100] <a href="#firstheading" id="firstheading"></a>
 
-### Unnatural | 非自然死亡 | アンナチュラル \[96/100] <a href="#firstheading" id="firstheading"></a>
+### Unnatural | 非自然死亡 | アンナチュラル \[97/100] <a href="#firstheading" id="firstheading"></a>
 
 ### My Name | 以吾之名 | マイネーム: 偽りと復讐 \[79/100] <a href="#firstheading" id="firstheading"></a>
 
@@ -111,7 +115,7 @@ Seaons2 \[93/100]
 
 ### Itaewon Class | 梨泰院Class | 梨泰院クラス \[87/100]
 
-### Sex Education | 性教育 | セックス・エデュケーション \[95/100]
+### Sex Education | 性教育 | セックス・エデュケーション \[96/100]
 
 \-- I don't know why I cried many times on this show.\
 \-- No, I know.\

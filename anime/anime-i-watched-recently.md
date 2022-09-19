@@ -22,6 +22,8 @@ description: Japanese Anime
 
 ### Cowboy Bebop | 星際牛仔 | カウボーイビバップ
 
+### Dr. Stone | Dr.STONE 新石紀&#x20;
+
 
 
 ## \[Watching]
@@ -29,6 +31,8 @@ description: Japanese Anime
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
+
+__
 
 ## \[Watched]
 

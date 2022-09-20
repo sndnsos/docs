@@ -39,6 +39,10 @@
 * [Anime Eiga I watched recently](anime-eiga/anime-eiga-i-watched-recently.md)
 * [Anime Eiga I like](anime-eiga/anime-eiga-i-like.md)
 
+## Video Others
+
+* [Video - Others](video-others/video-others.md)
+
 ## Japanese 日本語 <a href="#japanese" id="japanese"></a>
 
 * [Japanese Basic Characters](japanese/japanese-basic-characters.md)

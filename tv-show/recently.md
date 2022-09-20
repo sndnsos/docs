@@ -16,9 +16,9 @@ description: Newer content is on top.
 
 ### **Revenge Office |** Kättemaksukontor <a href="#firstheading" id="firstheading"></a>
 
-### Big Bang Theory
+### The Big Bang Theory | 生活大爆炸
 
-### Young Sheldon
+### Young Sheldon | 少年謝爾頓
 
 ## \[Watching]
 

@@ -26,11 +26,11 @@ description: Newer content is on top.
 
 ### Little Miss Sunshine | 小太陽的願望 \[2005]
 
-### Lucy | 露西 \[2014]
-
 ### Everything Everywhere All At Once | 什麼多重宇宙 \[2022]
 
 ## \[ 2019 - 2021 ]
+
+### Lucy | 露西 \[2014] \[95/100]
 
 ### The Fable | 殺手寓言 | ザ・ファブル \[78/100] <a href="#firstheading" id="firstheading"></a>
 

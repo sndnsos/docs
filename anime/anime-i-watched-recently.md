@@ -36,11 +36,11 @@ __
 
 ## \[Watched]
 
-### Fire Force | 炎炎消防隊 | 炎炎ノ消防隊 Season 1 \[85/100]
+### Fire Force | 炎炎消防隊 | 炎炎ノ消防隊 Season 1 \[84/100]
 
 『えんえんのしょうぼうたい』
 
-### A Certain Magical Index | 魔法禁書目錄 | とある魔術の禁書目録 \[85/100] <a href="#firstheading" id="firstheading"></a>
+### A Certain Magical Index | 魔法禁書目錄 | とある魔術の禁書目録 \[84/100] <a href="#firstheading" id="firstheading"></a>
 
 『とあるまじゅつのインデックス』
 

@@ -172,6 +172,10 @@ description: Newer content is on top.
 
 『ラ・ラ・ランド』
 
+It is a sad ending, but not that sad. Sometimes things in the real life can be much worse.
+
+I cried for the film, I cried for the song, and I cried for myself.
+
 ### Warcraft: The Beginning | **魔獸：崛起 \[2016] \[88/100]**
 
 ### The Revenant | 荒野獵人 \[2015] \[74/100]
@@ -232,7 +236,7 @@ description: Newer content is on top.
 * The Two Towers - 2002
 * The Return of the King - 2003
 
-### King of Comedy | 喜劇之王 \[1999] \[98/100]
+### King of Comedy | 喜劇之王 \[1999] \[97/100]
 
 『喜劇王』Kigeki-ō
 

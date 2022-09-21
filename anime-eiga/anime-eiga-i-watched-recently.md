@@ -26,6 +26,7 @@
 
 [wiki](https://en.wikipedia.org/wiki/List\_of\_Case\_Closed\_films)
 
+* 13 The Raven Chaser | 漆黑的追蹤者 \[78/100]
 * 15 Quarter of Silence | 沈黙の15分 \[2011] \[82/100]
 * 16 The Eleventh Striker | 11人目のストライカー \[2012] \[81/100]
 * 20 The Darkest Nightmare | 純黒の悪夢 \[2016] \[72/100]

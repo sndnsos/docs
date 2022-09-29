@@ -46,15 +46,17 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ] Played
 
-### The Invisible Guardian（隱形守護者）\[61/100] \[2019]
+### The Invisible Guardian（隱形守護者）\[38/100] \[2019]
 
 Some people who know the real history of China are saying the original game 「潜伏之赤途」 is a better game.&#x20;
 
-I haven't played 「潜伏之赤途」 , but I dislike 「隱形守護者」(this game) for many reasons. It is just a political show which is full of lies as propaganda of the Chinese Communist Party. I can't say everyone in the Communist Party is a bad guy, but CCP is even 10 times worse than the Japanese during the second world war.&#x20;
+I haven't played 「潜伏之赤途」 , but I dislike 「隱形守護者」(this game) for many reasons. There are some details showing that the game designer also know it is It is just a political show which is full of lies as propaganda of the Chinese Communist Party. I can't say everyone in the Communist Party is a bad guy, but CCP is even 10 times worse than the Japanese during the second world war.&#x20;
 
-However, I finally accept and support the viewpoint that Chinese people deserve the Chinese Communist Party, their moralities are as bad as each other, so there are so many disasters after 1949 and people felt like nothing. : )
+However, I finally accept and support the viewpoint that Chinese people deserve the Chinese Communist Party, their moralities are as bad as each other, so there are so many disasters after 1949 and people felt like nothing. : ) But still, I feel very disgusted.
 
-Also, many scenarios are not logical. Sometimes, it is even like a 抗日神劇（ridiculous anti-Japanese drama).
+Also, many scenarios are not logical. Sometimes, it is even like a 抗日神劇（ridiculous anti-Japanese drama). By the way, it talked a lot about the place Yanan（延安）, as if it seems like a sacred place with faith. But it is just a purgatory full of demons, deceits, and intrigues.&#x20;
+
+Again, the game is really so so so fake and untruthful. I could talk for 100 hours about how stupid the game is, worse than bullshit.
 
 ### The Scroll Of Taiwu（太吾繪卷） \[68/100] \[2022]
 

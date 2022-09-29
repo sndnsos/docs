@@ -54,7 +54,7 @@ I haven't played 「潜伏之赤途」 , but I dislike 「隱形守護者」(thi
 
 However, I finally accept and support the viewpoint that Chinese people deserve the Chinese Communist Party, their moralities are as bad as each other, so there are so many disasters after 1949 and people felt like nothing. : )
 
-Also, many scenarios are not logical.
+Also, many scenarios are not logical. Sometimes, it is even like a 抗日神劇（ridiculous anti-Japanese drama).
 
 ### The Scroll Of Taiwu（太吾繪卷） \[68/100] \[2022]
 

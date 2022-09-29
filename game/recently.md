@@ -50,7 +50,9 @@ description: Newer content is on top.
 
 Some people who know the real history of China are saying the original game 「潜伏之赤途」 is a better game.&#x20;
 
-I haven't played 「潜伏之赤途」 , but I dislike 「隱形守護者」(this game) for many reasons. It is just a political show which is full of lies as propaganda of the Chinese Communist Party which is 10 times worse than the Japanese even during the second world war.
+I haven't played 「潜伏之赤途」 , but I dislike 「隱形守護者」(this game) for many reasons. It is just a political show which is full of lies as propaganda of the Chinese Communist Party. I can't say everyone in the Communist Party is a bad guy, but CCP is even 10 times worse than the Japanese during the second world war.&#x20;
+
+However, I finally accept and support the viewpoint that Chinese people deserve the Chinese Communist Party, their moralities are as bad as each other, so there are so many disasters after 1949 and people felt like nothing. : )
 
 ### The Scroll Of Taiwu（太吾繪卷） \[68/100] \[2022]
 

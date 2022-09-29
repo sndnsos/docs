@@ -46,14 +46,35 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ] Played
 
-### The Last of Us（最後生還者）\[57/100]
+### The Invisible Guardian（隱形守護者）\[61/100] \[2019]
+
+Some people who know the real history of China are saying the original game 「潜伏之赤途」 is a better game.&#x20;
+
+I haven't played 「潜伏之赤途」 , but I dislike 「隱形守護者」(this game) for many reasons. It is just a political show which is full of lies as propaganda of the Chinese Communist Party which is 10 times worse than the Japanese even during the second world war.
+
+### The Scroll Of Taiwu（太吾繪卷） \[68/100] \[2022]
+
+This game was one of the very rare Chinese games I kinda liked. It has some very interesting ideas.
+
+But it is also bad for many reasons:
+
+* Too many bugs, some are fatal bugs that can lead the game crashes; some are very terrible bugs that could make your character's data go to breaking bad values and you can barely play any future. **I am saying the bugs made you have to stop playing the games or restart the games.**&#x20;
+* Very awful UI design and terrible playing experience. It becomes very tiring for users to play this game without installing mods.
+* Stupid stories, I thought there could be an awesome ending that could make everything kind of worthy, but the ending was actually pretty boring and has nothing meaningful in it.
+* Pretty laggy if you play a long time.
+* This game regards itself as a Wuxia game. Wuxia is a concept that is called "Doing the good things, Promises must be kept and action must be resolute" （「言必信，行必果」）. But in the game, you can't really feel that people are doing good things. (Actually, if you have played this game and understood the behaviors of the player, you would better call the character a bad person). But in fact, Wuxia is also only a fake imaginary concept in China. Chinese people won't even try to help kids and old people who fall down on the street. Justice and Righteous is what&#x20;
+* Cheating - 3 years after EA, this game is not really getting better. And with so many issues, it calls the game itself.
+
+I am not saying this game won't be better after several years. I  can be. But I have too many reasons to dislike it right now (2022/09/22)
+
+### The Last of Us（最後生還者）\[77/100]
 
 * Season 1 - \[92/100]
-* Season 2 - \[22/100]: The story and character deisgn is too much self-contradictory and too stupid, it ruined other good works to make the game a trash disgusting game.
+* Season 2 - \[22/100]: The story and character design are too much self-contradictory and too stupid, it ruined other good works to make the game a trash disgusting game.
 
 ### The Walking Dead（行屍走肉）\[95/100]
 
-It's always ridiculous for the zombie-related stories. It looks like there are 70Trillion zombies on the earth being able to survive forever without anything. \
+It's always ridiculous for zombie-related stories. It looks like there are 70Trillion zombies on the earth being able to survive forever without anything. \
 But this game is the best of all.
 
 * Season 1 - \[98/100]
@@ -61,7 +82,7 @@ But this game is the best of all.
 * Season 3 - \[92/100]
 * Season 4 - \[90/100]
 
-### Wartales（戰爭傳說） \[92/100]
+### Wartales（戰爭傳說） \[91/100]
 
 For something, it's fun, but also boring for the fights.
 

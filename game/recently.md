@@ -46,7 +46,7 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ] Played
 
-### The Invisible Guardian（隱形守護者）\[38/100] \[2019]
+### The Invisible Guardian（隱形守護者）\[2019] \[38/100]
 
 Some people who know the real history of China are saying the original game 「潜伏之赤途」 is a better game.&#x20;
 
@@ -58,7 +58,7 @@ Also, many scenarios are not logical. Sometimes, it is even like a 抗日神劇�
 
 Again, the game is really so so so fake and untruthful. I could talk for 100 hours about how stupid the game is, worse than bullshit.
 
-### The Scroll Of Taiwu（太吾繪卷） \[68/100] \[2022]
+### The Scroll Of Taiwu（太吾繪卷）\[2022] \[68/100]&#x20;
 
 This game was one of the very rare Chinese games I kinda liked. It has some very interesting ideas.
 
@@ -78,7 +78,7 @@ I am not saying this game won't be better after several years. I  can be. But I 
 * Season 1 - \[92/100]
 * Season 2 - \[22/100]: The story and character design are too much self-contradictory and too stupid, it ruined other good works to make the game a trash disgusting game.
 
-### The Walking Dead（行屍走肉）\[95/100]
+### 🥰The Walking Dead（行屍走肉）\[95/100]
 
 It's always ridiculous for zombie-related stories. It looks like there are 70Trillion zombies on the earth being able to survive forever without anything. \
 But this game is the best of all.
@@ -88,7 +88,7 @@ But this game is the best of all.
 * Season 3 - \[92/100]
 * Season 4 - \[90/100]
 
-### Wartales（戰爭傳說） \[91/100]
+### Wartales（戰爭傳說） \[90/100]
 
 For something, it's fun, but also boring for the fights.
 
@@ -98,53 +98,94 @@ For something, it's fun, but also boring for the fights.
 
 ### **Heavy Rain（暴雨）\[2010] \[94/100]**
 
-### What Remains of Edith Finch（**伊迪·芬奇的記憶**）\[2017] \[98/100]
+### 🥰What Remains of Edith Finch（**伊迪·芬奇的記憶**）\[2017] \[98/100]
+
+One of the best games ever! 🥰
 
 ### Big Time \[2022] \[39/100]
 
 ### To the Moon（去月球）\[2011] \[94/100]
 
-### Quarantineer（隔離之名）\[2021]
+### Quarantineer（隔離之名）\[2021] \[90/100]
 
-### Behind the Frame: The Finest Scenery（傾聽畫語:最美好的景色）\[2021]
+It's great to make friends with the designer of this game.
 
-### Portal 2（傳送門2）\[2011]
+I appreciate it a lot.
 
-### Age of Empires IV（帝國時代4）\[2021]
+### Behind the Frame: The Finest Scenery（傾聽畫語:最美好的景色）\[2021] \[91/100]
 
-### New World\[MMO]（新世界）
+### Portal 2（傳送門2）\[2011] \[97/100]
 
-### Titan Quest（泰坦之旅）
+### Age of Empires IV（帝國時代4）\[2021] \[88/100]
 
-### Kingdom Rush: Frontiers（王國保衛戰：前線）
+### New World\[MMO]（新世界）\[83/100]
 
-### Life is Strange: True Colors（奇異人生：本色）
+### LOST JUDGMENT 裁かれざる記憶 \[93/100]&#x20;
 
-### This is the Police （這是警察）
+\[Wached Only]
 
-### Road 96（九十六號公路）
+The story is attractive. And the street view is so like Japan.
 
-### Risk of Rain 2（雨中冒险2）
+### Titan Quest（泰坦之旅）\[80/100]
 
-### Muck
+### Kingdom Rush: Frontiers（王國保衛戰：前線）\[93/100]
 
-### **Rim World（環世界）**
+Maybe it is the best Tower Defense game so far. It's challenging to finish all levels with 3 stars.
 
-### It Takes Two（雙人成行）\[97/100]
+* Kingdom Rush - 2014
+* Kingdom Rush: Frontiers - 2016
+* Kingdom Rush: Origins - 2018
+* Kingdom Rush: Vengeance - 2020
 
-### Cyberpunk 2077（**賽博朋克2077 |** 電馭叛客2077）
+### Life is Strange: True Colors（奇異人生：本色）\[91/100]
 
-### Grand Theft Auto V （俠盜獵車手）
+Beautiful game and beautiful journey, Free music and free souls \~
 
-### Dota2 \[Defense of the Ancients]&#x20;
+Strong empathy is sure a power. It could bring much pain. However, if more people could understand each other better, there would be fewer ugly lies and evils.
+
+### This is the Police （這是警察）\[89/100]
+
+### Road 96（九十六號公路）\[93/100]
+
+Music is touching; Scenes are beautiful; Characters are lifelike. It's about life adventure.
+
+Lose freedom, lose all truth. It's an important thing we all should know and remember.
+
+### Risk of Rain 2（雨中冒险2）\[89/100]
+
+### Muck \[85/100]
+
+### **Rim World（環世界）\[94/100]**
+
+### 🥰It Takes Two（雙人成行）\[97/100]
+
+It is the best cooperative game and one of the best games I have ever experienced. Thanks for making such an interesting and creative game full of love!
+
+It's nice to have a company and to build a lovely world.
+
+### 🥰Cyberpunk 2077（**賽博朋克2077 |** 電馭叛客2077）\[96/100]
+
+No matter where we are, love & freedom are always the best things to chase.
+
+I like this game pretty much! I like the stories a lot as well. The bugs at the beginning of this game are not very influential actually.
+
+### Grand Theft Auto V （俠盜獵車手）\[95/100]
+
+### Dota2 \[Defense of the Ancients] \[95/100]
 
 My favorite heroes are still tinker and techies in this game.
 
-### **The Legend of Sword and Fairy（仙劍奇俠傳）**
+### **The Legend of Sword and Fairy（仙劍奇俠傳）\[76/100]**
 
-### **Fall Guys（糖豆人）**
+This game has some special meanings to many Chinese. (I was but I am not Chinese)
 
-### **ARK: Survivel Evolved（**方舟：進化生存）
+But I really have many reasons to dislike this game.&#x20;
+
+### **Fall Guys（糖豆人）\[88/100]**
+
+### **ARK: Survivel Evolved（**方舟：進化生存）\[92/100]
+
+
 
 ## \[ - 2018 ] Lifetime Played Games
 

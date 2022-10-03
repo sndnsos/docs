@@ -5,7 +5,6 @@
 ## Game
 
 * [Games I played recently](game/recently.md)
-* [Games I like](game/games-i-like.md)
 
 ## BOOK
 

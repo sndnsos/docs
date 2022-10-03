@@ -216,9 +216,10 @@ I cried for the film, I cried for the song, and I cried for myself.
 
 『マトリックス』
 
-* The Matrix - 1999
-* The Matrix Reloaded - 2003
-* The Matrix Revolutions - 2003
+* The Matrix - 1999 \[98/100]
+* The Matrix Reloaded - 2003 \[97/100]
+* The Matrix Revolutions - 2003 \[97/100]
+* The Matrix Resurrections - 2021 \[63/100]
 
 ### The Hobbit | 哈比特人 \[2012-2014] \[96/100]
 

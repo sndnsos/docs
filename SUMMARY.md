@@ -17,10 +17,12 @@
 
 * [Films I watched recently](film/recently.md)
 * [Documentary Film](film/documentary-film.md)
+* [Films I like](film/films-i-like.md)
 
 ## TV SHOW
 
 * [TV Shows I watched recently](tv-show/recently.md)
+* [TV Shows I like](tv-show/tv-shows-i-like.md)
 
 ## Anime
 

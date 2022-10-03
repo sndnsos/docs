@@ -46,7 +46,7 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2021 ] Played
 
-### The Invisible Guardian（隱形守護者）\[2019] \[38/100]
+### The Invisible Guardian（隱形守護者）\[2019] \[49/100]
 
 Some people who know the real history of China are saying the original game 「潜伏之赤途」 is a better game.&#x20;
 
@@ -58,7 +58,7 @@ Also, many scenarios are not logical. Sometimes, it is even like a 抗日神劇�
 
 Again, the game is really so so so fake and untruthful. I could talk for 100 hours about how stupid the game is, worse than bullshit.
 
-### The Scroll Of Taiwu（太吾繪卷）\[2022] \[68/100]&#x20;
+### The Scroll Of Taiwu（太吾繪卷）\[2022] \[73/100]&#x20;
 
 This game was one of the very rare Chinese games I kinda liked. It has some very interesting ideas.
 
@@ -73,12 +73,12 @@ But it is also bad for many reasons:
 
 I am not saying this game won't be better after several years. I  can be. But I have too many reasons to dislike it right now (2022/09/22)
 
-### The Last of Us（最後生還者）\[77/100]
+### The Last of Us（最後生還者）\[79/100]
 
 * Season 1 - \[92/100]
-* Season 2 - \[22/100]: The story and character design are too much self-contradictory and too stupid, it ruined other good works to make the game a trash disgusting game.
+* Season 2 - \[49/100]: The story and character design are too much self-contradictory and too stupid, it ruined other good works to make the game a trash disgusting game.
 
-### 🥰The Walking Dead（行屍走肉）\[95/100]
+### 🥰The Walking Dead（行屍走肉）\[96/100]
 
 It's always ridiculous for zombie-related stories. It looks like there are 70Trillion zombies on the earth being able to survive forever without anything. \
 But this game is the best of all.
@@ -190,71 +190,71 @@ But I really have many reasons to dislike this game.&#x20;
 ## \[ - 2018 ] Lifetime Played Games
 
 * ****
-* **Detroit: Become Human（底特律：變人）**
-* **The Legend of Zelda: Breath of the Wild（薩爾達傳說：曠野之息）**
+* ### **Detroit: Become Human（底特律：變人）**
+* ### **🥰🥰🥰The Legend of Zelda: Breath of the Wild（薩爾達傳說：曠野之息）\[99/100]**
 * **The Witness（**見證者）
 * **Divinity: Original Sin II（神界：原罪2）**
-* **The Witcher 3: Wild Hunt（巫师3：狂猎）**
-* **Human: Fall Flat（人類：一敗塗地）**
-* **The Wolf Among Us（我們中的一隻狼）**
+* ### **The Witcher 3: Wild Hunt（巫师3：狂猎）**
+* ### **Human: Fall Flat（人類：一敗塗地）\[92/100]**
+* ### **🥰The Wolf Among Us（我們中的一隻狼）\[95/100]**
 * **The Scroll Of Taiwu（太吾繪卷）**
 * **Chinese Parents（中國式家長）**
-* **Slay the Spire（殺戮尖塔）**
-* **A WAY OUT（逃出生天）**
+* ### **Slay the Spire（殺戮尖塔）\[95/100]**
+* ### **A WAY OUT（逃出生天）\[93/100]**
 * **Getting Over It With Bennett Foddy（和班尼特福迪一起攻克難關）**
 * **Hobo: Tough Life（乞丐模擬器）**
-* **Life is Strange（奇異人生）**
+* ### **🥰Life is Strange（奇異人生）**\[98/100]
 * **Journey（風之旅人）**
 * **Borderlands 3（無主之地3 ）**
-* **This War of Mine（這是我的戰爭）**
+* ### **🥰This War of Mine（這是我的戰爭）**\[95/100]
 * **Dead by Daylight（黎明殺機）**
 * **The War of Heros（英雄殺）**
-* **OverCooked（煮糊了）**
-* **South Park: The Stick of Truth（南方公園：真理之杖）**
-* **Rayman Legends（雷曼 傳奇）**
-* **Danganronpa（彈丸論破系列）**
+* ### **OverCooked（煮糊了）**\[94/100]
+* ### **🥰South Park: The Stick of Truth（南方公園：真理之杖）**\[95/100]
+* ### **🥰Rayman Legends（雷曼 傳奇）\[95/100]**
+* ### **🥰Danganronpa（彈丸論破系列）\[97/100]**
 * **Lost Castle（失落城堡）**
 * **Terraria（泰拉利亞）**
-* **7 Days to Die（七日殺）**
-* **Hurt World（傷害世界）**
-* **Don’t Starve（饑荒）**
-* **Child of Light（光之子）**
-* **LIMBO（地獄邊境）**
-* **Lara Croft and the Guardian of Light（古墓奇兵：光之守護者）**
+* ### **7 Days to Die（七日殺）**\[91/100]
+* ### **Hurt World（傷害世界）**\[84/100]
+* ### **Don’t Starve（饑荒）**\[95/100]
+* ### **Child of Light（光之子）**\[93/100]
+* ### **LIMBO（地獄邊境）**\[91/100]
+* ### **Lara Croft and the Guardian of Light（古墓奇兵：光之守護者）**\[91/100]
 * **Watch Dogs（看門狗）**
-* **The Walking Dead（行屍走肉）**
-* **Dota2（刀塔）**
-* **Minecraft（我的世界）**
-* **The Elder Scrolls V: Skyrim（上古卷軸5）**
+* ### **The Walking Dead（行屍走肉）**\[96/100]
+* ### **Dota2（刀塔）**\[93/100]
+* ### **Minecraft（我的世界）**\[94/100]
+* ### **🥰The Elder Scrolls V: Skyrim（上古卷軸5）**\[98/100]
 * **Total War（全面戰爭系列）**
 * **Rise of Nations（國家的崛起）**
 * **Football Manager（足球經理系列）**
-* **Mount & Blade（騎馬與砍殺）**
-* **Uncharted Waters Online（大航海時代Online）**
-* **Uncharted Waters （大航海時代系列）**
+* ### **Mount & Blade（騎馬與砍殺）**\[91/100]
+* ### **Uncharted Waters Online（大航海時代Online）**\[913/100]
+* ### **Uncharted Waters （大航海時代系列）**\[95/100]
 * **Heroes of Might and Magic（魔法門之英雄無敵系列）**
 * **Tower of the Sorcerer（魔塔）**
 * **The Heaven Sword And The Dragon Sabre（真倚天屠龍記）**
 * **Prince of Qin（秦殤）**
 * **Kingdom Hero（三國群英傳系列）**
 * **Records of the Three Kingdoms（三國志系列）**
-* **The Millionaire of 3 Kingdoms（富甲天下系列）**
-* **Wind Fantasy（風色幻想系列）**
-* **Warcraft Ⅲ（魔獸爭霸3）**
-* **Luzhanqi（四國軍旗）**
-* **Dynasty Warriors（真·三國無雙系列）**
-* **Richman（大富翁系列）**
-* **Theme Hospital （主題醫院）**
+* ### **The Millionaire of 3 Kingdoms（富甲天下系列）**\[88/100]
+* ### **🥰Wind Fantasy（風色幻想系列）**\[95/100]
+* ### **Warcraft Ⅲ（魔獸爭霸3）**\[93/100]
+* ### **Luzhanqi（四國軍旗）**\[87/100]
+* ### **Dynasty Warriors（真·三國無雙系列）**\[87/100]
+* ### **Richman（大富翁系列）**\[88/100]
+* ### **Theme Hospital （主題醫院）**\[91/100]
 * **Chinese Inn（中華客棧）**
 * **The Sims（模擬市民系列）**
 * **Virtual Life（虛擬人生系列）**
 * **Princess Maker（美少女夢工廠系列）**
 * **Stardom（明星志願系列）**
-* **Age of Pirates: Caribbean Tales（海盜時代：加勒比故事）**
+* ### **🥰Age of Pirates: Caribbean Tales（海盜時代：加勒比故事）**\[94/100]
 * **Grand Theft Auto（俠盜獵車手系列）**
 * **Road Rash（暴力摩托）**
 * **Family Computer Series（小霸王 學習機/紅白機 系列）**
 * **Fantasy Westward Journey（夢幻西遊）**
 * **Liuxing Hudie Jian（流星・蝴蝶・劍）**
-* **Counter-Strike（反恐精英）**
-* **Command & Conquer: Red Alert（紅色警戒）**
+* ### **Counter-Strike（反恐精英）**\[93/100]
+* ### **Command & Conquer: Red Alert（紅色警戒）**\[92/100]

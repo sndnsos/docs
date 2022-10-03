@@ -109,6 +109,12 @@ Seaons2 \[93/100]
 
 ### Unnatural | 非自然死亡 | アンナチュラル \[97/100] <a href="#firstheading" id="firstheading"></a>
 
+> **あったことを無かったことにする。そんな大人の姿を見せられたら、子供は石を投げるしかないですよ。\[**[**link**](https://www.underwater-festival.com/ed00008/)**]**
+
+If the adults don't care about the facts and don't choose to avoid evil doings, how could the children feel and grow up?
+
+UDIが7K（危険・汚い・きつい・規則が厳しい・休暇がとれない・化粧がのらない・結婚できない）の最悪な職場環境であることが強調されるのです。　ＸＤ
+
 ### My Name | 以吾之名 | マイネーム: 偽りと復讐 \[79/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Prison Playbook | 機智牢房生活 | 刑務所のルールブック \[84/100]

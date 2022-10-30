@@ -8,9 +8,7 @@ description: Newer content is on top.
 
 ### Tokyo Love Story | 東京愛情故事 | 東京ラブストーリー  <a href="#firstheading" id="firstheading"></a>
 
-### Doctor-X: Surgeon Michiko Daimon | 派遣女醫X | ドクターX〜外科医・大門未知子 <a href="#firstheading" id="firstheading"></a>
 
-『ドクター-エックス げかい・だいもんみちこ』
 
 ### The Full-Time Wife Escapist | 逃避雖可恥卻有用 \~ 月薪嬌妻 | 逃げるは恥だが役に立つ
 
@@ -19,6 +17,10 @@ description: Newer content is on top.
 ### The Big Bang Theory | 生活大爆炸
 
 ### Young Sheldon | 少年謝爾頓
+
+
+
+
 
 ## \[Watching]
 
@@ -32,7 +34,17 @@ description: Newer content is on top.
 
 ### Explained
 
-## Live
+
+
+
+
+## Watched Live/TV Show
+
+### Doctor-X: Surgeon Michiko Daimon | 派遣女醫X | ドクターX〜外科医・大門未知子 Season 1-7 \[86/100] <a href="#firstheading" id="firstheading"></a>
+
+『ドクター-エックス げかい・だいもんみちこ』
+
+A good show for learning Japanese :D
 
 ### Better Call Saul | 絕命律師 | ベター・コール・ソウル \[95/100]
 
@@ -170,7 +182,7 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 
 ### Prison Break | 越獄 | プリズン・ブレイク \[90/100]
 
-## Cartoon (Western Style)
+## Watched Cartoon (Western Style)
 
 ### Inside Job | 陰謀辦公室 | **陰謀論のお仕事 \[59/100]**
 

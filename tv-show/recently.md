@@ -8,8 +8,6 @@ description: Newer content is on top.
 
 ### Tokyo Love Story | 東京愛情故事 | 東京ラブストーリー  <a href="#firstheading" id="firstheading"></a>
 
-
-
 ### The Full-Time Wife Escapist | 逃避雖可恥卻有用 \~ 月薪嬌妻 | 逃げるは恥だが役に立つ
 
 ### **Revenge Office |** Kättemaksukontor <a href="#firstheading" id="firstheading"></a>
@@ -42,11 +40,11 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### Doctor-X: Surgeon Michiko Daimon | 派遣女醫X | ドクターX〜外科医・大門未知子 Season 1-7 \[86/100] <a href="#firstheading" id="firstheading"></a>
+### Doctor-X: Surgeon Michiko Daimon | 派遣女醫X | ドクターX〜外科医・大門未知子 Season 1-7 \[85/100] <a href="#firstheading" id="firstheading"></a>
 
 『ドクター-エックス げかい・だいもんみちこ』
 
-A good show for learning Japanese :D
+It's very boring and old-fashioned, but it's a good show for learning Japanese :D
 
 ### Better Call Saul | 絕命律師 | ベター・コール・ソウル \[95/100]
 

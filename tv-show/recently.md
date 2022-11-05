@@ -44,7 +44,11 @@ description: Newer content is on top.
 
 It's a very attractive TV show about drug dealers.
 
-The first season is about Pablo who was the biggest&#x20;
+The first two seasons are about Pablo who was the biggest dealer in the world.
+
+Pablo Escobar | 巴布羅 | Pablo Emilio Escobar Gaviria
+
+![](<../.gitbook/assets/image (1).png>)
 
 What's more, I went to Bogota, Colombia once recently. I still feel that is not a safe city/country.
 

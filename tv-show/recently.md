@@ -32,13 +32,21 @@ description: Newer content is on top.
 
 ### Explained
 
-### Nacrod | 毒梟
+
 
 
 
 
 
 ## \[Watched Live/TV Show]
+
+### Nacrod | 毒梟 Season 1 \[93/100]
+
+It's a very attractive TV show about drug dealers.
+
+The first season is about Pablo who was the biggest&#x20;
+
+What's more, I went to Bogota, Colombia once recently. I still feel that is not a safe city/country.
 
 ### Doctor-X: Surgeon Michiko Daimon | 派遣女醫X | ドクターX〜外科医・大門未知子 Season 1-7 \[85/100] <a href="#firstheading" id="firstheading"></a>
 

@@ -44,7 +44,7 @@ description: Newer content is on top.
 
 Kiki Camarena | **恩里克·S·「基基」·卡馬雷納·薩拉薩爾 |** Enrique S. "Kiki" Camarena Salazar
 
-I really hate the shows that 100 short-distance bullets cannot kill someone while the one could kill dozens. (Rafa and some other Nacrods)
+I really hate the shows that 100 short-distance bullets cannot kill someone while the one could kill dozens. ([Rafael Caro Quintero](https://en.wikipedia.org/wiki/Rafael\_Caro\_Quintero) and some other Nacrods)
 
 ### Nacrod | 毒梟 Season 1-2 \[92/100]
 

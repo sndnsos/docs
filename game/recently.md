@@ -44,6 +44,22 @@ description: Newer content is on top.
 
 ### **The Witcher 3: Wild Hunt（巫师3：狂猎）** <a href="#firstheading" id="firstheading"></a>
 
+****
+
+****
+
+****
+
+## Playing
+
+### Kingdom Come: Deliverance 天國降臨：救贖 \[94/100]
+
+****
+
+****
+
+****
+
 ## \[ 2019 - 2021 ] Played
 
 ### The Invisible Guardian（隱形守護者）\[2019] \[49/100]

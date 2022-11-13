@@ -40,7 +40,11 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### Nacrod | 毒梟 Season 1 \[93/100]
+### Nacrod Mexico | 毒梟：墨西哥 Season 1 \[92/100]
+
+Kiki Camarena | **恩里克·S·「基基」·卡馬雷納·薩拉薩爾 |** Enrique S. "Kiki" Camarena Salazar
+
+### Nacrod | 毒梟 Season 1-2 \[93/100]
 
 It's a very attractive TV show about drug dealers.
 

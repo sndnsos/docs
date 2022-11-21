@@ -40,6 +40,8 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
+### Shameless | 無恥之徒 Season 1 \[92/100]
+
 ### Nacrod Mexico | 毒梟：墨西哥 Season 1 \[89/100]
 
 Kiki Camarena | **恩里克·S·「基基」·卡馬雷納·薩拉薩爾 |** Enrique S. "Kiki" Camarena Salazar

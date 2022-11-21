@@ -20,6 +20,11 @@ description: Newer content is on top.
     [La Nuit de la louve](https://archive.org/details/lanuitdelalouver0000loev).
 * Anne of Green Gables 清秀佳人 赤毛のアン
 * Humankind: A Hopeful History
+* Love in the Time of Cholera
+* Catcher in the Rye | 麥田裏的守望者 \~ 麥田捕手
+* Lord of the Flies | 蝇王
+* The Elementals of Style | 英文寫作指南
+* 金瓶梅
 
 ### A Theory of Justice | 正義論 \[1971]
 
@@ -137,11 +142,7 @@ by Francis Yoshihiro 法蘭西斯·福山 **福山** よしひろ \[U.S.]
 
 ### Percy Jackson & the Olympians 波西傑克森 \[2005-2009]
 
-* Love in the Time of Cholera
-* Catcher in the Rye | 麥田裏的守望者 \~ 麥田捕手
-* Lord of the Flies | 蝇王
-* The Elementals of Style | 英文寫作指南
-* We
+
 
 ## \[Reading]
 

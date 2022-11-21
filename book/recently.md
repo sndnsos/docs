@@ -24,7 +24,7 @@ description: Newer content is on top.
 * Catcher in the Rye | 麥田裏的守望者 \~ 麥田捕手
 * Lord of the Flies | 蝇王
 * The Elementals of Style | 英文寫作指南
-* 金瓶梅
+* The Plum in the Golden Vase | 金瓶梅
 
 ### A Theory of Justice | 正義論 \[1971]
 

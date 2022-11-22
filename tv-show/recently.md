@@ -40,7 +40,7 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### Shameless | 無恥之徒 Season 1 \[92/100]
+### Shameless | 無恥之徒 Season 1 \[94/100]
 
 ### Nacrod Mexico | 毒梟：墨西哥 Season 1 \[89/100]
 

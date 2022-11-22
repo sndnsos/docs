@@ -42,7 +42,7 @@ description: Newer content is on top.
 
 ### Shameless | 無恥之徒 Season 1 \[94/100]
 
-Most times, we smile, we cry, and shit can be the life itself.
+Most times, we laugh, we cry, and shit can be the life itself.
 
 ### Nacrod Mexico | 毒梟：墨西哥 Season 1 \[89/100]
 

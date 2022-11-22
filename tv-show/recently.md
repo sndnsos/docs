@@ -42,6 +42,8 @@ description: Newer content is on top.
 
 ### Shameless | 無恥之徒 Season 1 \[94/100]
 
+Most times, shit is the life.
+
 ### Nacrod Mexico | 毒梟：墨西哥 Season 1 \[89/100]
 
 Kiki Camarena | **恩里克·S·「基基」·卡馬雷納·薩拉薩爾 |** Enrique S. "Kiki" Camarena Salazar

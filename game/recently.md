@@ -4,11 +4,15 @@ description: Newer content is on top.
 
 # Games I played recently
 
-## \[My Favorite Games]
+## \[My Top3 Favorite Games Every Year]
+
+**”Bold“** means I love the game much
+
+"\*" Means I didn't actually play/finish the game.
 
 ### 2023
 
-1. The Legend of Zelda: Tears of the Kingdom
+1. The Legend of Zelda: Tears of the Kingdom\*
 
 ### 2022
 

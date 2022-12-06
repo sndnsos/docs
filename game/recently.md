@@ -4,6 +4,44 @@ description: Newer content is on top.
 
 # Games I played recently
 
+## \[My Favorite Games]
+
+### 2023
+
+1. The Legend of Zelda: Tears of the Kingdom
+
+### 2022
+
+1. Hindsight
+2. The Elden Ring\*
+3. V Rising
+
+### 2021 ([.](https://www.polygon.com/c/22796149/50-best-video-games-of-2021-polygon-goty))
+
+1. **It Takes Two**
+2. **Road 96**
+3. Life is Strange: True Colors
+
+### 2020 ([.](https://www.polygon.com/2020/12/14/22166004/best-games-2020-ps4-xbox-one-switch-pc-series-x))
+
+1. Cyberpunk 2077
+
+### 2019 ([.](https://www.polygon.com/best-games/2019/12/13/21002670/best-games-2019-ps4-pc-xbox-one-nintendo-switch-ios))
+
+1. Devotion
+
+### 2018 ([.](https://www.polygon.com/2018/5/29/17386324/best-games-2018-ps4-pc-xbox-one))
+
+1. A Way Out
+
+### 2017 ([.](https://www.polygon.com/2017-best-games/2017/12/18/16781674/best-video-games-2017-top-50-mario-pubg-zelda))
+
+1. **The Legend of Zelda: Breath of the Wild**
+2. **What Remains of Edith Finch**
+3. Slay the Spire
+
+###
+
 ## \[TO Play]
 
 ### **Detroit: Become Human（底特律：變人） {Second}**
@@ -34,9 +72,23 @@ description: Newer content is on top.
 
 ### Orwell
 
-### Last Day of June
+### Last Day of June \[2018]
 
+### Through the Darkest of Times
 
+### Tell Me Why
+
+### If Found... <a href="#firstheading" id="firstheading"></a>
+
+### Gris <a href="#firstheading" id="firstheading"></a>
+
+### A Mortician's Tale \[2018]
+
+### Please Knock on My Door \[2018]
+
+### Before Your Eyes
+
+### NORCO
 
 
 
@@ -52,13 +104,57 @@ description: Newer content is on top.
 
 ### Kingdom Come: Deliverance 天國降臨：救贖 \[94/100]
 
-****
+### **Poly Island**
 
-****
 
-****
 
-## \[ 2019 - 2021 ] Played
+
+
+## \[ 2019 - 2022 ] Played
+
+Recently, I am thinking about how to judge the quality of the games.\
+So even though I don't have any favorite games this year, I am trying to follow the activity of TGA.
+
+For me, there are five attributes to judge games.
+
+* Playability
+* Story
+* Vision - Visual Art, Graphic Effect
+* Audio - Score and Music, Sound Effect
+* Creativity
+
+I will try to give scores of games in the four attributes.\
+For every attribute, I give scores from 0 to 10.
+
+### Hindsight 後見之明 \[94/100]
+
+* P: 7
+* S: 9
+* V: 8
+* A: 7.5
+* C: 9
+
+The best game for me this year. The story is not special, but I like the way it tells the story and I get and love the feeling inside this game.
+
+### A Memoir Blue/ˈmem.wɑːr/ \[74/100]
+
+* P: 3
+* S: 3.5
+* V: 7
+* A: 6.5
+* C: 7.5
+
+I don't like the game. The story is tough and bad to feel. It takes too many device resources as well.
+
+### Card Survival: Tropical Island \[89/100]
+
+* P: 8
+* S: 4
+* V: 4
+* A: 6
+* C: 8
+
+This game is fun at the beginning when you try, but it's boring and a waste of time later if you keep going.
 
 ### The Invisible Guardian（隱形守護者）\[2019] \[49/100]
 
@@ -132,9 +228,9 @@ I appreciate it a lot.
 
 ### Age of Empires IV（帝國時代4）\[2021] \[88/100]
 
-### New World\[MMO]（新世界）\[83/100]
+### New World\[MMO]（新世界）\[2021] \[83/100]
 
-### LOST JUDGMENT 裁かれざる記憶 \[93/100]&#x20;
+### LOST JUDGMENT 裁かれざる記憶\[2021] \[93/100]&#x20;
 
 \[Wached Only]
 
@@ -151,7 +247,7 @@ Maybe it is the best Tower Defense game so far. It's challenging to finish all l
 * Kingdom Rush: Origins - 2018
 * Kingdom Rush: Vengeance - 2020
 
-### Life is Strange: True Colors（奇異人生：本色）\[91/100]
+### Life is Strange: True Colors（奇異人生：本色）\[2021] \[91/100]
 
 Beautiful game and beautiful journey, Free music and free souls \~
 
@@ -159,7 +255,7 @@ Strong empathy is sure a power. It could bring much pain. However, if more peopl
 
 ### This is the Police （這是警察）\[89/100]
 
-### Road 96（九十六號公路）\[93/100]
+### Road 96（九十六號公路）\[2021] \[93/100]
 
 Music is touching; Scenes are beautiful; Characters are lifelike. It's about life adventure.
 
@@ -171,13 +267,13 @@ Lose freedom, lose all truth. It's an important thing we all should know and rem
 
 ### **Rim World（環世界）\[94/100]**
 
-### 🥰It Takes Two（雙人成行）\[97/100]
+### 🥰It Takes Two（雙人成行）\[2021] \[97/100]
 
 It is the best cooperative game and one of the best games I have ever experienced. Thanks for making such an interesting and creative game full of love!
 
 It's nice to have a company and to build a lovely world.
 
-### 🥰Cyberpunk 2077（**賽博朋克2077 |** 電馭叛客2077）\[96/100]
+### 🥰Cyberpunk 2077（**賽博朋克2077 |** 電馭叛客2077）\[2020] \[96/100]
 
 No matter where we are, love & freedom are always the best things to chase.
 

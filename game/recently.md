@@ -295,6 +295,8 @@ This game has some special meanings to many Chinese. (I was but I am not Chinese
 
 But I really have many reasons to dislike this game.&#x20;
 
+### Romance of the Three Kingdoms XIV 三國志14 \[73/100] <a href="#firstheading" id="firstheading"></a>
+
 ### **Fall Guys（糖豆人）\[88/100]**
 
 ### **ARK: Survivel Evolved（**方舟：進化生存）\[92/100]
@@ -317,6 +319,7 @@ But I really have many reasons to dislike this game.&#x20;
 * ### **A WAY OUT（逃出生天）\[93/100]**
 * **Getting Over It With Bennett Foddy（和班尼特福迪一起攻克難關）**
 * **Hobo: Tough Life（乞丐模擬器）**
+* **Romance of the Three Kingdoms XIII** **\[79/100]**
 * ### **🥰Life is Strange（奇異人生）**\[98/100]
 * **Journey（風之旅人）**
 * **Borderlands 3（無主之地3 ）**

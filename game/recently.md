@@ -305,8 +305,8 @@ But I really have many reasons to dislike this game.&#x20;
 
 ## \[ - 2018 ] Lifetime Played Games
 
-* ****
 * ### **Detroit: Become Human（底特律：變人）**
+* ### **Chinese Parents（中國式家長）\[83/100]**
 * ### **🥰🥰🥰The Legend of Zelda: Breath of the Wild（薩爾達傳說：曠野之息）\[99/100]**
 * **The Witness（**見證者）
 * **Divinity: Original Sin II（神界：原罪2）**

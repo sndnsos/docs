@@ -40,9 +40,11 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### Shameless | 無恥之徒 Season 1 \[94/100]
+### Shameless | 無恥之徒 Season 1 \[92/100]
 
-Most times, we laugh, we cry, and shit can be the life itself.
+Most times, we laugh, we cry, and shit can be life itself.
+
+The first season is okay, but as I kept watching this TV series, I feel the family is really pretty shameless...
 
 ### Nacrod Mexico | 毒梟：墨西哥 Season 1 \[89/100]
 

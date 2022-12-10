@@ -130,6 +130,18 @@ For me, there are five attributes to judge games.
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
 
+### Florence \[81/100]
+
+* P: 0
+* S: 7
+* V: 8
+* A: 8.5
+* C: 7
+
+The playability of this game gets a 0 score for me (actually I regard it as negative), but the visual art and music are both good.&#x20;
+
+Also, the story can be very common to the relationships of many people. It reminds me something of my own experience. Florence...
+
 ### Hindsight 後見之明 \[94/100]
 
 * P: 7

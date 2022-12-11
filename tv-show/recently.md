@@ -40,7 +40,7 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### Shameless | 無恥之徒 Season 1 \[92/100]
+### Shameless | 無恥之徒 Season 1 \[89/100]
 
 Most times, we laugh, we cry, and shit can be life itself.
 

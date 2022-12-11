@@ -46,6 +46,10 @@ For many people, most times, we laugh, we cry, and shit can be life itself.
 
 The first season is okay, but as I kept watching this TV series, I feel the family is really pretty shameless...
 
+Season 2-3 \[85/100]
+
+Season 4-5 \[81/100]
+
 ### Nacrod Mexico | 毒梟：墨西哥 Season 1 \[89/100]
 
 Kiki Camarena | **恩里克·S·「基基」·卡馬雷納·薩拉薩爾 |** Enrique S. "Kiki" Camarena Salazar

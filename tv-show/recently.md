@@ -42,7 +42,7 @@ description: Newer content is on top.
 
 ### Shameless | 無恥之徒 Season 1 \[89/100]
 
-Most times, we laugh, we cry, and shit can be life itself.
+For many people, most times, we laugh, we cry, and shit can be life itself.
 
 The first season is okay, but as I kept watching this TV series, I feel the family is really pretty shameless...
 

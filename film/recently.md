@@ -36,6 +36,10 @@ description: Newer content is on top.
 
 ### Avatar | 阿凡達 \[2009] {Second Time} \[99/100]
 
+One of the best of the best films ever.
+
+Cry during watching it.
+
 ### Her | 她 \[2013] {Second Time} \[98/100]
 
 ### Everything Everywhere All At Once | 什麼多重宇宙 \[2022] \[84/100]

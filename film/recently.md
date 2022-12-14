@@ -4,6 +4,18 @@ description: Newer content is on top.
 
 # Films I watched recently
 
+## \[My Favorite Films]
+
+1. Cloud Atlas
+2. The Shawshank Redemption
+3. Forrest Gump
+4. The Lord of the Rings
+5. Avatar
+
+
+
+
+
 ## \[TO Watch]
 
 ### 1987: When the Day Comes | 1987：黎明到來的那一天 \[2017]

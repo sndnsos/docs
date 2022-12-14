@@ -26,9 +26,19 @@ description: Newer content is on top.
 
 ### Little Miss Sunshine | 小太陽的願望 \[2005]
 
-### Everything Everywhere All At Once | 什麼多重宇宙 \[2022]
+###
 
-## \[ 2019 - 2021 ]
+
+
+
+
+## \[ 2019 - 2022 ]
+
+### Avatar | 阿凡達 \[2009] {Second Time} \[/100]
+
+### Her | 她 \[2013] {Second Time} \[98/100]
+
+### Everything Everywhere All At Once | 什麼多重宇宙 \[2022] \[84/100]
 
 ### Interstellar | 星期穿越 \[2014] \[97/100]
 

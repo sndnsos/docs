@@ -38,7 +38,7 @@ description: Newer content is on top.
 
 One of the best of the best films ever.
 
-Cry during watching it.
+Cried a lot during watching it.
 
 ### Her | 她 \[2013] {Second Time} \[98/100]
 

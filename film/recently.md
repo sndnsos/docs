@@ -34,7 +34,7 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2022 ]
 
-### Avatar | 阿凡達 \[2009] {Second Time} \[/100]
+### Avatar | 阿凡達 \[2009] {Second Time} \[99/100]
 
 ### Her | 她 \[2013] {Second Time} \[98/100]
 

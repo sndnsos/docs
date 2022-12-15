@@ -78,6 +78,8 @@ __
 
 ### My Hero Academia | 我的英雄學院 | 僕のヒーローアカデミア \[94/100]
 
+Season 1-6&#x20;
+
 ### Re:Zero − Starting Life in Another World | Re：從零開始的異世界生活 Re:ゼロから始める異世界生活 | \[79/100]
 
 ### JAPAN SINKS: 2020 | 日本沈沒 2020 | 日本沈没2020 \[81/100] <a href="#firstheading" id="firstheading"></a>

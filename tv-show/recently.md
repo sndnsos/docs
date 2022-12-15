@@ -184,6 +184,8 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 
 ### Dream of the Red Chamber | 紅樓夢 | 紅楼夢 \[87/100]
 
+### Money Heist: Korea | 紙房子: 韩国版 | ペーパー・ハウス \[69/100]
+
 ### Money Heist | 紙房子 | ペーパー・ハウス \[89/100]
 
 ### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス \[85/100] <a href="#firstheading" id="firstheading"></a>

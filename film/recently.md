@@ -51,7 +51,7 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2022 ]
 
-### Avatar: The Way Of Water | 阿凡達：水之道 \[88/100]
+### Avatar: The Way Of Water | 阿凡達：水之道 \[89/100]
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

@@ -10,13 +10,13 @@ description: Newer content is on top.
 2. The Shawshank Redemption
 3. Forrest Gump
 4. The Lord of the Rings
-5. Avatar
-6. Into the Wild
-7. Her
-8. Matrix \[1-3] (Matrix 4 is a trash film in my opinion >.<)
-9. Life Is Beautiful
-10. It's a Wonderful Life
-11. Interstellar
+5. Into the Wild
+6. Her
+7. Matrix \[1-3] (Matrix 4 is a trash film in my opinion >.<)
+8. Life Is Beautiful
+9. It's a Wonderful Life
+10. Interstellar
+11. Avatar (Avatar 2 is a popcorn fine but boring film)
 12. 3 Idiots
 
 

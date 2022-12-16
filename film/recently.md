@@ -51,9 +51,19 @@ description: Newer content is on top.
 
 ## \[ 2019 - 2022 ]
 
+### Avatar: The Way Of Water | 阿凡達：水之道 \[88/100]
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+it's a so-so popcorn film with awesome scenes. But also pretty boring(I nearly fell asleep sometimes) and doesn't make sense for lots of scenarios. I agree with most values in the film, but it's too stupid in the logic of the storyline.
+
+What I agree with is that humans are selfish and greedy; the morality of human society is corrupt. For many bad things happening, most people choose to not see. People choose to avoid problems and lie to themselves.
+
+People pretend to be good, but I don't think any good and wise people could live in this world well without suffering lots of pain, the pain of surviving, the pain of compassion, the pain of demanding, the pain of guilt.
+
 ### I Robot | 我，機器人 \[2004] \[91/100]
 
-### Avatar | 阿凡達 \[2009] {Second Time} \[99/100]
+### Avatar | 阿凡達 \[2009] {Second Time} \[97/100]
 
 One of the best of the best films ever.
 

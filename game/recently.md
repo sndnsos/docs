@@ -10,6 +10,9 @@ description: Newer content is on top.
 2. Detroit: Become Human
 3. Life is Strange
 4. What Remains of Edith Finch
+5. The Walking Dead
+6. It takes Two
+7. Danganronpa
 
 ## \[My Top3 Favorite Games Every Year]
 

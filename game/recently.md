@@ -4,6 +4,13 @@ description: Newer content is on top.
 
 # Games I played recently
 
+## \[My Favorite Games]
+
+1. Zelda: Breath of The Wild
+2. Detroit: Become Human
+3. Life is Strange
+4. What Remains of Edith Finch
+
 ## \[My Top3 Favorite Games Every Year]
 
 **”Bold“** means I love the game much
@@ -36,7 +43,8 @@ description: Newer content is on top.
 
 ### 2018 ([.](https://www.polygon.com/2018/5/29/17386324/best-games-2018-ps4-pc-xbox-one))
 
-1. A Way Out
+1. **Detroit: Become Human**
+2. A Way Out
 
 ### 2017 ([.](https://www.polygon.com/2017-best-games/2017/12/18/16781674/best-video-games-2017-top-50-mario-pubg-zelda))
 

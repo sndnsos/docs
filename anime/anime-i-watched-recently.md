@@ -10,9 +10,7 @@ description: Japanese Anime
 
 ### That Time I Got Reincarnated as a Slime | 關於我轉生變成史萊姆這檔事 | 転生したらスライムだった件
 
-### Ranking of Kings | 國王排名 | 王様ランキング
-
-『おうさまランキング』
+### Ranking of Kings | 國
 
 ### Everyday | 日常 | 日常 <a href="#firstheading" id="firstheading"></a>
 
@@ -31,6 +29,10 @@ description: Japanese Anime
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
+
+### 王排名 | 王様ランキング
+
+『おうさまランキング』
 
 __
 

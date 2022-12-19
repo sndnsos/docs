@@ -40,6 +40,10 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
+### Wednesday | 星期三 Season 1 \[91/100]
+
+Fun and interesting.
+
 ### Shameless | 無恥之徒 Season 1 \[89/100]
 
 For many people, most times, we laugh, we cry, and shit can be life itself.

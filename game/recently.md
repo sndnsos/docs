@@ -20,9 +20,11 @@ description: Newer content is on top.
 
 "\*" Means I didn't actually play/finish the game.
 
-### 2023
+### 2023 Looking forward to
 
 1. The Legend of Zelda: Tears of the Kingdom\*
+2. Hogwarts Legacy\*
+3. A Wolf Among Us 2\*
 
 ### 2022
 

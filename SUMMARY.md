@@ -5,6 +5,7 @@
 ## Game
 
 * [Games I played recently](game/recently.md)
+* [Favorite Game Companies](game/favorite-game-companies.md)
 
 ## BOOK
 

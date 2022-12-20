@@ -30,7 +30,7 @@ description: Japanese Anime
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
 
-### 王排名 | 王様ランキング
+### Ranking of Kings | 國王排名 | 王様ランキング \[93/100]
 
 『おうさまランキング』
 
@@ -54,13 +54,13 @@ __
 
 ### Vampire in the Garden | 花園裡的吸血鬼 | ヴァンパイア・イン・ザ・ガーデン \[85/100] <a href="#firstheading" id="firstheading"></a>
 
-### Death Note | 死亡筆記本 | デスノート \[90/100]
+### Death Note | 死亡筆記本 | デスノート \[92/100]
 
 ### Demon Slayer: Kimetsu no Yaiba | 鬼滅之刃 | 鬼滅の刃 \[95/100]
 
 〖きめつのやいば』
 
-### JoJo's Bizarre Adventure | JoJo的奇妙冒險 | ジョジョの奇妙な冒険 \[90/100] <a href="#firstheading" id="firstheading"></a>
+### JoJo's Bizarre Adventure | JoJo的奇妙冒險 | ジョジョの奇妙な冒険 \[93/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Jujutsu Kaisen | 咒術迴戰 | 呪術廻戦 \[95/100]
 

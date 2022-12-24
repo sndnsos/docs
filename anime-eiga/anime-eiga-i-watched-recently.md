@@ -20,7 +20,13 @@
 
 ### Soul | **心靈奇旅 \[2020]**
 
+****
+
+****
+
 ## \[Watched]
+
+### Big Fish & Begonia 大魚海棠 \[71/100]
 
 ### Detective Conan (Case Closed) Films
 
@@ -35,7 +41,7 @@
 * 23 The Fist of Blue Sapphire | 紺青の拳 \[2019] \[63/100]
 * 24 The Scarlet Bullet | 緋色の弾丸 \[2021] \[59/100]
 
-### Encanto | 魔法滿屋 \[2021] \[89/100]
+### Encanto | 魔法滿屋 \[2021] \[86/100]
 
 ### Weathering With You | 天氣之子 | 天気の子 \[2019] \[96/100]
 

@@ -18,34 +18,34 @@ description: I am here studying and recording!
 |                               Discord                               |                    Telegram                   |                                           |
 |            [Discord Group](https://discord.gg/cJaeSn9nK7)           |                 Telegram Group                |                                           |
 
-## Alive
-
-Life\_Experience
-
-## Universe
-
-Science Theology
-
-## Society
-
-Politics History News
-
-## Language
-
-English Japanese Chinese
-
-## Program
-
-Algorithm Tool Project Interview Work
-
-## Game
-
-Single Multiple
-
-## Art
-
-Book Music Film Show
-
-## Material
-
-Economics Investment Equipment
+* Alive
+  * Life\_Experience
+* Universe
+  * Science&#x20;
+  * Theology
+* Society
+  * Politics&#x20;
+  * History&#x20;
+  * News
+* Language
+  * English&#x20;
+  * Japanese&#x20;
+  * Chinese
+* Program
+  * Algorithm&#x20;
+  * Tool&#x20;
+  * Project&#x20;
+  * Interview&#x20;
+  * Work
+* Game
+  * Single&#x20;
+  * Multiple
+* Art
+  * Book&#x20;
+  * Music&#x20;
+  * Film&#x20;
+  * Show
+* Material
+  * Economics&#x20;
+  * Investment&#x20;
+  * Equipment

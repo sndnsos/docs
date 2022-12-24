@@ -200,7 +200,7 @@ Season 2 \[68/100]
 
 It's a very stupid series. The game design and the players' strategies are both silly.
 
-
+It needs to have logic, but there isn't much.
 
 ### Designated Survivor | 指定倖存者 | サバイバー: 宿命の大統領 \[87/100] <a href="#firstheading" id="firstheading"></a>
 

@@ -111,7 +111,7 @@ Only the first season deserves to be watched. Later the show is not like a serie
 
 ### Mr. Robot | 黑客軍團 \~ 駭客軍團 \[94/100]
 
-### The 100 | 地球百子 \[57/100]
+### The 100 | 地球百子 \[59/100]
 
 ### I Will Break the Alibi | 破壞不在場證明 | アリバイ崩し承ります \[80/100]
 
@@ -184,7 +184,7 @@ I miss the feeling of love. I wish I could have it.
 
 This TV series may seem absurd but it's so real. There are both good and evil in humanity. Even a small lie can grow to be a nightmare.
 
-### Squid Game | 魷魚遊戲 | イカゲーム \[85/100]
+### Squid Game | 魷魚遊戲 | イカゲーム \[80/100]
 
 ### Dream of the Red Chamber | 紅樓夢 | 紅楼夢 \[87/100]
 
@@ -192,7 +192,7 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 
 ### Money Heist | 紙房子 | ペーパー・ハウス \[89/100]
 
-### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス \[85/100] <a href="#firstheading" id="firstheading"></a>
+### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス \[73/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Designated Survivor | 指定倖存者 | サバイバー: 宿命の大統領 \[87/100] <a href="#firstheading" id="firstheading"></a>
 

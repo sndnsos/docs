@@ -192,7 +192,15 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 
 ### Money Heist | 紙房子 | ペーパー・ハウス \[89/100]
 
-### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス \[73/100] <a href="#firstheading" id="firstheading"></a>
+### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス \[71/100] <a href="#firstheading" id="firstheading"></a>
+
+Season 1 \[71/100]
+
+Season 2 \[68/100]
+
+It's a very stupid series. The game design and the players' strategies are both silly.
+
+
 
 ### Designated Survivor | 指定倖存者 | サバイバー: 宿命の大統領 \[87/100] <a href="#firstheading" id="firstheading"></a>
 

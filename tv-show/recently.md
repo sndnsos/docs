@@ -40,7 +40,7 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### Good Girls Season 1 \[67/100]
+### Good Girls | 好女孩 Season 1 \[67/100]
 
 Intended to watch to learn English, but this is only a stupid show with stupid, ignominious, and disgusting characters...
 

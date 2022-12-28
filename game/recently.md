@@ -61,8 +61,6 @@ description: Newer content is on top.
 
 ## \[TO Play]
 
-### **Detroit: Become Human（底特律：變人） {Second}**
-
 ### **Beyond（超凡雙生）**
 
 ### **Do not feed Monkeys（不要餵食猴子）**
@@ -113,6 +111,8 @@ description: Newer content is on top.
 
 ## **\[Playing]**
 
+### **Detroit: Become Human（底特律：變人） {Second}**
+
 ### Cyber Manhunt （全网公敵）\[92/100]
 
 ### Divinity: Original Sin II（神諭：原罪2 | 神界：原罪2） <a href="#firstheading" id="firstheading"></a>
@@ -142,6 +142,12 @@ For me, there are five attributes to judge games.
 
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
+
+
+
+### Dark and Darker \[89/100]
+
+A good mode of games. It could be fun but also time-wasting.
 
 ### Florence \[81/100]
 

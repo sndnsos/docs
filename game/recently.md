@@ -145,7 +145,23 @@ For every attribute, I give scores from 0 to 10.
 
 
 
-### Dark and Darker \[89/100]
+### Jianghu 11 \[39/100]
+
+This is a trash game. It looks interesting at the beginning when you try. But it's so boring if you have tried. It only has a framework but no soul.
+
+### Breakout 13 (Part One) \[86/100]
+
+A good topic, though the game quality is not good.
+
+But I like one speech it says "We won't be truly away, unless we overthrow it with our own hands"
+
+* P: 4.5
+* S: 8.5
+* V: 6
+* A: 4
+* C: 7.5
+
+### Dark and Darker (Beta Version) \[89/100]
 
 A good mode of games. It could be fun but also time-wasting.
 

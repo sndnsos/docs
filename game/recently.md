@@ -125,9 +125,7 @@ description: Newer content is on top.
 
 
 
-
-
-## \[ 2019 - 2022 ] Played
+## \[ 2023 ] Played
 
 Recently, I am thinking about how to judge the quality of the games.\
 So even though I don't have any favorite games this year, I am trying to follow the activity of TGA.
@@ -143,23 +141,27 @@ For me, there are five attributes to judge games.
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
 
+### Hogwarts: Legacy
 
+### Forspoken
 
 ### Jianghu 11 \[39/100]
 
 This is a trash game. It looks interesting at the beginning when you try. But it's so boring if you have tried. It only has a framework but no soul.
 
-### Breakout 13 (Part One) \[86/100]
+### Breakout 13  \[77/100]
 
 A good topic, though the game quality is not good.
 
 But I like one speech it says "We won't be truly away, unless we overthrow it with our own hands"
 
 * P: 4.5
-* S: 8.5
+* S: 7
 * V: 6
 * A: 4
-* C: 7.5
+* C: 7
+
+## \[ 2019 - 2022 ] Played
 
 ### Dark and Darker (Beta Version) \[89/100]
 

@@ -40,6 +40,14 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
+### The Three-Body Problem Season1 \[81/100]
+
+I read Three-Body Problem Novel When I am in junior high school.
+
+Something in this novel is fun and interesting, however, the values of it are pretty evil and not very logical.
+
+Many Chinese people love this novel a lot, because they believe in the values, and they live in a world where people are already monsters.
+
 ### Good Girls | 好女孩 Season 1 \[67/100]
 
 Intended to watch to learn English, but this is only a stupid show with stupid, ignominious, and disgusting characters...

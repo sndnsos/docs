@@ -46,7 +46,7 @@ I read Three-Body Problem Novel When I am in junior high school.
 
 Something in this novel is fun and interesting, however, the values of it are pretty evil and not very logical.
 
-Many Chinese people love this novel a lot, because they believe in the values, and they live in a world where people are already monsters.
+Many Chinese people love this novel a lot, because they believe in the values, and they already have been living in a Darwinian society where individuals cannibalize.
 
 ### Good Girls | 好女孩 Season 1 \[67/100]
 

@@ -40,7 +40,7 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### The Three-Body Problem | 三體 | Season1 \[74/100]
+### The Three-Body Problem | 三體 | Season1 \[76/100]
 
 I read Three-Body Problem Novel When I am in junior high school.
 

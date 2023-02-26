@@ -10,8 +10,6 @@ description: Japanese Anime
 
 ### That Time I Got Reincarnated as a Slime | 關於我轉生變成史萊姆這檔事 | 転生したらスライムだった件
 
-### Ranking of Kings | 國
-
 ### Everyday | 日常 | 日常 <a href="#firstheading" id="firstheading"></a>
 
 『にちじょう』

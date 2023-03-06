@@ -28,13 +28,19 @@ description: Japanese Anime
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
 
-### Ranking of Kings | 國王排名 | 王様ランキング \[93/100]
-
-『おうさまランキング』
+###
 
 __
 
 ## \[Watched]
+
+### Chainsaw Man | 鏈鋸人 | チェンソーマン \[94/100] <a href="#firstheading" id="firstheading"></a>
+
+### Tokyo Ghoul | 東京喰種 | 東京喰種(Tōkyō Gūru) \[91/100]
+
+### Ranking of Kings | 國王排名 | 王様ランキング \[93/100]
+
+『おうさまランキング』
 
 ### Fire Force | 炎炎消防隊 | 炎炎ノ消防隊 Season 1 \[84/100]
 

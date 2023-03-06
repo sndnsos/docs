@@ -32,6 +32,8 @@ description: Newer content is on top.
 
 ### Explained
 
+### The Last of Us | 最後生還者 \[93/100]
+
 
 
 
@@ -39,6 +41,8 @@ description: Newer content is on top.
 
 
 ## \[Watched Live/TV Show]
+
+
 
 ### The Three-Body Problem | 三體 | Season1 \[76/100]
 

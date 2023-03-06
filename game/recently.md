@@ -107,8 +107,6 @@ description: Newer content is on top.
 
 
 
-
-
 ## **\[Playing]**
 
 ### **Detroit: Become Human（底特律：變人） {Second}**
@@ -122,6 +120,8 @@ description: Newer content is on top.
 ### Kingdom Come: Deliverance 天國降臨：救贖 \[94/100]
 
 ### **Poly Island**
+
+### Hogwarts: Legacy（霍格沃茨：遺產）
 
 
 
@@ -141,9 +141,23 @@ For me, there are five attributes to judge games.
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
 
-### Hogwarts: Legacy
+### Atomic Heart （原子之心） \[93/100]
 
-### Forspoken
+* P: 6
+* S: 9
+* V: 8
+* A: 7
+* C: 8
+
+### Forspoken （魔咒之地） \[85/100]
+
+The running and fighting part of this game has some fun, while the story is very boring and the game is not actually a complete game.
+
+* P: 6
+* S: 5
+* V: 5
+* A: 4
+* C: 5
 
 ### Jianghu 11 \[39/100]
 
@@ -179,7 +193,7 @@ The playability of this game gets a 0 score for me (actually I regard it as nega
 
 Also, the story can be very common to the relationships of many people. It reminds me something of my own experience. Florence...
 
-### Hindsight 後見之明 \[94/100]
+### Hindsight （後見之明） \[94/100]
 
 * P: 7
 * S: 9

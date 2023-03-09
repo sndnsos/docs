@@ -16,8 +16,10 @@ description: Newer content is on top.
 8. Life Is Beautiful
 9. It's a Wonderful Life
 10. Interstellar
-11. Avatar (Avatar 2 is a popcorn fine but boring film)
-12. 3 Idiots
+11. Fight Club
+12. Avatar (Avatar 2 is a popcorn fine but boring film)
+13. 3 Idiots
+14. King of Comedy
 
 
 

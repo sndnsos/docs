@@ -74,7 +74,7 @@ Cried a lot during watching it.
 
 ### Her | 她 \[2013] {Second Time} \[98/100]
 
-### Everything Everywhere All At Once | 什麼多重宇宙 \[2022] \[84/100]
+### Everything Everywhere All At Once | 什麼多重宇宙（瞬息全宇宙） \[2022] \[84/100]
 
 ### Interstellar | 星期穿越 \[2014] \[97/100]
 

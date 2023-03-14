@@ -46,9 +46,15 @@ description: Newer content is on top.
 
 ### Little Miss Sunshine | 小太陽的願望 \[2005]
 
-###
+### All Quiet on the Western Front | 西線無戰事 \[2022]
 
+"Im Westen nichts Neues"
 
+### An Ostrich Told Me the World is Fake and I Think I Believe It | 一隻鴕鳥告訴我世界是假的，我想我相信它 \[2022]
+
+### My Year of Dicks | 失貞一年 \[2022]
+
+### Guillermo del Toro's Pinocchio | 吉爾莫·德爾·托羅之匹諾曹 \[2022]
 
 
 

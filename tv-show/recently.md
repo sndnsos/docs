@@ -84,7 +84,7 @@ The first two seasons are about Pablo who was the biggest dealer in the world.
 
 Pablo Escobar | 巴布羅 | Pablo Emilio Escobar Gaviria
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 What's more, I went to Bogota, Colombia once recently. I still feel that is not a safe city/country.
 

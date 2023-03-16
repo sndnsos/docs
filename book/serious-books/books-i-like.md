@@ -2,7 +2,7 @@
 
 ### Ecstasy 65 Days
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ### 1984
 

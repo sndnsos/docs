@@ -62,9 +62,13 @@ description: Newer content is on top.
 
 ### The Boy, the Mole, the Fox, and the Horse \[91/100]
 
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Avatar: The Way Of Water | 阿凡達：水之道 \[89/100]
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 it's a so-so popcorn film with awesome scenes. But also pretty boring(I nearly fell asleep sometimes) and doesn't make sense for lots of scenarios. I agree with most values in the film, but it's too stupid in the logic of the storyline.
 

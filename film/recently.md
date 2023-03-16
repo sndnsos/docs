@@ -46,19 +46,21 @@ description: Newer content is on top.
 
 ### Little Miss Sunshine | 小太陽的願望 \[2005]
 
-### All Quiet on the Western Front | 西線無戰事 \[2022]
-
-"Im Westen nichts Neues"
-
 ### An Ostrich Told Me the World is Fake and I Think I Believe It | 一隻鴕鳥告訴我世界是假的，我想我相信它 \[2022]
 
 ### My Year of Dicks | 失貞一年 \[2022]
 
 ### Guillermo del Toro's Pinocchio | 吉爾莫·德爾·托羅之匹諾曹 \[2022]
 
-
-
 ## \[ 2019 - 2022 ]
+
+
+
+### All Quiet on the Western Front | 西線無戰事 \[2022] \[93/100]
+
+"Im Westen nichts Neues"
+
+### The Boy, the Mole, the Fox, and the Horse \[91/100]
 
 ### Avatar: The Way Of Water | 阿凡達：水之道 \[89/100]
 
@@ -72,7 +74,7 @@ People pretend to be good, but I don't think any good and wise people could live
 
 ### I Robot | 我，機器人 \[2004] \[91/100]
 
-### Avatar | 阿凡達 \[2009] {Second Time} \[97/100]
+### Avatar | 阿凡達 \[2009] {Second Time} \[96/100]
 
 One of the best of the best films ever.
 
@@ -104,7 +106,7 @@ Cried a lot during watching it.
 
 ### Drive My Car | 駕駛我的車 \~ 在車上 | ドライブ・マイ・カー \[2021] \[95/100]
 
-### Winter on Fire: Ukraine's Fight for Freedom | **凜冬烈火：烏克蘭為自由而戰 \[2015] \[85/100]**
+### Winter on Fire: Ukraine's Fight for Freedom | **凜冬烈火：烏克蘭為自由而戰 \[2015] \[87/100]**
 
 ### Cruella | 時尚惡女：庫伊拉 \[2021] \[81/100]
 

@@ -28,7 +28,7 @@
 
 
 
-### Howl's Moving Castle | ハウルの動く城 \[2004]\[/100]
+### Howl's Moving Castle | ハウルの動く城 \[2004]\[92/100]
 
 Hauru no ugoku shiro | 哈爾的移動城堡 | 霍爾的移動城堡
 

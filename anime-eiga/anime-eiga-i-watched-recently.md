@@ -26,7 +26,17 @@
 
 ## \[Watched]
 
-### Big Fish & Begonia 大魚海棠 \[71/100]
+
+
+### Howl's Moving Castle | ハウルの動く城 \[2004]\[/100]
+
+Hauru no ugoku shiro | 哈爾的移動城堡 | 霍爾的移動城堡
+
+Watched on 2023/03/21
+
+### Big Fish & Begonia | 大魚海棠 \[71/100]
+
+The plot of the story is very silly and boring.
 
 ### Detective Conan (Case Closed) Films
 

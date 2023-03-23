@@ -75,7 +75,7 @@ description: Newer content is on top.
 
 ### Find Paradise（尋找天堂）
 
-### Florence
+
 
 ### South Park: The Fractured but Whole（**南方公園：完整破碎）** <a href="#firstheading" id="firstheading"></a>
 

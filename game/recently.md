@@ -123,7 +123,7 @@ description: Newer content is on top.
 
 ### Hogwarts: Legacy（霍格沃茨：遺產）
 
-
+### Persona 5 Royale （女神異聞錄 5） \[97/100]
 
 ## \[ 2023 ] Played
 

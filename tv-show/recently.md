@@ -32,9 +32,13 @@ description: Newer content is on top.
 
 ### Explained
 
-###
+### はじめてのおつかい | Old Enough! <a href="#firstheading" id="firstheading"></a>
+
+
 
 ## \[Watched Live/TV Show]
+
+
 
 ### The Last of Us | 最後生還者 \[95/100]
 

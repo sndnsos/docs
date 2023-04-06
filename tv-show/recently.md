@@ -32,17 +32,13 @@ description: Newer content is on top.
 
 ### Explained
 
-### The Last of Us | 最後生還者 \[93/100]
-
-
-
-
-
-
+###
 
 ## \[Watched Live/TV Show]
 
+### The Last of Us | 最後生還者 \[95/100]
 
+A good game, and an awesome show.
 
 ### The Three-Body Problem | 三體 | Season1 \[76/100]
 

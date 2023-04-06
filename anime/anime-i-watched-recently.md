@@ -30,9 +30,16 @@ description: Japanese Anime
 
 ###
 
-__
-
 ## \[Watched]
+
+### Cyberpunk: Edgerunners | 賽博朋克：邊緣行者 | サイバーパンク エッジランナーズ \[96/100]
+
+A very beautiful and sad story. \
+I have achieved my dream of getting to the moon, but I am left only in sadness because I can't be here with you.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Chainsaw Man | 鏈鋸人 | チェンソーマン \[94/100] <a href="#firstheading" id="firstheading"></a>
 

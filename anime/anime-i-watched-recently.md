@@ -28,6 +28,8 @@ description: Japanese Anime
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
 
+### Chobits | 人型電腦天使心 | ちょびっツ \[2002] \[ / ]
+
 ###
 
 ## \[Watched]

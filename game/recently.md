@@ -118,15 +118,13 @@ description: Newer content is on top.
 
 ### **The Witcher 3: Wild Hunt（巫师3：狂猎）** <a href="#firstheading" id="firstheading"></a>
 
-### Kingdom Come: Deliverance 天國降臨：救贖 \[94/100]
+### Kingdom Come: Deliverance （天國降臨：救贖） \[94/100]
 
-### **Poly Island**
+### **Poly Island （） \[/]**
 
 ### Hogwarts: Legacy（霍格沃茨：遺產）
 
 ### Persona 5 Royale （女神異聞錄 5） \[98/100]
-
-
 
 
 
@@ -192,11 +190,11 @@ But I like one speech it says "We won't be truly away, unless we overthrow it wi
 
 ## \[ 2019 - 2022 ] Played
 
-### Dark and Darker (Beta Version) \[88/100]
+### Dark and Darker (Beta Version) \[2023] \[88/100]
 
 A good mode of games. It could be fun but also time-wasting.
 
-### Florence \[81/100]
+### Florence \[2018] \[81/100]&#x20;
 
 * P: 0
 * S: 7
@@ -208,7 +206,7 @@ The playability of this game gets a 0 score for me (actually I regard it as nega
 
 Also, the story can be very common to the relationships of many people. It reminds me something of my own experience. Florence...
 
-### Hindsight （後見之明） \[94/100]
+### Hindsight （後見之明） \[2022] \[94/100]
 
 * P: 7
 * S: 9
@@ -218,7 +216,7 @@ Also, the story can be very common to the relationships of many people. It remin
 
 The best game for me this year. The story is not special, but I like the way it tells the story and I get and love the feeling inside this game.
 
-### A Memoir Blue/ˈmem.wɑːr/ \[74/100]
+### A Memoir Blue/ˈmem.wɑːr/ \[2022] \[68/100]
 
 * P: 3
 * S: 3.5
@@ -228,7 +226,7 @@ The best game for me this year. The story is not special, but I like the way it 
 
 I don't like the game. The story is tough and bad to feel. It takes too many device resources as well.
 
-### Card Survival: Tropical Island \[89/100]
+### Card Survival: Tropical Island \[2022] \[89/100]
 
 * P: 8
 * S: 4
@@ -242,7 +240,7 @@ This game is fun at the beginning when you try, but it's boring and a waste of t
 
 Some people who know the real history of China are saying the original game 「潜伏之赤途」 is a better game.&#x20;
 
-I haven't played 「潜伏之赤途」 , but I dislike 「隱形守護者」(this game) for many reasons. There are some details showing that the game designer also know it is It is just a political show which is full of lies as propaganda of the Chinese Communist Party. I can't say everyone in the Communist Party is a bad guy, but CCP is even 10 times worse than the Japanese during the second world war.&#x20;
+I haven't played 「潜伏之赤途」, but I dislike 「隱形守護者」(this game) for many reasons. There are some details showing that the game designer also knows it is It is just a political show which is full of lies as propaganda of the Chinese Communist Party. I can't say everyone in the Communist Party is a bad guy, but CCP is even 10 times worse than the Japanese during the second world war.&#x20;
 
 However, I finally accept and support the viewpoint that Chinese people deserve the Chinese Communist Party, their moralities are as bad as each other, so there are so many disasters after 1949 and people felt like nothing. : ) But still, I feel very disgusted.
 
@@ -257,22 +255,22 @@ This game was one of the very rare Chinese games I kinda liked. It has some very
 But it is also bad for many reasons:
 
 * Too many bugs, some are fatal bugs that can lead the game crashes; some are very terrible bugs that could make your character's data go to breaking bad values and you can barely play any future. **I am saying the bugs made you have to stop playing the games or restart the games.**&#x20;
-* Very awful UI design and terrible playing experience. It becomes very tiring for users to play this game without installing mods.
+* A very awful UI design and a terrible playing experience. It becomes very tiring for users to play this game without installing mods.
 * Stupid stories, I thought there could be an awesome ending that could make everything kind of worthy, but the ending was actually pretty boring and has nothing meaningful in it.
-* Pretty laggy if you play a long time.
+* Pretty laggy if you play for a long time.
 * This game regards itself as a Wuxia game. Wuxia is a concept that is called "Doing the good things, Promises must be kept and action must be resolute" （「言必信，行必果」）. But in the game, you can't really feel that people are doing good things. (Actually, if you have played this game and understood the behaviors of the player, you would better call the character a bad person). But in fact, Wuxia is also only a fake imaginary concept in China. Chinese people won't even try to help kids and old people who fall down on the street. Justice and Righteous is what&#x20;
 * Cheating - 3 years after EA, this game is not really getting better. And with so many issues, it calls the game itself.
 
 I am not saying this game won't be better after several years. I  can be. But I have too many reasons to dislike it right now (2022/09/22)
 
-### The Last of Us（最後生還者）\[79/100]
+### The Last of Us（最後生還者）\[2013] \[81/100]
 
-* Season 1 - \[92/100]
-* Season 2 - \[49/100]: The story and character design are too much self-contradictory and too stupid, it ruined other good works to make the game a trash disgusting game.
+* Season 1 - \[93/100]
+* Season 2 - \[53/100]: The story and character design are too self-contradictory and too stupid, it ruined other good works to make the game a trash disgusting game.
 
-### 🥰The Walking Dead（行屍走肉）\[96/100]
+### 🥰The Walking Dead（行屍走肉） \[2012] \[96/100]
 
-It's always ridiculous for zombie-related stories. It looks like there are 70Trillion zombies on the earth being able to survive forever without anything. \
+It's always ridiculous for zombie-related stories. It looks like there are 70 trillion zombies on the earth being able to survive forever without anything. \
 But this game is the best of all.
 
 * Season 1 - \[98/100]
@@ -280,11 +278,11 @@ But this game is the best of all.
 * Season 3 - \[92/100]
 * Season 4 - \[90/100]
 
-### Wartales（戰爭傳說） \[90/100]
+### Wartales（戰爭傳說） \[2022] \[90/100]
 
 For something, it's fun, but also boring for the fights.
 
-### V Rising \[93/100]
+### V Rising （吸血鬼：崛起） \[2022] \[93/100]
 
 ### **The Wolf Among Us（**我們身邊的狼 \~ 與狼同行**）\[2013] \[95/100]**
 

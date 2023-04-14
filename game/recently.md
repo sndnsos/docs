@@ -7,12 +7,13 @@ description: Newer content is on top.
 ## \[My Favorite Games]
 
 1. Zelda: Breath of The Wild
-2. Detroit: Become Human
-3. Life is Strange
-4. What Remains of Edith Finch
-5. The Walking Dead
-6. It takes Two
-7. Danganronpa
+2. Persona 5 Royal
+3. Detroit: Become Human
+4. Life is Strange
+5. What Remains of Edith Finch
+6. The Walking Dead
+7. It Takes Two
+8. Danganronpa
 
 ## \[My Top3 Favorite Games Every Year]
 

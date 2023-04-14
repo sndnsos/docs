@@ -125,7 +125,7 @@ description: Newer content is on top.
 
 ### Persona 5 Royale （女神異聞錄 5） \[98/100]
 
-### South of the Circle （極圈以南）\[2020]&#x20;
+
 
 
 
@@ -144,6 +144,16 @@ For me, there are five attributes to judge games.
 
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
+
+### South of the Circle （極圈以南）\[2020] \[58/100]
+
+A special game, but the story is kind of insane.
+
+* P: 1&#x20;
+* S: 3&#x20;
+* V: 8&#x20;
+* A: 6&#x20;
+* C: 7
 
 ### Atomic Heart （原子之心） \[93/100]
 

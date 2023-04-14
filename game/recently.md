@@ -174,11 +174,11 @@ The running and fighting part of this game has some fun, while the story is very
 * A: 4
 * C: 5
 
-### Jianghu 11 \[2022] \[39/100]
+### Jianghu 11 （江湖11） \[2022] \[39/100]
 
 This is a trash game. It looks interesting at the beginning when you try. But it's so boring if you have tried. It only has a framework but no soul.
 
-### Breakout 13  \[2023] \[71/100]
+### Breakout 13 （飛越13號房） \[2023] \[71/100]
 
 A good topic, though the game quality is not good.
 

@@ -155,7 +155,7 @@ A special game, but the story is kind of insane.
 * A: 6&#x20;
 * C: 7
 
-### Atomic Heart （原子之心） \[93/100]
+### Atomic Heart （原子之心） \[2023] \[93/100]
 
 * P: 6
 * S: 9
@@ -163,7 +163,7 @@ A special game, but the story is kind of insane.
 * A: 7
 * C: 8
 
-### Forspoken （魔咒之地） \[85/100]
+### Forspoken （魔咒之地）\[2023] \[85/100]
 
 The running and fighting part of this game has some fun, while the story is very boring and the game is not actually a complete game.
 
@@ -173,25 +173,25 @@ The running and fighting part of this game has some fun, while the story is very
 * A: 4
 * C: 5
 
-### Jianghu 11 \[39/100]
+### Jianghu 11 \[2022] \[39/100]
 
 This is a trash game. It looks interesting at the beginning when you try. But it's so boring if you have tried. It only has a framework but no soul.
 
-### Breakout 13  \[77/100]
+### Breakout 13  \[2023] \[71/100]
 
 A good topic, though the game quality is not good.
 
 But I like one speech it says "We won't be truly away, unless we overthrow it with our own hands"
 
 * P: 4.5
-* S: 7
+* S: 6
 * V: 6
 * A: 4
 * C: 7
 
 ## \[ 2019 - 2022 ] Played
 
-### Dark and Darker (Beta Version) \[89/100]
+### Dark and Darker (Beta Version) \[88/100]
 
 A good mode of games. It could be fun but also time-wasting.
 

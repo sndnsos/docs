@@ -26,7 +26,11 @@
 
 ## \[Watched]
 
+### _Summer Wars_ | 夏日大作戰 | サマーウォーズ \[2009]\[95/100]
 
+This anime is pretty touching.&#x20;
+
+Watched on 2023/04/15
 
 ### Howl's Moving Castle | ハウルの動く城 \[2004]\[92/100]
 

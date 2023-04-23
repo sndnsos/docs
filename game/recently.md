@@ -130,9 +130,7 @@ description: Newer content is on top.
 
 ### Persona 5 Royale （女神異聞錄 5） \[99/100]
 
-
-
-
+<figure><img src="../.gitbook/assets/Persona 5 Royal Poster.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## \[ 2023 ] Played
 

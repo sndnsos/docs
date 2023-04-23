@@ -6,14 +6,14 @@ description: Newer content is on top.
 
 ## \[My Favorite Games]
 
-1. Zelda: Breath of The Wild
-2. Persona 5 Royal
-3. Detroit: Become Human
-4. Life is Strange
-5. What Remains of Edith Finch
-6. The Walking Dead
-7. It Takes Two
-8. Danganronpa
+1. Persona 5 (Royal) \[99/100]
+2. Zelda: Breath of The Wild \[99/100]
+3. Detroit: Become Human \[98/100]
+4. Life is Strange \[98/100]
+5. What Remains of Edith Finch \[98/100]
+6. The Walking Dead \[97/100]
+7. It Takes Two \[97/100]
+8. Danganronpa \[97/100]&#x20;
 
 ## \[My Top3 Favorite Games Every Year]
 
@@ -58,7 +58,11 @@ description: Newer content is on top.
 2. **What Remains of Edith Finch**
 3. Slay the Spire
 
-###
+### 2016
+
+1. Persona 5
+
+( Though I only started to play Person 5 (Royal) as later as in Jan 2023 )
 
 ## \[TO Play]
 
@@ -124,7 +128,9 @@ description: Newer content is on top.
 
 ### Hogwarts: Legacy（霍格沃茨：遺產）
 
-### Persona 5 Royale （女神異聞錄 5） \[98/100]
+### Persona 5 Royale （女神異聞錄 5） \[99/100]
+
+
 
 
 
@@ -268,7 +274,7 @@ I am not saying this game won't be better after several years. I  can be. But I 
 * Season 1 - \[93/100]
 * Season 2 - \[53/100]: The story and character design are too self-contradictory and too stupid, it ruined other good works to make the game a trash disgusting game.
 
-### 🥰The Walking Dead（行屍走肉） \[2012] \[96/100]
+### 🥰The Walking Dead（行屍走肉） \[2012] \[97/100]
 
 It's always ridiculous for zombie-related stories. It looks like there are 70 trillion zombies on the earth being able to survive forever without anything. \
 But this game is the best of all.
@@ -288,7 +294,7 @@ For something, it's fun, but also boring for the fights.
 
 ### **Heavy Rain（暴雨）\[2010] \[94/100]**
 
-### 🥰What Remains of Edith Finch（**伊迪·芬奇的記憶**）\[2017] \[98/100]
+### 🥰 What Remains of Edith Finch （**伊迪·芬奇的記憶**）\[2017] \[98/100]
 
 One of the best games ever! 🥰
 
@@ -396,16 +402,16 @@ But I really have many reasons to dislike this game.&#x20;
 * **Getting Over It With Bennett Foddy（和班尼特福迪一起攻克難關）**
 * **Hobo: Tough Life（乞丐模擬器）**
 * **Romance of the Three Kingdoms XIII** **\[79/100]**
-* ### **🥰Life is Strange（奇異人生）**\[98/100]
+* ### **🥰 Life is Strange （奇異人生）**\[98/100]
 * **Journey（風之旅人）**
 * **Borderlands 3（無主之地3 ）**
-* ### **🥰This War of Mine（這是我的戰爭）**\[95/100]
+* ### **🥰 This War of Mine （這是我的戰爭）**\[95/100]
 * **Dead by Daylight（黎明殺機）**
 * **The War of Heros（英雄殺）**
-* ### **OverCooked（煮糊了）**\[94/100]
-* ### **🥰South Park: The Stick of Truth（南方公園：真理之杖）**\[95/100]
-* ### **🥰Rayman Legends（雷曼 傳奇）\[95/100]**
-* ### **🥰Danganronpa（彈丸論破系列）\[97/100]**
+* ### **OverCooked（煮糊了）** \[94/100]
+* ### **🥰 South Park: The Stick of Truth（南方公園：真理之杖）** \[95/100]
+* ### **🥰 Rayman Legends（雷曼 傳奇） \[95/100]**
+* ### **🥰 Danganronpa（彈丸論破系列） \[97/100]**
 * **Lost Castle（失落城堡）**
 * **Terraria（泰拉利亞）**
 * ### **7 Days to Die（七日殺）**\[91/100]
@@ -415,7 +421,7 @@ But I really have many reasons to dislike this game.&#x20;
 * ### **LIMBO（地獄邊境）**\[91/100]
 * ### **Lara Croft and the Guardian of Light（古墓奇兵：光之守護者）**\[91/100]
 * **Watch Dogs（看門狗）**
-* ### **The Walking Dead（行屍走肉）**\[96/100]
+* ### **The Walking Dead（行屍走肉）**\[97/100]
 * ### **Dota2（刀塔）**\[93/100]
 * ### **Minecraft（我的世界）**\[94/100]
 * ### **🥰The Elder Scrolls V: Skyrim（上古卷軸5）**\[98/100]

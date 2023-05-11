@@ -30,6 +30,8 @@ description: Japanese Anime
 
 ### Chobits | 人型電腦天使心 | ちょびっツ \[2002] \[ / ]
 
+### Oshi no Ko | 我推的孩子 | 推しの子 \[2023]
+
 ###
 
 ## \[Watched]

@@ -114,6 +114,12 @@ description: Newer content is on top.
 
 ## **\[Playing]**
 
+### The Legend of Zelda: Tears of the Kingdom **（**薩爾達傳說：王國之淚）&#x20;
+
+&#x20;          『でんせつ』
+
+『ゼルダの伝説 ティアーズ オブ ザ キングダム』
+
 ### **Detroit: Become Human（底特律：變人） {Second}**
 
 ### Cyber Manhunt （全网公敵）\[92/100]

@@ -32,7 +32,9 @@ description: Japanese Anime
 
 ### Oshi no Ko | 我推的孩子 | 推しの子 \[2023]
 
-###
+### Natsume's Book of Friends 夏目友人帳 | 夏目友人帳 \[2008-2017] <a href="#firstheading" id="firstheading"></a>
+
+『なつめ ゆうじんちょう』
 
 ## \[Watched]
 

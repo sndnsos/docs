@@ -8,8 +8,6 @@
 
 ### Mononoke Hime | 魔法公主 | もののけ姫 \[1997] <a href="#firstheading" id="firstheading"></a>
 
-### Howl's Moving Castle | 的移動城堡 | ハウルの動く城 \[2004] <a href="#firstheading" id="firstheading"></a>
-
 ### WALL-E | 瓦力 \[2008]
 
 ### Brave | 勇敢傳說 \[2012]
@@ -19,6 +17,10 @@
 ### Inside Out | 腦筋急轉彎 \~ 頭腦特攻隊 \[2015] <a href="#firstheading" id="firstheading"></a>
 
 ### Soul | **心靈奇旅 \[2020]**
+
+### In This Corner of the World謝謝你，在世界的角落找到我 | この世界の片隅に \[2016] <a href="#firstheading" id="firstheading"></a>
+
+### Grave of the Fireflies | 火垂るの墓 | 螢火蟲之墓 \[1988] <a href="#firstheading" id="firstheading"></a>
 
 
 

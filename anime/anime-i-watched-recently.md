@@ -24,6 +24,8 @@ description: Japanese Anime
 
 ## \[Watching]
 
+
+
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
@@ -37,6 +39,14 @@ description: Japanese Anime
 『なつめ ゆうじんちょう』
 
 ## \[Watched]
+
+### Komi Can't Communicate | 古見同學有交流障礙症 | 古見さんは、コミュ症です \[2021] \[78/100] <a href="#firstheading" id="firstheading"></a>
+
+『こみさんはコミュしょうです』
+
+I only watched the first 10 episodes to study some Japanese.
+
+The show is too childish and naive for me :(
 
 ### Cyberpunk: Edgerunners | 賽博朋克：邊緣行者 | サイバーパンク エッジランナーズ \[96/100]
 

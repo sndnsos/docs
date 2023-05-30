@@ -140,7 +140,9 @@ description: Newer content is on top.
 
 ## \[ 2023 ] Played
 
-Recently, I am thinking about how to judge the quality of the games.\
+
+
+Recently, I have been thinking about how to judge the quality of the games.\
 So even though I don't have any favorite games this year, I am trying to follow the activity of TGA.
 
 For me, there are five attributes to judge games.
@@ -154,7 +156,21 @@ For me, there are five attributes to judge games.
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
 
-### South of the Circle （極圈以南）\[2020] \[58/100]
+
+
+### Darkest Dungeon II （暗黑地牢2） \[2023] \[93/100]
+
+This game is really addictive,
+
+but you have to fail many times to become stronger to win later :(
+
+I tried to use copy/paste the save file to save time, also with the inventory mods. So I saved much time to finish the walkthrough of this game, but still, it took me more than 20 hours.
+
+### Darkest Dungeon （暗黑地牢） \[2016] \[94/100]
+
+I only played it for hours because I didn't have enough time.
+
+### South of the Circle （極圈以南） \[2020] \[58/100]
 
 A special game, but the story is kind of insane.
 
@@ -172,7 +188,7 @@ A special game, but the story is kind of insane.
 * A: 7
 * C: 8
 
-### Forspoken （魔咒之地）\[2023] \[85/100]
+### Forspoken （魔咒之地） \[2023] \[85/100]
 
 The running and fighting part of this game has some fun, while the story is very boring and the game is not actually a complete game.
 

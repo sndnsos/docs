@@ -7,13 +7,14 @@ description: Newer content is on top.
 ## \[My Favorite Games]
 
 1. Persona 5 (Royal) \[99/100]
-2. Zelda: Breath of The Wild \[99/100]
-3. Detroit: Become Human \[98/100]
-4. Life is Strange \[98/100]
-5. What Remains of Edith Finch \[98/100]
-6. The Walking Dead \[97/100]
-7. It Takes Two \[97/100]
-8. Danganronpa \[97/100]&#x20;
+2. Baldur's Gate 3 \[99/100]
+3. Zelda: Breath of The Wild & Zelda: Tears of The Kingdom \[99/100]
+4. Detroit: Become Human \[98/100]
+5. Life is Strange \[98/100]
+6. What Remains of Edith Finch \[98/100]
+7. The Walking Dead \[97/100]
+8. It Takes Two \[97/100]
+9. Danganronpa \[97/100]&#x20;
 
 ## \[My Top3 Favorite Games Every Year]
 
@@ -113,6 +114,8 @@ description: Newer content is on top.
 
 
 ## **\[Playing]**
+
+### **Baldur's Gate 3（博德之門3）**
 
 ### The Legend of Zelda: Tears of the Kingdom **（**薩爾達傳說：王國之淚）&#x20;
 

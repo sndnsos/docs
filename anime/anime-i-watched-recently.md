@@ -14,8 +14,6 @@ description: Japanese Anime
 
 『にちじょう』
 
-### Your Lie in April | 四月是你的謊言 | 四月は君の嘘
-
 ### Cowboy Bebop | 星際牛仔 | カウボーイビバップ
 
 ### Dr. Stone | Dr.STONE 新石紀&#x20;
@@ -24,21 +22,27 @@ description: Japanese Anime
 
 ## \[Watching]
 
-
-
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
 
 ### Chobits | 人型電腦天使心 | ちょびっツ \[2002] \[ / ]
 
-### Oshi no Ko | 我推的孩子 | 推しの子 \[2023]
-
-### Natsume's Book of Friends 夏目友人帳 | 夏目友人帳 \[2008-2017] <a href="#firstheading" id="firstheading"></a>
+### Natsume's Book of Friends 夏目友人帳 | 夏目友人帳 \[2008-2017] \[/] <a href="#firstheading" id="firstheading"></a>
 
 『なつめ ゆうじんちょう』
 
 ## \[Watched]
+
+### Your Lie in April | 四月是你的謊言 | 四月は君の嘘 \[96/100]
+
+『しがつはきみのうそ』
+
+The music is beautiful. The feelings of anime characters are very touching.
+
+The ending is sad, but 宮園薰（みやぞの かおり）'s life is a beautiful journey.
+
+### Oshi no Ko | 我推的孩子 | 推しの子 Season1 \[2023] \[88/100]
 
 ### Komi Can't Communicate | 古見同學有交流障礙症 | 古見さんは、コミュ症です \[2021] \[78/100] <a href="#firstheading" id="firstheading"></a>
 
@@ -48,7 +52,7 @@ I only watched the first 10 episodes to study some Japanese.
 
 The show is too childish and naive for me :(
 
-### Cyberpunk: Edgerunners | 賽博朋克：邊緣行者 | サイバーパンク エッジランナーズ \[96/100]
+### Cyberpunk: Edgerunners | 賽博朋克：邊緣行者 | サイバーパンク エッジランナーズ \[97/100]
 
 A very beautiful and sad story. \
 I have achieved my dream of getting to the moon, but I am left only in sadness because I can't be here with you.

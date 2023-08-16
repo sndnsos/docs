@@ -38,7 +38,9 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### Curb Your Enthusiasm | 消消氣 \[93/100]
+### 祕密入侵 | Secret Invasion \[85/100]
+
+### Curb Your Enthusiasm | 消消氣 Season1-11 \[93/100]
 
 It's pretty fun :D\~
 

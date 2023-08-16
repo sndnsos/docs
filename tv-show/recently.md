@@ -38,7 +38,9 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
+### Curb Your Enthusiasm | 消消氣 \[93/100]
 
+It's pretty fun :D\~
 
 ### The Last of Us | 最後生還者 \[95/100]
 

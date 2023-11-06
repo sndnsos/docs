@@ -22,11 +22,15 @@ description: Newer content is on top.
 
 "\*" Means I didn't actually play/finish the game.
 
-### 2023 Looking forward to
+### 2024 Looking forward to
 
-1. The Legend of Zelda: Tears of the Kingdom\*
-2. Hogwarts Legacy\*
-3. A Wolf Among Us 2\*
+
+
+### 2023
+
+1. Buddy Mission Bond
+2. Baldur's Gate 3
+3. The Legend of Zelda: Tears of the Kingdom
 
 ### 2022
 
@@ -115,8 +119,6 @@ description: Newer content is on top.
 
 ## **\[Playing]**
 
-### **Baldur's Gate 3（博德之門3）**
-
 ### The Legend of Zelda: Tears of the Kingdom **（**薩爾達傳說：王國之淚）&#x20;
 
 &#x20;          『でんせつ』
@@ -159,7 +161,11 @@ For me, there are five attributes to judge games.
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
 
+### **Baldur's Gate 3（博德之門3）\[2023] \[99/100]**
 
+A pretty nice game.
+
+Fully Voiced. An excellent game to study English and enjoy the strategies and story.
 
 ### Darkest Dungeon II （暗黑地牢2） \[2023] \[93/100]
 

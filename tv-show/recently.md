@@ -40,6 +40,8 @@ description: Newer content is on top.
 
 ### 祕密入侵 | Secret Invasion \[85/100]
 
+Not bad popcorn TV show.
+
 ### Curb Your Enthusiasm | 消消氣 Season1-11 \[93/100]
 
 It's pretty fun :D\~
@@ -50,7 +52,7 @@ A good game, and an awesome show.
 
 ### The Three-Body Problem | 三體 | Season1 \[76/100]
 
-I read Three-Body Problem Novel When I am in junior high school.
+I read Three-Body Problem Novel When I was in junior high school.
 
 Something in this novel is fun and interesting, however, the values of it are pretty evil and not very logical.
 

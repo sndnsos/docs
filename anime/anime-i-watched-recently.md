@@ -22,6 +22,14 @@ description: Japanese Anime
 
 ## \[Watching]
 
+### Frieren: Beyond Journey’s End | 葬送的芙莉蓮 | 葬送のフリーレン <a href="#firstheading" id="firstheading"></a>
+
+『そうそうのフリーレン』
+
+### The Quintessential Quintuplets | 五等分的新娘 | 五等分の花嫁&#x20;
+
+『ごとうぶんのはなよめ』
+
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>

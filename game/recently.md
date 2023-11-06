@@ -161,11 +161,23 @@ For me, there are five attributes to judge games.
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
 
+
+
+### **Buddy Mission Bond（伙伴任務）\[2021] \[99/100]**
+
+It might be the best game to study Japanese.
+
+nearly fully voiced, and the story is really nice and meaningful.
+
 ### **Baldur's Gate 3（博德之門3）\[2023] \[99/100]**
 
-A pretty nice game.
-
 Fully Voiced. An excellent game to study English and enjoy the strategies and story.
+
+* P: 10
+* S: 9
+* V: 9
+* A: 8
+* C: 8.5
 
 ### Darkest Dungeon II （暗黑地牢2） \[2023] \[93/100]
 

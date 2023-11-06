@@ -106,6 +106,8 @@ description: Newer content is on top.
 
 ### Projekt: Passion - Season 1 \[2023]
 
+### Devotion （還願） \[2018]
+
 * The Witness（見證者）{Second}
 * Find Paradise（尋找天堂）
 * South Park: The Fractured but Whole（**南方公園：完整破碎）**
@@ -142,7 +144,7 @@ description: Newer content is on top.
 
 ### Persona 5 Royale （女神異聞錄 5） \[99/100]
 
-<figure><img src="../.gitbook/assets/Persona 5 Royal Poster.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Persona 5 Royal Poster.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## \[ 2023 ] Played
 

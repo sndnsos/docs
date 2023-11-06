@@ -4,7 +4,8 @@
 
 ## Game
 
-* [Games I played recently](game/recently.md)
+* [Games I played recently](game/recently/README.md)
+  * [>.<](game/recently/greater-than.less-than.md)
 * [Favorite Game Companies](game/favorite-game-companies.md)
 
 ## BOOK

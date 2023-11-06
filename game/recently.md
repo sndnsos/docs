@@ -72,7 +72,7 @@ description: Newer content is on top.
 
 ## \[TO Play]
 
-### **Beyond（超凡雙生）**
+### **Beyond**: Two Souls**（超凡雙生）**
 
 ### **Do not feed Monkeys（不要餵食猴子）**
 
@@ -82,41 +82,41 @@ description: Newer content is on top.
 
 ### The Stanley Parable（史丹利的寓言） <a href="#firstheading" id="firstheading"></a>
 
-### Braid（時空幻境）
+### Yakuza 0
 
-### Find Paradise（尋找天堂）
-
-
-
-### South Park: The Fractured but Whole（**南方公園：完整破碎）** <a href="#firstheading" id="firstheading"></a>
-
-### **The Witness（**見證者）**{Second}** <a href="#firstheading" id="firstheading"></a>
-
-### Hacker Simulator（黑客模擬器）
-
-### Hacknet（駭客網絡）
-
-### Orwell
+### Orwell Series&#x20;
 
 ### Last Day of June \[2018]
 
 ### Through the Darkest of Times
 
-### Tell Me Why
-
-### If Found... <a href="#firstheading" id="firstheading"></a>
-
-### Gris <a href="#firstheading" id="firstheading"></a>
-
-### A Mortician's Tale \[2018]
-
 ### Please Knock on My Door \[2018]
 
 ### Before Your Eyes
 
-### NORCO
+### 80 Days
 
+### Not For Broadcast
 
+### Phoenix Wright Ace Attorney Trilogy
+
+### Catherine \[2011]&#x20;
+
+### FreshWomen Season 1 \[2022]
+
+### Projekt: Passion - Season 1 \[2023]
+
+* The Witness（見證者）{Second}
+* Find Paradise（尋找天堂）
+* South Park: The Fractured but Whole（**南方公園：完整破碎）**
+* NORCO
+* Gris
+* If Found...
+* Tell Me Why
+* Hacknet（駭客網絡）
+* Hacker Simulator（黑客模擬器）
+* A Mortician's Tale
+* Please Knock on My Door \[2018]
 
 ## **\[Playing]**
 
@@ -365,6 +365,8 @@ I appreciate it a lot.
 The story is attractive. And the street view is so like Japan.
 
 ### Titan Quest（泰坦之旅）\[80/100]
+
+### Outward （物質世界）\[2019] \[91/100]
 
 ### Kingdom Rush: Frontiers（王國保衛戰：前線）\[93/100]
 

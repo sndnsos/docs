@@ -12,9 +12,10 @@ description: Newer content is on top.
 4. Detroit: Become Human \[98/100]
 5. Life is Strange \[98/100]
 6. What Remains of Edith Finch \[98/100]
-7. The Walking Dead \[97/100]
-8. It Takes Two \[97/100]
-9. Danganronpa \[97/100]&#x20;
+7. Buddy Mission Bond \[98/100]
+8. The Walking Dead \[97/100]
+9. It Takes Two \[97/100]
+10. Danganronpa \[97/100]&#x20;
 
 ## \[My Top3 Favorite Games Every Year]
 
@@ -24,7 +25,7 @@ description: Newer content is on top.
 
 ### 2024 Looking forward to
 
-
+...
 
 ### 2023
 
@@ -163,7 +164,7 @@ For every attribute, I give scores from 0 to 10.
 
 
 
-### **Buddy Mission Bond（伙伴任務）\[2021] \[99/100]**
+### **Buddy Mission Bond（伙伴任務）\[2021] \[98/100]**
 
 It might be the best game to study Japanese.
 

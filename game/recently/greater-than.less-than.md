@@ -1,3 +1,9 @@
+---
+description: >-
+  I heard these games are good (in the special type). But I only have tried
+  about 2 of them.
+---
+
 # >.<
 
 Biniku no Kaori | 媚肉の香り～ネトリネトラレヤリヤラレ | 媚肉之香 \[2008]

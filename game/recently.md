@@ -135,7 +135,7 @@ description: Newer content is on top.
 
 ### Kingdom Come: Deliverance （天國降臨：救贖） \[94/100]
 
-### **Poly Island （） \[/]**
+### **Pony Island （小馬島） \[/]**
 
 ### Hogwarts: Legacy（霍格沃茨：遺產）
 

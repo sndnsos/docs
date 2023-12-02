@@ -146,9 +146,19 @@ description: Newer content is on top.
 
 <figure><img src="../../.gitbook/assets/Persona 5 Royal Poster.jpeg" alt=""><figcaption></figcaption></figure>
 
+### DRAGON QUEST XI S | 勇者鬥惡龍XI S 尋覓逝去的時光 | ドラゴンクエストXI　過ぎ去りし時を求めて S
+
+『過ぎ去り(すぎさり)し時(とき)を求(もと)めて』
+
+### FINAL FANTASY XV WINDOWS EDITION | 最終幻想15 | ファイナルファンタジーXV
+
+### [ATRI -My Dear Moments-](https://en.wikipedia.org/wiki/Atri:\_My\_Dear\_Moments)
+
+### KARAKARA
+
+
+
 ## \[ 2023 ] Played
-
-
 
 Recently, I have been thinking about how to judge the quality of the games.\
 So even though I don't have any favorite games this year, I am trying to follow the activity of TGA.
@@ -165,6 +175,10 @@ I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
 
 
+
+### Fresh Women Season 1 \[2022] \[]
+
+### They are Billions  （億萬殭屍 ）\[2017] \[93/100]
 
 ### **Buddy Mission Bond（伙伴任務）\[2021] \[98/100]**
 

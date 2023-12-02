@@ -34,13 +34,21 @@ description: Newer content is on top.
 
 ### はじめてのおつかい | Old Enough! <a href="#firstheading" id="firstheading"></a>
 
+### Nodame Cantabile | 交響情人夢 | のだめカンタービレ
 
+『のだめカンタービレ』
+
+### 17.3 about a sex | 17.3关于性 | じゅうななてんさん アバウト ア セックス
+
+### Bleach: Thousand-Year Blood War | BLEACH 千年血戰篇 | BLEACH 千年血戦篇
+
+『せんねん けっせん へん』
 
 ## \[Watched Live/TV Show]
 
 ### 祕密入侵 | Secret Invasion \[85/100]
 
-Not bad popcorn TV show.
+Not bad for a popcorn TV show.
 
 ### Curb Your Enthusiasm | 消消氣 Season1-11 \[93/100]
 

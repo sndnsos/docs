@@ -40,9 +40,7 @@ description: Newer content is on top.
 
 ### 17.3 about a sex | 17.3关于性 | じゅうななてんさん アバウト ア セックス
 
-### Bleach: Thousand-Year Blood War | BLEACH 千年血戰篇 | BLEACH 千年血戦篇
 
-『せんねん けっせん へん』
 
 ## \[Watched Live/TV Show]
 

@@ -40,6 +40,12 @@ description: Japanese Anime
 
 『なつめ ゆうじんちょう』
 
+### Bleach: Thousand-Year Blood War | BLEACH 千年血戰篇 | BLEACH 千年血戦篇
+
+『せんねん けっせん へん』
+
+
+
 ## \[Watched]
 
 ### Record of Ragnarok | 終末的女武神 | 終末のワルキューレ Season1-2 \[88/100]

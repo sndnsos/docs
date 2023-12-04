@@ -48,6 +48,8 @@ description: Japanese Anime
 
 ## \[Watched]
 
+### Puella Magi Madoka Magica | 魔法少女小圓 | 魔法少女まどか☆マギカ \[92/100] <a href="#firstheading" id="firstheading"></a>
+
 ### Record of Ragnarok | 終末的女武神 | 終末のワルキューレ Season1-2 \[88/100]
 
 ワルキューレ Valkyrie

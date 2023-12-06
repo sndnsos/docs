@@ -34,15 +34,19 @@ description: Newer content is on top.
 
 ### はじめてのおつかい | Old Enough! <a href="#firstheading" id="firstheading"></a>
 
-### Nodame Cantabile | 交響情人夢 | のだめカンタービレ
-
-『のだめカンタービレ』
-
 ### 17.3 about a sex | 17.3关于性 | じゅうななてんさん アバウト ア セックス
 
 
 
 ## \[Watched Live/TV Show]
+
+### Nodame Cantabile | 交響情人夢 | のだめカンタービレ \[97/100]
+
+『のだめカンタービレ』
+
+めっちゃ面白いね！
+
+
 
 ### 祕密入侵 | Secret Invasion \[85/100]
 
@@ -251,6 +255,14 @@ It needs to have logic, but there isn't much.
 ### Heroes | 超異能英雄 | ヒーローズ \[89/100]
 
 ### Prison Break | 越獄 | プリズン・ブレイク \[90/100]
+
+
+
+
+
+
+
+
 
 ## Watched Cartoon (Western Style)
 

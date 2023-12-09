@@ -27,11 +27,11 @@ description: Newer content is on top.
 
 ...
 
-### 2023
+### 2022
 
-1. Buddy Mission Bond
-2. Baldur's Gate 3
-3. The Legend of Zelda: Tears of the Kingdom
+1. Baldur's Gate 3
+2. The Legend of Zelda: Tears of the Kingdom
+3. Buddy Mission Bond \[2021]
 
 ### 2022
 
@@ -68,7 +68,7 @@ description: Newer content is on top.
 
 1. Persona 5
 
-( Though I only started to play Person 5 (Royal) as later as in Jan 2023 )
+( Though I only started to play Person 5 (Royal) as late as in Jan 2023 )
 
 ## \[TO Play]
 

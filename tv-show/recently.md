@@ -40,13 +40,11 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### Nodame Cantabile | 交響情人夢 | のだめカンタービレ \[97/100]
+### Nodame Cantabile | 交響情人夢 | のだめカンタービレ Episodes1-11 \[96/100]
 
 『のだめカンタービレ』
 
 めっちゃ面白いね！
-
-
 
 ### 祕密入侵 | Secret Invasion \[85/100]
 
@@ -244,9 +242,11 @@ It needs to have logic, but there isn't much.
 
 『こどくのぐるめ』
 
-### Midnight Diner | 深夜食堂 | 深夜食堂 \[96/100]
+### Midnight Diner | 深夜食堂 | 深夜食堂 Season1-3 \[96/100]
 
 『しんやしょくどう』
+
+Toyko Series is not that good
 
 ### Game of Thrones | 權力的遊戲 | ゲーム・オブ・スローンズ \[90/100]
 

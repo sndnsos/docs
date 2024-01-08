@@ -40,6 +40,8 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
+### MIU404 \[2020]\[88/100]
+
 ### Nodame Cantabile | 交響情人夢 | のだめカンタービレ Episodes1-11 \[96/100]
 
 『のだめカンタービレ』
@@ -74,7 +76,7 @@ Intended to watch to learn English, but this is only a stupid show with stupid, 
 
 Fun and interesting.
 
-### Shameless | 無恥之徒 Season 1 \[89/100]
+### Shameless | 無恥之徒 Season 1 \[88/100]
 
 For many people, most times, we laugh, we cry, and shit can be life itself.
 

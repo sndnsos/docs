@@ -185,7 +185,9 @@ For every attribute, I give scores from 0 to 10.
 
 
 
-### Fresh Women Season 1 \[2022] \[]
+### Fresh Women Season 1 \[2022] \[96/100]
+
+Maybe ont of the the best p\*\*n games so far till 2023 :heartbeat:
 
 ### They are Billions  （億萬殭屍 ）\[2017] \[93/100]
 

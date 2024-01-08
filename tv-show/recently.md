@@ -42,7 +42,7 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### YuYu Hakusho | 幽遊白書 | 幽遊白書 \[88/100]
+### YuYu Hakusho Season 1 (Live-Action) | 幽遊白書 (真人版) | 幽遊白書 (実写ドラマ) \[87/100]
 
 『ゆうゆうはくしょ』
 

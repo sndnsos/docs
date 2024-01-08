@@ -38,9 +38,15 @@ description: Newer content is on top.
 
 
 
+
+
 ## \[Watched Live/TV Show]
 
-### MIU404 \[2020]\[88/100]
+### YuYu Hakusho | 幽遊白書 | 幽遊白書 \[88/100]
+
+『ゆうゆうはくしょ』
+
+### MIU404 \[2020]\[89/100]
 
 ### Nodame Cantabile | 交響情人夢 | のだめカンタービレ Episodes1-11 \[96/100]
 

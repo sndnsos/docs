@@ -50,6 +50,8 @@ description: Newer content is on top.
 
 ### Nodame Cantabile | 交響情人夢 | のだめカンタービレ Episodes1-11 \[96/100]
 
+### One Piece Season 1 (Live-Action) | 海賊王 (真人版) |  ONE PIECE (実写ドラマ) \[94/100]
+
 『のだめカンタービレ』
 
 めっちゃ面白いね！
@@ -62,7 +64,7 @@ Not bad for a popcorn TV show.
 
 It's pretty fun :D\~
 
-### The Last of Us | 最後生還者 \[95/100]
+### The Last of Us | 最後生還者 \[96/100]
 
 A good game, and an awesome show.
 

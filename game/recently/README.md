@@ -156,6 +156,15 @@ description: Newer content is on top.
 
 ### KARAKARA
 
+### Alan Wake (Remastered)
+
+### Alan Wake 2
+
+### Ni no Kuni Wrath of the White Witch™ (Remastered) | 第二國度 白色聖灰的女王 | 二ノ国 白き聖灰の女王&#x20;
+
+『しろき せいはい のじょおう』\
+
+
 
 
 ## \[ 2023 ] Played

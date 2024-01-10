@@ -34,15 +34,15 @@ description: Newer content is on top.
 
 ### はじめてのおつかい | Old Enough! <a href="#firstheading" id="firstheading"></a>
 
-### 17.3 about a sex | 17.3关于性 | じゅうななてんさん アバウト ア セックス
-
 
 
 
 
 ## \[Watched Live/TV Show]
 
-### YuYu Hakusho Season 1 (Live-Action) | 幽遊白書 (真人版) | 幽遊白書 (実写ドラマ) \[87/100]
+### 17.3 about a sex | 17.3关于性 | じゅうななてんさん アバウト ア セックス \[2020]\[90/100]
+
+### YuYu Hakusho Season 1 (Live-Action) | 幽遊白書 (真人版) | 幽遊白書 (実写ドラマ) \[2024]\[87/100]
 
 『ゆうゆうはくしょ』
 

@@ -18,11 +18,13 @@
 
 ### Soul | **心靈奇旅 \[2020]**
 
-### Grave of the Fireflies | 火垂るの墓 | 螢火蟲之墓 \[1988] <a href="#firstheading" id="firstheading"></a>
-
-『ほたるのはか』
+### &#x20;<a href="#firstheading" id="firstheading"></a>
 
 ## \[Watched]
+
+### Grave of the Fireflies | 火垂るの墓 | 螢火蟲之墓 \[1988] \[98/100] <a href="#firstheading" id="firstheading"></a>
+
+『ほたるのはか』
 
 ### In This Corner of the World謝謝你，在世界的角落找到我 | この世界の片隅に \[2016 -> 2019]\[98/100] <a href="#firstheading" id="firstheading"></a>
 

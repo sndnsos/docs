@@ -48,7 +48,11 @@ description: Japanese Anime
 
 
 
+
+
 ## \[Watched]
+
+### Cautious Hero: The Hero Is Overpowered but Overly Cautious | 這個勇者明明超TUEEE卻過度謹慎 | この勇者が俺TUEEEくせに慎重すぎる \[2019] \[86/100]
 
 ### Puella Magi Madoka Magica | 魔法少女小圓 | 魔法少女まどか☆マギカ \[92/100] <a href="#firstheading" id="firstheading"></a>
 
@@ -64,7 +68,7 @@ The music is beautiful. The feelings of anime characters are very touching.
 
 The ending is sad, but 宮園薰（みやぞの かおり）'s life is a beautiful journey.
 
-### Oshi no Ko | 我推的孩子 | 推しの子 Season1 \[2023] \[86/100]
+### Oshi no Ko | 我推的孩子 | 推しの子 Season1 \[2023] \[87/100]
 
 ### Komi Can't Communicate | 古見同學有交流障礙症 | 古見さんは、コミュ症です \[2021] \[78/100] <a href="#firstheading" id="firstheading"></a>
 

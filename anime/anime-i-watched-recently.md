@@ -22,17 +22,17 @@ description: Japanese Anime
 
 ## \[Watching]
 
-### Frieren: Beyond Journey’s End | 葬送的芙莉蓮 | 葬送のフリーレン <a href="#firstheading" id="firstheading"></a>
+### Frieren: Beyond Journey’s End | 葬送的芙莉蓮 | 葬送のフリーレン \[2023] <a href="#firstheading" id="firstheading"></a>
 
 『そうそうのフリーレン』
 
-### The Quintessential Quintuplets | 五等分的新娘 | 五等分の花嫁&#x20;
+### The Quintessential Quintuplets | 五等分的新娘 | 五等分の花嫁 \[2019-2021]&#x20;
 
 『ごとうぶんのはなよめ』
 
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
-### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン <a href="#firstheading" id="firstheading"></a>
+### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン \[1995] <a href="#firstheading" id="firstheading"></a>
 
 ### Chobits | 人型電腦天使心 | ちょびっツ \[2002] \[ / ]
 
@@ -40,9 +40,11 @@ description: Japanese Anime
 
 『なつめ ゆうじんちょう』
 
-### Bleach: Thousand-Year Blood War | BLEACH 千年血戰篇 | BLEACH 千年血戦篇
+### Bleach: Thousand-Year Blood War | BLEACH 千年血戰篇 | BLEACH 千年血戦篇 \[2022]
 
 『せんねん けっせん へん』
+
+### Darling in the Franxx | ダーリン・イン・ザ・フランキス \[2018]
 
 
 

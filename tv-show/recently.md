@@ -16,17 +16,15 @@ description: Newer content is on top.
 
 ### Young Sheldon | 少年謝爾頓
 
+### From the Northern Country | 來自北國 | 北の国から <a href="#firstheading" id="firstheading"></a>
 
+『きたのくにから』
 
 
 
 ## \[Watching]
 
 ### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
-
-### From the Northern Country | 來自北國 | 北の国から <a href="#firstheading" id="firstheading"></a>
-
-『きたのくにから』
 
 ### Sex, Explained
 

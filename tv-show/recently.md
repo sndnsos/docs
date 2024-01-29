@@ -38,7 +38,7 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### What Did You Eat Yesterday? | きのう何食べた? | 昨日的美食 Season 1 \[2019] <a href="#firstheading" id="firstheading"></a>
+### What Did You Eat Yesterday? | きのう何食べた? | 昨日的美食 Season 1 \[2019] \[93/100] <a href="#firstheading" id="firstheading"></a>
 
 ### 17.3 about a sex | 17.3关于性 | じゅうななてんさん アバウト ア セックス \[2020]\[90/100]
 

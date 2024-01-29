@@ -26,6 +26,8 @@ description: Newer content is on top.
 
 ## \[TO Watch]
 
+
+
 ### 1987: When the Day Comes | 1987：黎明到來的那一天 \[2017]
 
 〖1987、ある闘いの真実〗
@@ -52,9 +54,13 @@ description: Newer content is on top.
 
 ### Guillermo del Toro's Pinocchio | 吉爾莫·德爾·托羅之匹諾曹 \[2022]
 
+### Suzume | 鈴芽之旅  | すずめの戸締まり \[2022]
+
+『すずめのとじまり』
+
+
+
 ## \[ 2019 - 2022 ]
-
-
 
 ### All Quiet on the Western Front | 西線無戰事 \[2022] \[93/100]
 

@@ -38,6 +38,8 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
+### What Did You Eat Yesterday? | きのう何食べた? | 昨日的美食 Season 1 \[2019] <a href="#firstheading" id="firstheading"></a>
+
 ### 17.3 about a sex | 17.3关于性 | じゅうななてんさん アバウト ア セックス \[2020]\[90/100]
 
 ### YuYu Hakusho Season 1 (Live-Action) | 幽遊白書 (真人版) | 幽遊白書 (実写ドラマ) \[2024]\[87/100]

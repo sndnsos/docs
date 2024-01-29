@@ -22,6 +22,10 @@
 
 ## \[Watched]
 
+### Suzume | 鈴芽之旅  | すずめの戸締まり \[2022]
+
+『すずめのとじまり』
+
 ### Grave of the Fireflies | 火垂るの墓 | 螢火蟲之墓 \[1988] \[98/100] <a href="#firstheading" id="firstheading"></a>
 
 『ほたるのはか』

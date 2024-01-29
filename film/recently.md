@@ -54,10 +54,6 @@ description: Newer content is on top.
 
 ### Guillermo del Toro's Pinocchio | 吉爾莫·德爾·托羅之匹諾曹 \[2022]
 
-### Suzume | 鈴芽之旅  | すずめの戸締まり \[2022]
-
-『すずめのとじまり』
-
 
 
 ## \[ 2019 - 2022 ]

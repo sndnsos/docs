@@ -46,7 +46,7 @@ description: Japanese Anime
 
 ### Darling in the Franxx | ダーリン・イン・ザ・フランキス \[2018]
 
-
+### Mashle | 肌肉魔法使-MASHLE | マッシュル-MASHLE- <a href="#firstheading" id="firstheading"></a>
 
 
 

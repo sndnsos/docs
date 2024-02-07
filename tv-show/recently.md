@@ -20,6 +20,8 @@ description: Newer content is on top.
 
 『きたのくにから』
 
+### What Did You Eat Yesterday? | きのう何食べた? | 昨日的美食 Season 2 \[2023] \[93/100] <a href="#firstheading" id="firstheading"></a>
+
 
 
 ## \[Watching]

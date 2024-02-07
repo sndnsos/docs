@@ -26,8 +26,6 @@ description: Newer content is on top.
 
 ## \[TO Watch]
 
-
-
 ### 1987: When the Day Comes | 1987：黎明到來的那一天 \[2017]
 
 〖1987、ある闘いの真実〗
@@ -58,7 +56,9 @@ description: Newer content is on top.
 
 ## \[ 2019 - ]&#x20;
 
-###
+### 侵入者たちの晩餐 \[2024] \[91/100]
+
+『しんにゅうしゃたちのばんさん』
 
 ### All Quiet on the Western Front | 西線無戰事 \[2022] \[93/100]
 

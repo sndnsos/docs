@@ -24,10 +24,6 @@
 
 ## \[Watched]
 
-### 侵入者たちの晩餐 \[2024] \[91/100]
-
-『しんにゅうしゃたちのばんさん』
-
 ### Grave of the Fireflies | 火垂るの墓 | 螢火蟲之墓 \[1988] \[98/100] <a href="#firstheading" id="firstheading"></a>
 
 『ほたるのはか』

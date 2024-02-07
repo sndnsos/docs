@@ -78,23 +78,36 @@ description: Newer content is on top.
 
 ## \[TO Play]
 
-### **Beyond**: Two Souls**（超凡雙生）**
 
-### Not For Broadcast
 
-### The Stanley Parable（史丹利的寓言） <a href="#firstheading" id="firstheading"></a>
+### \[English] Eargerly to Play
 
-### Yakuza 0
+* Beyond: Two Souls（超凡雙生）
+* Not For Broadcast
+* The Stanley Parable（史丹利的寓言）
+* 80 Days
 
-### Phoenix Wright Ace Attorney Trilogy
 
-### 80 Days
 
-### Catherine \[2011]&#x20;
+### \[Japanese] Eargerly to Play
 
-### Projekt: Passion - Season 1 \[2023]
+* **Yakuza 0-8**
+* **Catherine Classic \[2011 -> 2019]**&#x20;
+* **Catherine Full Body \[2017 -> 2020]**
+  * [version compare](https://www.thegamer.com/catherine-vs-catherine-full-body/#catherine-better-pacing)
+* **Alan Wake (Remastered)**
+* **Alan Wake 2**
+* **Ni no Kuni Wrath of the White Witch™ (Remastered) | 第二國度 白色聖灰的女王 | 二ノ国 白き聖灰の女王**&#x20;
+* **The Legend of Zelda: Tears of the Kingdom （薩爾達傳說：王國之淚）**
+* **Persona 5 Royale**
+* **Persona 3 Reload**
+* Phoenix Wright Ace Attorney Trilogy
+* DRAGON QUEST XI S | 勇者鬥惡龍XI S 尋覓逝去的時光 | ドラゴンクエストXI　過ぎ去りし時を求めて S
+* FINAL FANTASY XV WINDOWS EDITION | 最終幻想15 | ファイナルファンタジーXV
 
-### Devotion （還願） \[2018]
+
+
+### Others To Play
 
 * The Witness（見證者）{Second}
 * Find Paradise（尋找天堂）
@@ -115,6 +128,10 @@ description: Newer content is on top.
 * Through the Darkest of Times
 * Before Your Eyes
 * Please Knock on My Door \[2018]
+* Projekt: Passion - Season 1 \[2023]
+* Devotion （還願） \[2018]
+
+
 
 ## **\[Playing]**
 
@@ -123,8 +140,6 @@ description: Newer content is on top.
 &#x20;          『でんせつ』
 
 『ゼルダの伝説 ティアーズ オブ ザ キングダム』
-
-### **Detroit: Become Human（底特律：變人） {Second}**
 
 ### Cyber Manhunt （全网公敵）\[92/100]
 

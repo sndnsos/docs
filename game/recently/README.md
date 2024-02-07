@@ -27,7 +27,7 @@ description: Newer content is on top.
 
 ...
 
-### 2022
+### 2023
 
 1. Baldur's Gate 3
 2. The Legend of Zelda: Tears of the Kingdom

@@ -22,6 +22,8 @@ description: Japanese Anime
 
 ## \[Watching]
 
+### The Unwanted Undead Adventurer | 非自願的不死冒險者 | 望まぬ不死の冒険者 \[2024]
+
 ### Frieren: Beyond Journey’s End | 葬送的芙莉蓮 | 葬送のフリーレン \[2023] <a href="#firstheading" id="firstheading"></a>
 
 『そうそうのフリーレン』
@@ -46,7 +48,7 @@ description: Japanese Anime
 
 ### Darling in the Franxx | ダーリン・イン・ザ・フランキス \[2018]
 
-### Mashle | 肌肉魔法使-MASHLE | マッシュル-MASHLE- <a href="#firstheading" id="firstheading"></a>
+### Mashle | 肌肉魔法使-MASHLE | マッシュル-MASHLE- \[2023-2024] <a href="#firstheading" id="firstheading"></a>
 
 
 

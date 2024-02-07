@@ -70,39 +70,27 @@ description: Newer content is on top.
 
 ( Though I only started to play Person 5 (Royal) as late as in Jan 2023 )
 
+
+
+
+
+
+
 ## \[TO Play]
 
 ### **Beyond**: Two Souls**（超凡雙生）**
 
-### **Do not feed Monkeys（不要餵食猴子）**
-
-### **Behold（**監視者）
-
-### Disco Elysium（極樂迪斯可）
+### Not For Broadcast
 
 ### The Stanley Parable（史丹利的寓言） <a href="#firstheading" id="firstheading"></a>
 
 ### Yakuza 0
 
-### Orwell Series&#x20;
-
-### Last Day of June \[2018]
-
-### Through the Darkest of Times
-
-### Please Knock on My Door \[2018]
-
-### Before Your Eyes
+### Phoenix Wright Ace Attorney Trilogy
 
 ### 80 Days
 
-### Not For Broadcast
-
-### Phoenix Wright Ace Attorney Trilogy
-
 ### Catherine \[2011]&#x20;
-
-### FreshWomen Season 1 \[2022]
 
 ### Projekt: Passion - Season 1 \[2023]
 
@@ -118,6 +106,14 @@ description: Newer content is on top.
 * Hacknet（駭客網絡）
 * Hacker Simulator（黑客模擬器）
 * A Mortician's Tale
+* Please Knock on My Door \[2018]
+* Do not feed Monkeys（不要餵食猴子）
+* Behold（監視者）
+* Disco Elysium（極樂迪斯可）
+* Orwell Series&#x20;
+* Last Day of June \[2018]
+* Through the Darkest of Times
+* Before Your Eyes
 * Please Knock on My Door \[2018]
 
 ## **\[Playing]**
@@ -187,7 +183,7 @@ For every attribute, I give scores from 0 to 10.
 
 ### Fresh Women Season 1 \[2022] \[96/100]
 
-Maybe ont of the the best p\*\*n games so far till 2023 :heartbeat:
+Maybe one of the the best p\*\*n games so far till 2023 :heartbeat:
 
 ### They are Billions  （億萬殭屍 ）\[2017] \[93/100]
 

@@ -198,11 +198,13 @@ For every attribute, I give scores from 0 to 10.
 
 ### Fresh Women Season 1 \[2022] \[96/100]
 
-Maybe one of the the best p\*\*n games so far till 2023 :heartbeat:
+Maybe one of the best p\*\*n games so far till 2023 :heartbeat:
 
 ### They are Billions  （億萬殭屍 ）\[2017] \[93/100]
 
-### **Buddy Mission Bond（伙伴任務）\[2021] \[98/100]**
+### **Buddy Mission Bond（伙伴任務）\[2021] \[97/100]**
+
+『バディミッション BOND』
 
 It might be the best game to study Japanese.
 

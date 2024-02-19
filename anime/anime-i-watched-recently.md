@@ -34,8 +34,6 @@ description: Japanese Anime
 
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
-### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン \[1995] <a href="#firstheading" id="firstheading"></a>
-
 ### Chobits | 人型電腦天使心 | ちょびっツ \[2002] \[ / ]
 
 ### Natsume's Book of Friends 夏目友人帳 | 夏目友人帳 \[2008-2017] \[/] <a href="#firstheading" id="firstheading"></a>
@@ -53,6 +51,8 @@ description: Japanese Anime
 
 
 ## \[Watched]
+
+### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン \[1995] \[90/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Cautious Hero: The Hero Is Overpowered but Overly Cautious | 這個勇者明明超TUEEE卻過度謹慎 | この勇者が俺TUEEEくせに慎重すぎる \[2019] \[86/100]
 

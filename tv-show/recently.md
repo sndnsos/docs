@@ -14,8 +14,6 @@ description: Newer content is on top.
 
 ### The Big Bang Theory | 生活大爆炸
 
-### Young Sheldon | 少年謝爾頓
-
 ### From the Northern Country | 來自北國 | 北の国から <a href="#firstheading" id="firstheading"></a>
 
 『きたのくにから』
@@ -25,6 +23,8 @@ description: Newer content is on top.
 
 
 ## \[Watching]
+
+### Young Sheldon | 少年謝爾頓 | ヤング・シェルドン
 
 ### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
 

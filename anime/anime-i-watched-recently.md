@@ -22,6 +22,8 @@ description: Japanese Anime
 
 ## \[Watching]
 
+### The Dangers in My Heart | 我內心的糟糕念頭 | 僕の心のヤバイやつ
+
 ### The Unwanted Undead Adventurer | 非自願的不死冒險者 | 望まぬ不死の冒険者 \[2024]
 
 ### Frieren: Beyond Journey’s End | 葬送的芙莉蓮 | 葬送のフリーレン \[2023] <a href="#firstheading" id="firstheading"></a>
@@ -51,6 +53,8 @@ description: Japanese Anime
 
 
 ## \[Watched]
+
+### Mob Psycho 100 | 靈能百分百 | モブサイコ100 \[90/100]
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン \[1995] \[90/100] <a href="#firstheading" id="firstheading"></a>
 
@@ -137,9 +141,9 @@ I have achieved my dream of getting to the moon, but I am left only in sadness b
 
 ### Code Geass | 反叛的魯路修 | コードギアス 反逆のルルーシュ \[96/100]
 
-### My Hero Academia | 我的英雄學院 | 僕のヒーローアカデミア \[94/100]
+### My Hero Academia | 我的英雄學院 | 僕のヒーローアカデミア \[89/100]
 
-Season 1-6&#x20;
+Season 1-7
 
 ### Re:Zero − Starting Life in Another World | Re：從零開始的異世界生活 Re:ゼロから始める異世界生活 | \[79/100]
 

@@ -40,7 +40,11 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### Dexture | デクスター 警察官は殺人鬼 | 嗜血法醫 | \[89/100]
+### Dexture | デクスター 警察官は殺人鬼 | 嗜血法醫 \[89/100]
+
+### Tomorrow, I'll Be Someone's Girlfriend | 明日、私は誰かのカノジョ | 明天，我會成為誰的女友 \[91/100] <a href="#firstheading" id="firstheading"></a>
+
+### Destiny | Destiny | 命運 \[39/100]  <a href="#firstheading" id="firstheading"></a>
 
 ### What Did You Eat Yesterday? | きのう何食べた? | 昨日的美食 Season 1 \[2019] \[93/100] <a href="#firstheading" id="firstheading"></a>
 

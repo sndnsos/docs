@@ -202,9 +202,27 @@ For me, there are five attributes to judge games.
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
 
-### Tunguska: The Visitation - Enhanced Edition  通古斯:禁區實錄1eLgend of Mortal （活俠傳） \[2024]  \[95/100]
+### Tunguska: The Visitation - Enhanced Edition （通古斯:禁區實錄） \[2021] \[95/100]
+
+It's pretty fun to play. very playable.&#x20;
+
+But the game ends fast without a very complete story. it's the biggest pity.
+
+* P: 9.5
+* S: 8
+* V: 6.5
+* A: 6.5
+* C: 8.5
+
+### Legend of Mortal （活俠傳） \[2024]  \[95/100]
 
 2022年之前便開始期待。雖然結局草率，但是有些場面還是挺讓人印象深刻的。贊同其中的要表達的不少價值觀念，遊戲雖然是遊戲，然而中國的歷史自然確實是滿口仁義道德、實際上卻是吃人的歷史。
+
+* P: 8.5
+* S: 8.5
+* V: 7
+* A: 7
+* C: 8.5
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -221,6 +239,12 @@ For every attribute, I give scores from 0 to 10.
 It might be the best game to study Japanese.
 
 nearly fully voiced, and the story is really nice and meaningful.
+
+* P: 5
+* S: 9.5
+* V: 6
+* A: 8
+* C: 8
 
 ### **Baldur's Gate 3（博德之門3）\[2023] \[99/100]**
 

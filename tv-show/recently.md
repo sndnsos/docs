@@ -34,17 +34,31 @@ description: Newer content is on top.
 
 ### はじめてのおつかい | Old Enough! <a href="#firstheading" id="firstheading"></a>
 
+好きな子がめがね忘れた
+
+
+
 
 
 
 
 ## \[Watched Live/TV Show]
 
+### 地面師たち |  Tokyo Swindlers | 地產詐騙犯 \[96/100] <a href="#firstheading" id="firstheading"></a>
+
+It has some bugs but it is still a pretty exciting and interesting show!
+
 ### Dexture | デクスター 警察官は殺人鬼 | 嗜血法醫 \[89/100]
 
 ### Tomorrow, I'll Be Someone's Girlfriend | 明日、私は誰かのカノジョ | 明天，我會成為誰的女友 \[91/100] <a href="#firstheading" id="firstheading"></a>
 
-### Let's Get Divorced | 離婚しようよ | 我們離婚吧 \[97/100]&#x20;
+### Let's Get Divorced | 離婚しようよ | 我們離婚吧 \[2023]\[97/100]&#x20;
+
+I like this show pretty much and watched it twice.
+
+### Extremely Inappropriate | 不適切にもほどがある | 不當行為也要有個限度 \[2024] \[96/100]
+
+Pretty fun.
 
 ### Destiny | Destiny | 命運 \[39/100]  <a href="#firstheading" id="firstheading"></a>
 
@@ -200,6 +214,10 @@ Seaons2 \[93/100]
 ### The World Between Us | 我們與惡的距離 | 悪との距離 \[93/100] <a href="#firstheading" id="firstheading"></a>
 
 ### Black Mirror | 黑鏡 | ブラック・ミラー \[95/100] <a href="#firstheading" id="firstheading"></a>
+
+Season 1-6
+
+Very meaningful to watch
 
 ### Unnatural | 非自然死亡 | アンナチュラル \[97/100] <a href="#firstheading" id="firstheading"></a>
 

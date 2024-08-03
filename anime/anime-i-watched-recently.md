@@ -22,6 +22,8 @@ description: Japanese Anime
 
 ## \[Watching]
 
+### Kingdom | キングダム | 王者天下 \[2012]
+
 ### The Dangers in My Heart | 我內心的糟糕念頭 | 僕の心のヤバイやつ
 
 ### The Unwanted Undead Adventurer | 非自願的不死冒險者 | 望まぬ不死の冒険者 \[2024]

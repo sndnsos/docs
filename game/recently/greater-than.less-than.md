@@ -35,3 +35,11 @@ Bishoujo Mangekyou | 美少女万华镜 （-理与迷宫的少女）| 美少女�
 [Nope Nope Nope Nope Nurses](https://store.steampowered.com/app/2474940/?snr=1\_wishlist\_4\_\_wishlist-capsule) \[2023]
 
 [Sex Lens: A Porn Story](https://store.steampowered.com/app/2624740/?snr=1\_wishlist\_4\_\_wishlist-capsule) \[2023]
+
+
+
+And also recently...
+
+### Fresh Women Season 1 \[2022] \[96/100]
+
+Maybe one of the best p\*\*n games so far till 2023&#x20;

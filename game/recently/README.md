@@ -135,6 +135,14 @@ description: Newer content is on top.
 
 ## **\[Playing]**
 
+### **Human Resource Machine （**人力資源機器）
+
+ヒューマン・リソース・マシーン
+
+### **7 Billion (**70億人**)**
+
+セブン・ビリオン・ヒューマンズ
+
 ### The Legend of Zelda: Tears of the Kingdom **（**薩爾達傳說：王國之淚）&#x20;
 
 &#x20;          『でんせつ』
@@ -194,11 +202,15 @@ For me, there are five attributes to judge games.
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
 
+### Tunguska: The Visitation - Enhanced Edition  通古斯:禁區實錄1eLgend of Mortal （活俠傳） \[2024]  \[95/100]
 
+2022年之前便開始期待。雖然結局草率，但是有些場面還是挺讓人印象深刻的。贊同其中的要表達的不少價值觀念，遊戲雖然是遊戲，然而中國的歷史自然確實是滿口仁義道德、實際上卻是吃人的歷史。
 
-### Fresh Women Season 1 \[2022] \[96/100]
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-Maybe one of the best p\*\*n games so far till 2023 :heartbeat:
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### They are Billions  （億萬殭屍 ）\[2017] \[93/100]
 

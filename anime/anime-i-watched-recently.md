@@ -22,6 +22,18 @@ description: Japanese Anime
 
 ## \[Watching]
 
+### GeGeGe no Kitarō | 鬼太郎 | ゲゲゲの鬼太郎
+
+### Assassination Classroom | 暗殺教室 | 暗殺教室 \[2012]&#x20;
+
+Season 1-2
+
+### Alya Sometimes Hides Her Feelings in Russian | 不時輕聲地以俄語遮羞的鄰座艾莉同學 | 時々ボソッとロシア語でデレる隣のアーリャさん \[2024]
+
+### Futo Detectives | 風都偵探 | 風都探偵 \[2022]
+
+### The Girl I Like Forgot Her Glasses | 我喜歡的女孩忘記戴眼鏡 |  好きな子がめがねを忘れた \[2023]
+
 ### Kingdom | キングダム | 王者天下 \[2012]
 
 ### The Dangers in My Heart | 我內心的糟糕念頭 | 僕の心のヤバイやつ

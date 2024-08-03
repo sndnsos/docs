@@ -40,6 +40,10 @@ Bishoujo Mangekyou | 美少女万华镜 （-理与迷宫的少女）| 美少女�
 
 And also recently...
 
-### Fresh Women Season 1 \[2022] \[96/100]
+### Fresh Women Season 1 \[2022] \[95/100]
 
 Maybe one of the best p\*\*n games so far till 2023&#x20;
+
+### Living With Sister: Monochrome Fantasy （妹相隨～黑白世界的繽紛冒險～）\[2024]\[95/100]
+
+Very creative and cute art style.&#x20;

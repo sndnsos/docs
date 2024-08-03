@@ -34,7 +34,7 @@ description: Newer content is on top.
 
 ### はじめてのおつかい | Old Enough! <a href="#firstheading" id="firstheading"></a>
 
-好きな子がめがね忘れた
+### Tomorrow, I'll Be Someone's Girlfriend | 明天，我會成為誰的女友 | 明日、私は誰かのカノジョ\[2022] <a href="#firstheading" id="firstheading"></a>
 
 
 
@@ -44,7 +44,7 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### 地面師たち |  Tokyo Swindlers | 地產詐騙犯 \[96/100] <a href="#firstheading" id="firstheading"></a>
+### Tokyo Swindlers | 地產詐騙犯 | 地面師たち \[96/100] <a href="#firstheading" id="firstheading"></a>
 
 It has some bugs but it is still a pretty exciting and interesting show!
 

@@ -181,8 +181,9 @@ description: Newer content is on top.
 
 ### Ni no Kuni Wrath of the White Witch™ (Remastered) | 第二國度 白色聖灰的女王 | 二ノ国 白き聖灰の女王&#x20;
 
-『しろき せいはい のじょおう』\
+『しろき せいはい のじょおう』
 
+### Endless Monday: Dreams and Deadlines  | 永不結束的星期一：夢想與截止期限 
 
 
 
@@ -201,6 +202,16 @@ For me, there are five attributes to judge games.
 
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
+
+
+
+### Minds Beneath Us （沉沒意志） \[]
+
+### WasteLand Express （廢土快遞） \[86/100]
+
+#### This War of Mine { Second Time Playthrough}
+
+#### V Rising { Second Time Playthrough }
 
 ### Tunguska: The Visitation - Enhanced Edition （通古斯:禁區實錄） \[2021] \[95/100]
 

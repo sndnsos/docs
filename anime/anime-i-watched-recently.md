@@ -34,8 +34,6 @@ Season 1-2
 
 ### The Girl I Like Forgot Her Glasses | 我喜歡的女孩忘記戴眼鏡 |  好きな子がめがねを忘れた \[2023]
 
-### Kingdom | キングダム | 王者天下 \[2012]
-
 ### The Dangers in My Heart | 我內心的糟糕念頭 | 僕の心のヤバイやつ
 
 ### The Unwanted Undead Adventurer | 非自願的不死冒險者 | 望まぬ不死の冒険者 \[2024]
@@ -67,6 +65,8 @@ Season 1-2
 
 
 ## \[Watched]
+
+### Kingdom | キングダム | 王者天下 \[2012]\[69/100]
 
 ### Mob Psycho 100 | 靈能百分百 | モブサイコ100 \[90/100]
 

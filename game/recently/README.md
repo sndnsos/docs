@@ -203,11 +203,17 @@ For me, there are five attributes to judge games.
 I will try to give scores of games in the four attributes.\
 For every attribute, I give scores from 0 to 10.
 
+### Black Myth: Wukong \[85/100]
 
+* P: 8.5
+* S: 5.5
+* V: 9
+* A: 8
+* C: 7
 
 ### Minds Beneath Us （沉沒意志） \[]
 
-### WasteLand Express （廢土快遞） \[86/100]
+### Wasteland Express （廢土快遞） \[86/100]
 
 #### This War of Mine { Second Time Playthrough}
 

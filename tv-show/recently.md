@@ -6,7 +6,11 @@ description: Newer content is on top.
 
 ## \[TO Watch]
 
-### The Crown <a href="#firstheading" id="firstheading"></a>
+
+
+### The Crown | 王冠 | ザ・クラウン <a href="#firstheading" id="firstheading"></a>
+
+### Dark | 闇 | ダーク
 
 ### Tokyo Love Story | 東京愛情故事 | 東京ラブストーリー  <a href="#firstheading" id="firstheading"></a>
 
@@ -21,6 +25,16 @@ description: Newer content is on top.
 『きたのくにから』
 
 ### What Did You Eat Yesterday? | きのう何食べた? | 昨日的美食 Season 2 \[2023] \[93/100] <a href="#firstheading" id="firstheading"></a>
+
+### THE EXPERT OF CHANGING JOBS | 転職の魔王様 | 轉職的魔王
+
+### First Love
+
+### NANA
+
+### He who can't marry
+
+### 太陽が動かない
 
 
 
@@ -44,11 +58,25 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
-### Young Sheldon | 少年謝爾頓 | ヤング・シェルドン
+### Jin | JIN-仁 | 仁醫 \[99/100] 🥰
+
+The best TV show I have watched.
+
+何度も涙が出ました
+
+### All-domain Anomaly Resolution Office | AARO  | 全域異常現象解析辦公室 \[90/100]
+
+### The Good Place |  善地 |  グッド・プレイス \[95/100]
+
+### Tsumasho | 妻子變成小學生 | 妻、小学生になる \[96/100]
+
+### Young Sheldon | 少年謝爾頓 | ヤング・シェルドン \[95/100]
 
 ### Tokyo Swindlers | 地產詐騙犯 | 地面師たち \[96/100] <a href="#firstheading" id="firstheading"></a>
 
 It has some bugs but it is still a pretty exciting and interesting show!
+
+### Yūsha Yoshihiko | 勇者义彦与魔王城 | 勇者ヨシヒコシリーズ \[ 94/100]
 
 ### Unmet - A Neurosurgeon's Diary | 某脑外科医的日记 | ある脳外科医の日記 \[93/100]
 

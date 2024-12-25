@@ -56,6 +56,8 @@ description: Newer content is on top.
 
 ## \[ 2019 - ]&#x20;
 
+### Blade Runner 2049 | 銀翼殺手2049 | ブレードランナー 2049 \[87/100]
+
 ### 侵入者たちの晩餐 \[2024] \[91/100]
 
 『しんにゅうしゃたちのばんさん』
@@ -76,7 +78,7 @@ description: Newer content is on top.
 
 it's a so-so popcorn film with awesome scenes. But also pretty boring(I nearly fell asleep sometimes) and doesn't make sense for lots of scenarios. I agree with most values in the film, but it's too stupid in the logic of the storyline.
 
-What I agree with is that humans are selfish and greedy; the morality of human society is corrupt. For many bad things happening, most people choose to not see. People choose to avoid problems and lie to themselves.
+What I agree with is that humans are selfish and greedy; the morality of human society is corrupt. For many bad things happening, most people choose not to see. People choose to avoid problems and lie to themselves.
 
 People pretend to be good, but I don't think any good and wise people could live in this world well without suffering lots of pain, the pain of surviving, the pain of compassion, the pain of demanding, the pain of guilt.
 
@@ -166,7 +168,7 @@ Cried a lot during watching it.
 
 ### The Sun Also Rises | **太陽照常升起 \[2007] \[90/100]**
 
-**〖**日はまた昇る〗
+**〖**&#x65E5;はまた昇る〗
 
 ### Devils on the Doorstep | 鬼子來了 \[2000] \[94/100]
 
@@ -260,7 +262,7 @@ I cried for the film, I cried for the song, and I cried for myself.
 
 ### The Warlords | 投**名狀 \[2007] \[90/100]**
 
-**〖**ウォーロード/男たちの誓い**〗**
+**〖**&#x30A6;ォーロード/男たちの誓&#x3044;**〗**
 
 ### Inception | 盜夢空間 \[2010] \[97/100]
 

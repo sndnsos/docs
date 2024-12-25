@@ -18,6 +18,8 @@ description: Japanese Anime
 
 ### Dr. Stone | Dr.STONE 新石紀&#x20;
 
+### メイドインアビス <a href="#firstheading" id="firstheading"></a>
+
 
 
 ## \[Watching]
@@ -36,11 +38,7 @@ Season 1-2
 
 ### The Dangers in My Heart | 我內心的糟糕念頭 | 僕の心のヤバイやつ
 
-### The Unwanted Undead Adventurer | 非自願的不死冒險者 | 望まぬ不死の冒険者 \[2024]
 
-### Frieren: Beyond Journey’s End | 葬送的芙莉蓮 | 葬送のフリーレン \[2023] <a href="#firstheading" id="firstheading"></a>
-
-『そうそうのフリーレン』
 
 ### The Quintessential Quintuplets | 五等分的新娘 | 五等分の花嫁 \[2019-2021]&#x20;
 
@@ -60,13 +58,15 @@ Season 1-2
 
 ### Darling in the Franxx | ダーリン・イン・ザ・フランキス \[2018]
 
-### Mashle | 肌肉魔法使-MASHLE | マッシュル-MASHLE- \[2023-2024] <a href="#firstheading" id="firstheading"></a>
+### Orb: On the Movements of the Earth | 地。-關於地球的運動- | チ。-地球の運動について- \[2024] \[95/100]
 
 
 
 ## \[Watched]
 
-Dandadan | 1|1だんだだんだんだだん膽大黨
+### Uzumaki | 漩渦 | うずまき \[2024] \[91/100]
+
+### Dandadan | だんだだん | 膽大黨 \[2024] \[94/100]
 
 ### Kingdom | キングダム | 王者天下 \[2012]\[69/100]
 
@@ -74,7 +74,15 @@ Dandadan | 1|1だんだだんだんだだん膽大黨
 
 でも、実には、嬴政の秦は地獄の国です。 皮肉だね。
 
+### Frieren: Beyond Journey’s End | 葬送的芙莉蓮 | 葬送のフリーレン \[2023] \[99/100] 🥰 <a href="#firstheading" id="firstheading"></a>
+
+『そうそうのフリーレン』
+
 ### Mob Psycho 100 | 靈能百分百 | モブサイコ100 \[90/100]
+
+### The Unwanted Undead Adventurer | 非自願的不死冒險者 | 望まぬ不死の冒険者 Season 1 \[2024] \[88/100]
+
+### Mashle | 肌肉魔法使-MASHLE | マッシュル-MASHLE- \[2023-2024] <a href="#firstheading" id="firstheading"></a>
 
 ### Neon Genesis Evangelion | 新世紀福音戰士 | 新世紀エヴァンゲリオン \[1995] \[90/100] <a href="#firstheading" id="firstheading"></a>
 

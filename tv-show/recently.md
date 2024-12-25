@@ -6,6 +6,8 @@ description: Newer content is on top.
 
 ## \[TO Watch]
 
+### The Crown <a href="#firstheading" id="firstheading"></a>
+
 ### Tokyo Love Story | 東京愛情故事 | 東京ラブストーリー  <a href="#firstheading" id="firstheading"></a>
 
 ### The Full-Time Wife Escapist | 逃避雖可恥卻有用 \~ 月薪嬌妻 | 逃げるは恥だが役に立つ
@@ -24,8 +26,6 @@ description: Newer content is on top.
 
 ## \[Watching]
 
-### Young Sheldon | 少年謝爾頓 | ヤング・シェルドン
-
 ### Greatest Events of WWII in Colour | 二戰大事記（彩色版） <a href="#firstheading" id="firstheading"></a>
 
 ### Sex, Explained
@@ -43,6 +43,8 @@ description: Newer content is on top.
 
 
 ## \[Watched Live/TV Show]
+
+### Young Sheldon | 少年謝爾頓 | ヤング・シェルドン
 
 ### Tokyo Swindlers | 地產詐騙犯 | 地面師たち \[96/100] <a href="#firstheading" id="firstheading"></a>
 
@@ -124,7 +126,7 @@ Season 4-5 \[81/100]
 
 Kiki Camarena | **恩里克·S·「基基」·卡馬雷納·薩拉薩爾 |** Enrique S. "Kiki" Camarena Salazar
 
-I really hate the shows that 100 short-distance bullets cannot kill someone while the one could kill dozens back. ([Rafael Caro Quintero](https://en.wikipedia.org/wiki/Rafael\_Caro\_Quintero) and some other Nacrods)
+I really hate the shows that 100 short-distance bullets cannot kill someone while the one could kill dozens back. ([Rafael Caro Quintero](https://en.wikipedia.org/wiki/Rafael_Caro_Quintero) and some other Nacrods)
 
 ### Nacrod | 毒梟 Season 1-2 \[92/100]
 
@@ -150,15 +152,7 @@ It's very sad that you know things are breaking bad, and it is just like you are
 
 But the result is not that bad. Actually, I love this ending with tears. Maybe Kim and Jimmy were bad for each other, but in the end, they helped each other and admitted every sin. For the ones who got hurt by them, it's not fair to say that life could be like a game. But for Kim and Jimmy, their lives and relationship are like a game, full of love.
 
-<div>
-
-<figure><img src="../.gitbook/assets/Finger Gunshot Kim.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Finger Gunshot Jimmy.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Finger Gunshot Kim.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Finger Gunshot Jimmy.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Extraordinary Attorney Woo | 非常律師禹英禑 | ウ・ヨンウ弁護士は天才肌 \[90/100] <a href="#firstheading" id="firstheading"></a>
 

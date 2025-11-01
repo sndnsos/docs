@@ -19,13 +19,20 @@ description: Newer content is on top.
 
 ## \[My Top3 Favorite Games Every Year]
 
-**”Bold“** means I love the game much
+**"Bold"** means I love the game much
 
-"\*" Means I didn't actually play/finish the game.
+"\*" Means I didn't actually play/finish the game.\
 
-### 2024 Looking forward to
 
-...
+### 2025
+
+1. Clair Obscur: Expedition 33
+
+### 2024
+
+1. Minds Beneath Us
+2. Metaphor: ReFantazio\
+
 
 ### 2023
 
@@ -135,15 +142,15 @@ description: Newer content is on top.
 
 ## **\[Playing]**
 
-### **Human Resource Machine （**人力資源機器）
+### **Human Resource Machine （**&#x4EBA;力資源機器）
 
 ヒューマン・リソース・マシーン
 
-### **7 Billion (**70億人**)**
+### **7 Billion (**&#x37;0億&#x4EBA;**)**
 
 セブン・ビリオン・ヒューマンズ
 
-### The Legend of Zelda: Tears of the Kingdom **（**薩爾達傳說：王國之淚）&#x20;
+### The Legend of Zelda: Tears of the Kingdom **（**&#x85A9;爾達傳說：王國之淚）&#x20;
 
 &#x20;          『でんせつ』
 
@@ -171,7 +178,7 @@ description: Newer content is on top.
 
 ### FINAL FANTASY XV WINDOWS EDITION | 最終幻想15 | ファイナルファンタジーXV
 
-### [ATRI -My Dear Moments-](https://en.wikipedia.org/wiki/Atri:\_My\_Dear\_Moments)
+### [ATRI -My Dear Moments-](https://en.wikipedia.org/wiki/Atri:_My_Dear_Moments)
 
 ### KARAKARA
 
@@ -425,7 +432,7 @@ For something, it's fun, but also boring for the fights.
 
 ### V Rising （吸血鬼：崛起） \[2022] \[93/100]
 
-### **The Wolf Among Us（**我們身邊的狼 \~ 與狼同行**）\[2013] \[95/100]**
+### **The Wolf Among Us（**&#x6211;們身邊的狼 \~ 與狼同&#x884C;**）\[2013] \[95/100]**
 
 ### **Heavy Rain（暴雨）\[2010] \[94/100]**
 
@@ -518,7 +525,7 @@ But I really have many reasons to dislike this game.&#x20;
 
 ### **Fall Guys（糖豆人）\[88/100]**
 
-### **ARK: Survivel Evolved（**方舟：進化生存）\[92/100]
+### **ARK: Survivel Evolved（**&#x65B9;舟：進化生存）\[92/100]
 
 
 
@@ -527,7 +534,7 @@ But I really have many reasons to dislike this game.&#x20;
 * ### **Detroit: Become Human（底特律：變人）**
 * ### **Chinese Parents（中國式家長）\[83/100]**
 * ### **🥰🥰🥰The Legend of Zelda: Breath of the Wild（薩爾達傳說：曠野之息）\[99/100]**
-* **The Witness（**見證者）
+* **The Witness（**&#x898B;證者）
 * **Divinity: Original Sin II（神界：原罪2）**
 * ### **The Witcher 3: Wild Hunt（巫师3：狂猎）**
 * ### **Human: Fall Flat（人類：一敗塗地）\[92/100]**

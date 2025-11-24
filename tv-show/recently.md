@@ -60,7 +60,11 @@ description: Newer content is on top.
 
 ### Quartet | カルテット | 四重奏 \[95/100] <a href="#firstheading" id="firstheading"></a>
 
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 ### Jin | JIN-仁 | 仁醫 \[99/100] 🥰
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 The best TV show I have watched.
 
@@ -88,6 +92,8 @@ It has some bugs but it is still a pretty exciting and interesting show!
 
 ### Let's Get Divorced | 離婚しようよ | 我們離婚吧 \[2023]\[97/100]&#x20;
 
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 I like this show pretty much and watched it twice.
 
 ### Extremely Inappropriate | 不適切にもほどがある | 不當行為也要有個限度 \[2024] \[96/100]
@@ -107,6 +113,8 @@ Pretty fun.
 ### MIU404 \[2020]\[89/100]
 
 ### Nodame Cantabile | 交響情人夢 | のだめカンタービレ Episodes1-11 \[96/100]
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ### One Piece Season 1 (Live-Action) | 海賊王 (真人版) |  ONE PIECE (実写ドラマ) \[94/100]
 
@@ -247,6 +255,8 @@ Very meaningful to watch
 
 ### Unnatural | 非自然死亡 | アンナチュラル \[97/100] <a href="#firstheading" id="firstheading"></a>
 
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
 > **あったことを無かったことにする。そんな大人の姿を見せられたら、子供は石を投げるしかないですよ。\[**[**link**](https://www.underwater-festival.com/ed00008/)**]**
 
 If the adults don't care about the facts and don't choose to avoid evil doings, how could the children feel and grow up?
@@ -286,7 +296,7 @@ This TV series may seem absurd but it's so real. There are both good and evil in
 
 ### Money Heist | 紙房子 | ペーパー・ハウス \[89/100]
 
-### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス \[71/100] <a href="#firstheading" id="firstheading"></a>
+### Alice in Borderland | 今際之國的闖關者 | 今際の国のアリス \[80/100] <a href="#firstheading" id="firstheading"></a>
 
 Season 1 \[71/100]
 
@@ -295,6 +305,8 @@ Season 2 \[68/100]
 It's a very stupid series. The game design and the players' strategies are both silly.
 
 It needs to have logic, but there isn't much.
+
+Season 2 \[88/100]
 
 ### Designated Survivor | 指定倖存者 | サバイバー: 宿命の大統領 \[87/100] <a href="#firstheading" id="firstheading"></a>
 
@@ -308,6 +320,8 @@ It needs to have logic, but there isn't much.
 
 ### Midnight Diner | 深夜食堂 | 深夜食堂 Season1-3 \[96/100]
 
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
 『しんやしょくどう』
 
 Toyko Series is not that good
@@ -319,8 +333,6 @@ Toyko Series is not that good
 ### Heroes | 超異能英雄 | ヒーローズ \[89/100]
 
 ### Prison Break | 越獄 | プリズン・ブレイク \[90/100]
-
-
 
 
 

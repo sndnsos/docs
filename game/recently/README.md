@@ -21,8 +21,7 @@ description: Newer content is on top.
 
 **"Bold"** means I love the game much
 
-"\*" Means I didn't actually play/finish the game.\
-
+"\*" Means I didn't actually play/finish the game.<br>
 
 ### 2025
 
@@ -31,8 +30,7 @@ description: Newer content is on top.
 ### 2024
 
 1. Minds Beneath Us
-2. Metaphor: ReFantazio\
-
+2. Metaphor: ReFantazio<br>
 
 ### 2023
 
@@ -190,7 +188,7 @@ description: Newer content is on top.
 
 『しろき せいはい のじょおう』
 
-### Endless Monday: Dreams and Deadlines  | 永不結束的星期一：夢想與截止期限 
+### Endless Monday: Dreams and Deadlines  | 永不結束的星期一：夢想與截止期限<br>
 
 
 

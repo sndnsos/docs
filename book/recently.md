@@ -25,6 +25,7 @@ description: Newer content is on top.
 * Lord of the Flies | 蝇王
 * The Elementals of Style | 英文寫作指南
 * The Plum in the Golden Vase | 金瓶梅
+* The Art of Loving | 愛的藝術&#x20;
 
 ### A Theory of Justice | 正義論 \[1971]
 
@@ -275,15 +276,15 @@ by Jules Verne 朱爾·凡爾納 \[France]
 
 ### Journey to the West | 西遊記
 
-by [Wu Cheng'en](https://en.wikipedia.org/wiki/Wu\_Cheng'en) 吳承恩
+by [Wu Cheng'en](https://en.wikipedia.org/wiki/Wu_Cheng'en) 吳承恩
 
 ### Water Margin | 水滸傳
 
-by [Shi Nai'an](https://en.wikipedia.org/wiki/Shi\_Nai'an) 施耐庵
+by [Shi Nai'an](https://en.wikipedia.org/wiki/Shi_Nai'an) 施耐庵
 
 ### Romance\_of\_the\_Three\_Kingdoms | 三國演義
 
-by [Luo Guanzhong](https://en.wikipedia.org/wiki/Luo\_Guanzhong) 羅貫中
+by [Luo Guanzhong](https://en.wikipedia.org/wiki/Luo_Guanzhong) 羅貫中
 
 ### One Thousand and One Nights | 一千零一夜 <a href="#firstheading" id="firstheading"></a>
 

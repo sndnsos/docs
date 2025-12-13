@@ -50,6 +50,12 @@ description: Newer content is on top.
 
 ### Tomorrow, I'll Be Someone's Girlfriend | 明天，我會成為誰的女友 | 明日、私は誰かのカノジョ\[2022] <a href="#firstheading" id="firstheading"></a>
 
+### Scandal Eve | スキャンダルイブ \[2025]
+
+### Just a bit Espers | ちょっとだけエスパー \[2025]
+
+### Emergency Interrogation Room | 緊急取調室
+
 
 
 

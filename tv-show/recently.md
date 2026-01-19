@@ -28,9 +28,9 @@ description: Newer content is on top.
 
 ### THE EXPERT OF CHANGING JOBS | 転職の魔王様 | 轉職的魔王
 
-### NANA
+### NANA | NANA | NANA
 
-### He Who Can't Marry
+### He Who Can't Marry | 結婚できない男 | 不能結婚的男人
 
 ### 太陽が動かない
 
@@ -56,9 +56,13 @@ description: Newer content is on top.
 
 ## \[Watched Live/TV Show]
 
+### Naoki Hanzawa | 半沢直樹 | 半澤直樹 \[2013, 2020] \[97/100]&#xD;
+
+### Nagareboshi | 流れ星 | 流星 \[2010] \[95/100]
+
 ### Just a bit Espers | ちょっとだけエスパー \[2025] \[76/100]
 
-### First Love 初恋 初戀 \[89/100]
+### First Love 初恋 | 初戀 \[89/100]
 
 ### Quartet | カルテット | 四重奏 \[95/100] <a href="#firstheading" id="firstheading"></a>
 

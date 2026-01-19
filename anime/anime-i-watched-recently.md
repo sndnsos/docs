@@ -6,7 +6,7 @@ description: Japanese Anime
 
 ## \[To Watch] <a href="#firstheading" id="firstheading"></a>
 
-### Hunter x Hunter
+### Hunter x Hunter | Hunter x Hunter | ハンター×ハンター
 
 ### That Time I Got Reincarnated as a Slime | 關於我轉生變成史萊姆這檔事 | 転生したらスライムだった件
 
@@ -18,7 +18,9 @@ description: Japanese Anime
 
 ### Dr. Stone | Dr.STONE 新石紀&#x20;
 
-### メイドインアビス <a href="#firstheading" id="firstheading"></a>
+### Made in Abyss | 來自深淵 | メイドインアビス <a href="#firstheading" id="firstheading"></a>
+
+### BEASTARS | BEASTARS | ビースターズ
 
 
 
@@ -38,8 +40,6 @@ Season 1-2
 
 ### The Dangers in My Heart | 我內心的糟糕念頭 | 僕の心のヤバイやつ
 
-
-
 ### The Quintessential Quintuplets | 五等分的新娘 | 五等分の花嫁 \[2019-2021]&#x20;
 
 『ごとうぶんのはなよめ』
@@ -58,11 +58,19 @@ Season 1-2
 
 ### Darling in the Franxx | ダーリン・イン・ザ・フランキス \[2018]
 
-### Orb: On the Movements of the Earth | 地。-關於地球的運動- | チ。-地球の運動について- \[2024] \[95/100]
+### Chikawa | ちいかわ なんか小さくてかわいいやつ | 吉伊卡哇 \[2022]
+
+### My Melody & Kuromi | マイメロディとクロミ&#xD;
+
+### BLACK JACK | ブラック・ジャック | 怪醫黑傑克
 
 
 
 ## \[Watched]
+
+### Violet Evergarden |  ヴァイオレット・エヴァーガーデン | 紫羅蘭永恆花園 \[2018]&#x20;
+
+### Orb: On the Movements of the Earth | 地。-關於地球的運動- | チ。-地球の運動について- \[2024] \[95/100]
 
 ### Uzumaki | 漩渦 | うずまき \[2024] \[91/100]
 

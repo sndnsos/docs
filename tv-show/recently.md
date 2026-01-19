@@ -28,11 +28,9 @@ description: Newer content is on top.
 
 ### THE EXPERT OF CHANGING JOBS | 転職の魔王様 | 轉職的魔王
 
-### First Love
-
 ### NANA
 
-### He who can't marry
+### He Who Can't Marry
 
 ### 太陽が動かない
 
@@ -52,17 +50,15 @@ description: Newer content is on top.
 
 ### Scandal Eve | スキャンダルイブ \[2025]
 
-### Just a bit Espers | ちょっとだけエスパー \[2025]
-
 ### Emergency Interrogation Room | 緊急取調室
 
 
 
-
-
-
-
 ## \[Watched Live/TV Show]
+
+### Just a bit Espers | ちょっとだけエスパー \[2025] \[76/100]
+
+### First Love 初恋 初戀 \[89/100]
 
 ### Quartet | カルテット | 四重奏 \[95/100] <a href="#firstheading" id="firstheading"></a>
 

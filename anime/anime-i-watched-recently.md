@@ -68,7 +68,11 @@ Season 1-2
 
 ## \[Watched]
 
-### Violet Evergarden |  ヴァイオレット・エヴァーガーデン | 紫羅蘭永恆花園 \[2018]&#x20;
+### Back Street Girls&#xD; \| Back Street Girls ゴクドルズ | 後街女孩 \[96/100] <a href="#firstheading" id="firstheading"></a>
+
+### The Fragrant Flower Blooms with Dignity | 薫る花は凛と咲く | 薰香花朵凛然綻放 \[2025] \[97/100]
+
+### Violet Evergarden |  ヴァイオレット・エヴァーガーデン | 紫羅蘭永恆花園 \[2018] \[97/100]
 
 ### Orb: On the Movements of the Earth | 地。-關於地球的運動- | チ。-地球の運動について- \[2024] \[95/100]
 

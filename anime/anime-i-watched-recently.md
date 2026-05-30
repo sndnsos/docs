@@ -74,7 +74,7 @@ Season 1-2
 
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
-###
+
 
 ### Natsume's Book of Friends 夏目友人帳 | 夏目友人帳 \[2008-2017] \[/] <a href="#firstheading" id="firstheading"></a>
 
@@ -90,15 +90,15 @@ Season 1-2
 
 ### BLACK JACK | ブラック・ジャック | 怪醫黑傑克
 
-
-
-Witch Hat Atelier | とんがり帽子のアトリエ | 魔法帽的工作室&#x20;
+### Witch Hat Atelier | とんがり帽子のアトリエ | 魔法帽的工作室&#x20;
 
 
 
 ## \[Watched]
 
-### Ishuzoku Reviewers 異種族風俗娘評鑑指南 異種族レビュアーズ ]\[2020] (98881231132Ahobits | 人型電腦天使心 | ちょびっツ \[2002] \[90/100]
+### Ishuzoku Reviewers 異種族風俗娘評鑑指南 異種族レビュアーズ \[2020] \[88/100]
+
+### Chobits | 人型電腦天使心 | ちょびっツ \[2002] \[90/100]
 
 ### Darling in the Franxx | ダーリン・イン・ザ・フランキス \[2018] \[81/100]
 

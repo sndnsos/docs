@@ -24,6 +24,34 @@ description: Japanese Anime
 
 
 
+
+
+### Miru Tights | みるタイツ | 絲襪視界
+
+Ganbare Doukichan | がんばれ同期ちゃん | 加油吧同期醬&#x20;
+
+### High School DxD | ハイスクールD×D | 惡魔高校D×D
+
+### My Dress-Up Darling | 戀上換裝娃娃 (更衣人偶墜入愛河 ) | その着せ替え人形は恋をする
+
+### Rascal Does Not Dream | 青春豬頭少年不會夢到兔女郎學姊  | 青春ブタ野郎シリーズ
+
+### Uchi no Maid ga Uzasugiru! | 我家的女僕有夠煩  | うちのメイドがウザすぎる!
+
+### 2.5 Dimensional Seduction | 2.5次元の誘惑 | 2.5次元的誘惑&#x20;
+
+『にてんごじげんのリリサ』
+
+### Gushing over Magical Girls | 夢想成為魔法少女 | 魔法少女にあこがれて
+
+『まほうしょうじょにあこがれて』
+
+
+
+
+
+
+
 ## \[Watching]
 
 ### GeGeGe no Kitarō | 鬼太郎 | ゲゲゲの鬼太郎
@@ -46,7 +74,7 @@ Season 1-2
 
 ### One Piece | **海賊王 |** ワンピース \[95/100]
 
-### Chobits | 人型電腦天使心 | ちょびっツ \[2002] \[ / ]
+###
 
 ### Natsume's Book of Friends 夏目友人帳 | 夏目友人帳 \[2008-2017] \[/] <a href="#firstheading" id="firstheading"></a>
 
@@ -56,8 +84,6 @@ Season 1-2
 
 『せんねん けっせん へん』
 
-### Darling in the Franxx | ダーリン・イン・ザ・フランキス \[2018]
-
 ### Chikawa | ちいかわ なんか小さくてかわいいやつ | 吉伊卡哇 \[2022]
 
 ### My Melody & Kuromi | マイメロディとクロミ&#xD;
@@ -66,7 +92,15 @@ Season 1-2
 
 
 
+Witch Hat Atelier | とんがり帽子のアトリエ | 魔法帽的工作室&#x20;
+
+
+
 ## \[Watched]
+
+### Ishuzoku Reviewers 異種族風俗娘評鑑指南 異種族レビュアーズ ]\[2020] (98881231132Ahobits | 人型電腦天使心 | ちょびっツ \[2002] \[90/100]
+
+### Darling in the Franxx | ダーリン・イン・ザ・フランキス \[2018] \[81/100]
 
 ### Back Street Girls&#xD; \| Back Street Girls ゴクドルズ | 後街女孩 \[96/100] <a href="#firstheading" id="firstheading"></a>
 
